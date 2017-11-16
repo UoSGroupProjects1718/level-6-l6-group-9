@@ -12077,3 +12077,568 @@ Script call stack:
 [2017.11.15-14.49.08:369][499]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/inventory_structure_Auto30AE6071244E0D102B82BA88D628886F7.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/UI/Inventory/inventory_structure_Auto3.uasset'
 [2017.11.15-14.49.08:373][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/UI/Inventory/inventory_structure_Auto3.uasset
 [2017.11.15-14.49.08:373][499]LogFileHelpers: Auto-saving content packages took 0.375
+[2017.11.15-15.32.56:888][355]BlueprintLog: New page: Compile MyChar
+[2017.11.15-15.33.23:059][500]LogSavePackage: Save=213.07ms
+[2017.11.15-15.33.23:059][500]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/ThirdPersonExampleMap_Auto4406B2516415D1AA430E523ADFCD377F4.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2017.11.15-15.33.23:062][500]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2017.11.15-15.33.23:066][500]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.599
+[2017.11.15-15.33.23:066][500]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.599
+[2017.11.15-15.33.23:073][500]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Inventory/MyChar] ([1] browsable assets)...
+[2017.11.15-15.33.23:116][500]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UI/Inventory/MyChar.MyChar]
+[2017.11.15-15.33.23:116][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Inventory/MyChar]
+[2017.11.15-15.33.23:367][500]LogSavePackage: Save=224.15ms
+[2017.11.15-15.33.23:367][500]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/MyChar_Auto44395F4F942BEF4A4BE6FA79ABDC5CD36.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/UI/Inventory/MyChar_Auto4.uasset'
+[2017.11.15-15.33.23:371][500]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/UI/Inventory/MyChar_Auto4.uasset
+[2017.11.15-15.33.23:371][500]LogFileHelpers: Auto-saving content packages took 0.300
+[2017.11.15-15.41.11:948][ 98]LogEditorTransaction: Undo Create Pin Link
+[2017.11.15-15.41.13:348][224]LogEditorTransaction: Undo Create Pin Link
+[2017.11.15-15.41.14:686][318]LogEditorTransaction: Redo Create Pin Link
+[2017.11.15-15.41.15:135][356]LogEditorTransaction: Redo Create Pin Link
+[2017.11.15-15.41.39:314][283]BlueprintLog: New page: Compile MyChar
+[2017.11.15-15.41.49:741][133]BlueprintLog: New page: Compile MyChar
+[2017.11.15-15.41.52:610][334]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.15-15.41.52:659][334]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-15.41.52:659][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.15-15.41.52:659][334]PIE: New page: PIE session: ThirdPersonExampleMap (15 Nov 2017 15:41:52)
+[2017.11.15-15.41.52:660][334]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.15-15.41.52:686][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026073s)
+[2017.11.15-15.41.52:687][334]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.15-15.41.52:688][334]LogPlayLevel: PIE: World Init took: (0.001503s)
+[2017.11.15-15.41.52:688][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028056s)
+[2017.11.15-15.41.52:739][334]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.15-15.41.52:759][334]LogInit: FAudioDevice initialized.
+[2017.11.15-15.41.52:794][334]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.15-15.41.52:797][334]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.15-15.41.52
+[2017.11.15-15.41.52:797][334]LogWorld: Bringing up level for play took: 0.001377
+[2017.11.15-15.41.52:799][334]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.071
+[2017.11.15-15.41.52:799][334]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-15.42.01:813][ 91]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-15.42.01:859][ 91]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-15.45.39:070][374]BlueprintLog: New page: Compile MyChar
+[2017.11.15-15.45.41:725][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Inventory/MyChar" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/UI/Inventory/MyChar.uasset" SILENT=true
+[2017.11.15-15.45.42:012][487]LogSavePackage: Save=258.44ms
+[2017.11.15-15.45.42:012][487]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/MyCharC43627BC45A6A24162DFEC9131CF7C94.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/UI/Inventory/MyChar.uasset'
+[2017.11.15-15.45.42:020][487]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/UI/Inventory/MyChar.uasset
+[2017.11.15-15.45.43:479][552]LogSavePackage: Save=198.87ms
+[2017.11.15-15.45.43:480][552]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/ThirdPersonExampleMapFE025A77428EB90728493C84CCD4E0F3.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.15-15.45.43:488][552]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.15-15.45.43:946][552]LogSavePackage: Save=116.89ms
+[2017.11.15-15.45.43:946][552]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/ThirdPersonExampleMap_BuiltDataC99144BB47DF41945DE03D8202B0C37B.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.15-15.45.43:950][552]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.15-15.45.49:906][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Inventory/inventory_structure" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/UI/Inventory/inventory_structure.uasset" SILENT=true
+[2017.11.15-15.45.49:933][894]LogSavePackage: Save=3.50ms
+[2017.11.15-15.45.49:933][894]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/inventory_structure07222C0D43EC5E5F4DA484AC9FFC3FC0.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/UI/Inventory/inventory_structure.uasset'
+[2017.11.15-15.45.49:941][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/UI/Inventory/inventory_structure.uasset
+[2017.11.15-15.45.57:254][319]BlueprintLog: New page: Compile Inventory_UI
+[2017.11.15-15.45.57:311][319]LogBlueprint: Error: [Compiler Inventory_UI] In use pin  Item Data  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2017.11.15-15.45.57:377][319]LogBlueprint: Warning: [Compiler Inventory_UI] [7090.08] Compile of Inventory_UI failed. 1 Fatal Issue(s) 0 Warning(s) [in 123 ms] (/Game/UI/Inventory/Inventory_UI.Inventory_UI)
+[2017.11.15-15.46.29:679][153]BlueprintLog: New page: Compile Inventory_UI
+[2017.11.15-15.46.31:524][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Inventory/Inventory_UI" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/UI/Inventory/Inventory_UI.uasset" SILENT=true
+[2017.11.15-15.46.31:583][256]LogSavePackage: Save=33.81ms
+[2017.11.15-15.46.31:583][256]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Inventory_UIE1E130FE4BD2C810A9E4A8B119B4D932.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/UI/Inventory/Inventory_UI.uasset'
+[2017.11.15-15.46.31:590][256]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/UI/Inventory/Inventory_UI.uasset
+[2017.11.15-16.39.44:791][ 38]LogHttp: Warning: 0000017F3005E980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.15-16.39.44:791][ 38]LogHttp: Warning: 0000017F3005E980: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x17e28e53bc8 [can pipeline])
+[2017.11.15-16.39.44:791][ 38]LogHttp: Warning: 0000017F3005E980: libcurl info message cache 1 (Connection 137 seems to be dead!)
+[2017.11.15-16.39.44:791][ 38]LogHttp: Warning: 0000017F3005E980: libcurl info message cache 2 (Closing connection 137)
+[2017.11.15-16.39.44:791][ 38]LogHttp: Warning: 0000017F3005E980: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.15-16.39.44:791][ 38]LogHttp: Warning: 0000017F3005E980: libcurl info message cache 4 (Closing connection 138)
+[2017.11.15-16.39.52:230][109]LogSavePackage: Save=1050.91ms
+[2017.11.15-16.39.52:230][109]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/ThirdPersonExampleMap_Auto5BE33EAB74DFD29EFFE1558AAE3112A2B.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2017.11.15-16.39.52:284][109]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap
+[2017.11.15-16.39.52:328][109]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.487
+[2017.11.15-16.39.52:328][109]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.487
+[2017.11.15-16.40.08:991][669]LogSavePackage: Save=647.14ms
+[2017.11.15-16.40.08:991][669]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/ThirdPersonExampleMap023FA67A4B8E85705E48949F35CE470C.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.15-16.40.09:017][669]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.15-16.40.09:670][669]LogSavePackage: Save=433.99ms
+[2017.11.15-16.40.09:670][669]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/ThirdPersonExampleMap_BuiltData745FFA424D29E77999A85BB287B8AE98.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.15-16.40.09:682][669]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.15-16.41.45:328][507]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.15-16.41.45:422][507]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-16.41.45:423][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.15-16.41.45:423][507]PIE: New page: PIE session: ThirdPersonExampleMap (15 Nov 2017 16:41:45)
+[2017.11.15-16.41.45:424][507]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.15-16.41.45:477][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053677s)
+[2017.11.15-16.41.45:480][507]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.15-16.41.45:480][507]LogPlayLevel: PIE: World Init took: (0.002982s)
+[2017.11.15-16.41.45:481][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.057108s)
+[2017.11.15-16.41.45:547][507]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.15-16.41.45:569][507]LogInit: FAudioDevice initialized.
+[2017.11.15-16.41.45:605][507]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.15-16.41.45:607][507]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.11.15-16.41.45
+[2017.11.15-16.41.45:608][507]LogWorld: Bringing up level for play took: 0.002024
+[2017.11.15-16.41.45:611][507]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.895
+[2017.11.15-16.41.45:612][507]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-16.46.21:570][803]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-16.46.21:662][803]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-16.47.41:419][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/music" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/music.uasset" SILENT=true
+[2017.11.15-16.47.41:425][170]LogSavePackage: Save=3.62ms
+[2017.11.15-16.47.41:425][170]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/music1FD5EA0B4CF790905802FA8C8F11BF7B.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/music.uasset'
+[2017.11.15-16.47.41:432][170]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/music.uasset
+[2017.11.15-16.49.02:545][948]AssetReimport: New page: Outstanding source content changes 16:49:02
+[2017.11.15-16.49.02:751][949]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Doja_Cat_-_So_High_Kodak_To_Graph_Remix_.wav)
+[2017.11.15-16.49.08:198][949]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Doja_Cat_-_So_High_Kodak_To_Graph_Remix_.Doja_Cat_-_So_High_Kodak_To_Graph_Remix_.
+[2017.11.15-16.49.08:327][950]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.15-16.49.08:763][950]LogSavePackage: Save=387.50ms
+[2017.11.15-16.49.08:763][950]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Doja_Cat_-_So_High_Kodak_To_Grap28FF56E04682B4062505A2985F81459B.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Doja_Cat_-_So_High_Kodak_To_Graph_Remix_.uasset'
+[2017.11.15-16.49.08:770][950]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Doja_Cat_-_So_High_Kodak_To_Graph_Remix_.uasset
+[2017.11.15-16.49.11:780][975]AssetReimport: Importing new asset /Game/Doja_Cat_-_So_High_Kodak_To_Graph_Remix_.
+[2017.11.15-16.49.49:768][882]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.15-16.49.49:861][882]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-16.49.49:862][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.15-16.49.49:862][882]PIE: New page: PIE session: ThirdPersonExampleMap (15 Nov 2017 16:49:49)
+[2017.11.15-16.49.49:864][882]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.15-16.49.49:923][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059202s)
+[2017.11.15-16.49.49:926][882]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.15-16.49.49:927][882]LogPlayLevel: PIE: World Init took: (0.003494s)
+[2017.11.15-16.49.49:928][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.063949s)
+[2017.11.15-16.49.50:094][882]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.15-16.49.50:156][882]LogInit: FAudioDevice initialized.
+[2017.11.15-16.49.50:208][882]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.15-16.49.50:214][882]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.11.15-16.49.50
+[2017.11.15-16.49.50:215][882]LogWorld: Bringing up level for play took: 0.004317
+[2017.11.15-16.49.50:222][882]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.495
+[2017.11.15-16.49.50:223][882]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-16.52.00:080][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-16.52.00:149][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-16.52.13:786][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.15-16.52.13:849][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-16.52.13:850][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.15-16.52.13:850][ 70]PIE: New page: PIE session: ThirdPersonExampleMap (15 Nov 2017 16:52:13)
+[2017.11.15-16.52.13:852][ 70]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.15-16.52.13:884][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031503s)
+[2017.11.15-16.52.13:885][ 70]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.15-16.52.13:885][ 70]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2017.11.15-16.52.13:885][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033462s)
+[2017.11.15-16.52.13:958][ 70]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.15-16.52.13:976][ 70]LogInit: FAudioDevice initialized.
+[2017.11.15-16.52.14:010][ 70]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.15-16.52.14:012][ 70]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.11.15-16.52.14
+[2017.11.15-16.52.14:013][ 70]LogWorld: Bringing up level for play took: 0.001462
+[2017.11.15-16.52.14:015][ 70]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.702
+[2017.11.15-16.52.14:015][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-16.53.31:357][382]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-16.53.31:441][382]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.15-16.54.27:582][ 24]LogEditorViewport: Clicking on Actor (LMB): MyChar_C (MyChar)
+[2017.11.15-16.57.08:518][211]LogSavePackage: Save=262.41ms
+[2017.11.15-16.57.08:518][211]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/ThirdPersonExampleMap4C81C8DE4992F727772F3484F4841641.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.15-16.57.08:527][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.15-16.57.08:719][211]LogSavePackage: Save=113.41ms
+[2017.11.15-16.57.08:719][211]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/ThirdPersonExampleMap_BuiltData2FF5C2B84F591149EB728B99B14CC885.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.15-16.57.08:723][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.15-16.57.24:474][400]LogGameProjectGeneration: Verbose: 'C:/Program Files/Epic Games/UE_4.18/Templates/TP_TopDownBP/Media/TP_TopDownBP.png': Skipping as it is in an ignored folder 'Media'
+[2017.11.15-16.57.24:474][400]LogGameProjectGeneration: Verbose: 'C:/Program Files/Epic Games/UE_4.18/Templates/TP_TopDownBP/Media/TP_TopDownBP_Preview.png': Skipping as it is in an ignored folder 'Media'
+[2017.11.15-16.57.25:540][401]Cmd: CLOSE_SLATE_MAINFRAME
+[2017.11.15-16.57.27:994][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/animation/BodyA1" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/BodyA1.uasset" SILENT=true
+[2017.11.15-16.57.28:059][401]LogSavePackage: Save=54.84ms
+[2017.11.15-16.57.28:059][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/BodyA154EECC434181DB4A11E9EDAD451371F0.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/BodyA1.uasset'
+[2017.11.15-16.57.28:079][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/BodyA1.uasset
+[2017.11.15-16.57.28:154][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/animation/BodyA2" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/BodyA2.uasset" SILENT=true
+[2017.11.15-16.57.28:250][401]LogSavePackage: Save=84.90ms
+[2017.11.15-16.57.28:250][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/BodyA248A7B1D74C1400AA99669CA8A60783C8.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/BodyA2.uasset'
+[2017.11.15-16.57.28:272][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/BodyA2.uasset
+[2017.11.15-16.57.28:403][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/animation/BodyC1" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/BodyC1.uasset" SILENT=true
+[2017.11.15-16.57.28:469][401]LogSavePackage: Save=55.54ms
+[2017.11.15-16.57.28:469][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/BodyC1AAE3BCB84675A9D6CA7928877CB831E8.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/BodyC1.uasset'
+[2017.11.15-16.57.28:495][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/BodyC1.uasset
+[2017.11.15-16.57.28:557][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/animation/BodyC2" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/BodyC2.uasset" SILENT=true
+[2017.11.15-16.57.28:593][401]LogSavePackage: Save=27.87ms
+[2017.11.15-16.57.28:594][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/BodyC28B90FE684EB1C123CFBBF5B94CC5E6F2.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/BodyC2.uasset'
+[2017.11.15-16.57.28:614][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/BodyC2.uasset
+[2017.11.15-16.57.28:745][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/animation/Eye5" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Eye5.uasset" SILENT=true
+[2017.11.15-16.57.28:817][401]LogSavePackage: Save=62.97ms
+[2017.11.15-16.57.28:817][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Eye565977BE24256616DF2AC59A2711E1EA5.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Eye5.uasset'
+[2017.11.15-16.57.28:842][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Eye5.uasset
+[2017.11.15-16.57.28:929][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/animation/Eye6" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Eye6.uasset" SILENT=true
+[2017.11.15-16.57.28:985][401]LogSavePackage: Save=46.51ms
+[2017.11.15-16.57.28:985][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Eye6DD9468004A8251B01383B08AD61C0789.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Eye6.uasset'
+[2017.11.15-16.57.29:014][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Eye6.uasset
+[2017.11.15-16.57.29:126][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/animation/Idle" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Idle.uasset" SILENT=true
+[2017.11.15-16.57.29:274][401]LogSavePackage: Save=137.93ms
+[2017.11.15-16.57.29:274][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Idle7B9D2BAF4A8CFAC94F43D5843773778A.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Idle.uasset'
+[2017.11.15-16.57.29:304][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Idle.uasset
+[2017.11.15-16.57.29:482][401]LogSavePackage: Save=55.88ms
+[2017.11.15-16.57.29:482][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Idle_Anim_mixamo_comB8049F1149BC7398C1B307BFF1747585.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Idle_Anim_mixamo_com.uasset'
+[2017.11.15-16.57.29:512][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Idle_Anim_mixamo_com.uasset
+[2017.11.15-16.57.29:623][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/animation/Idle_Anim_Take_001" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Idle_Anim_Take_001.uasset" SILENT=true
+[2017.11.15-16.57.29:688][401]LogSavePackage: Save=54.55ms
+[2017.11.15-16.57.29:688][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Idle_Anim_Take_0010391722E47A8D34D3DADFD948811DDFC.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Idle_Anim_Take_001.uasset'
+[2017.11.15-16.57.29:716][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Idle_Anim_Take_001.uasset
+[2017.11.15-16.57.29:836][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/animation/Idle_PhysicsAsset" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Idle_PhysicsAsset.uasset" SILENT=true
+[2017.11.15-16.57.29:899][401]LogSavePackage: Save=53.77ms
+[2017.11.15-16.57.29:899][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Idle_PhysicsAsset42853A81486A104BA60E64A79193718A.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Idle_PhysicsAsset.uasset'
+[2017.11.15-16.57.29:927][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/Idle_PhysicsAsset.uasset
+[2017.11.15-16.57.30:055][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/animation/LIris2" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/LIris2.uasset" SILENT=true
+[2017.11.15-16.57.30:126][401]LogSavePackage: Save=61.38ms
+[2017.11.15-16.57.30:126][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/LIris276A794594E4175E571F4C0B37DC5A614.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/LIris2.uasset'
+[2017.11.15-16.57.30:159][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/LIris2.uasset
+[2017.11.15-16.57.30:208][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/animation/LIris3" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/LIris3.uasset" SILENT=true
+[2017.11.15-16.57.30:231][401]LogSavePackage: Save=13.28ms
+[2017.11.15-16.57.30:231][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/LIris3783B88B3454D9A287F072388F62EB940.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/LIris3.uasset'
+[2017.11.15-16.57.30:265][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/LIris3.uasset
+[2017.11.15-16.57.30:396][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/animation/RIris2" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/RIris2.uasset" SILENT=true
+[2017.11.15-16.57.30:459][401]LogSavePackage: Save=52.98ms
+[2017.11.15-16.57.30:459][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/RIris2D980CD7D45C7AD7528544683CB7E2981.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/RIris2.uasset'
+[2017.11.15-16.57.30:484][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/RIris2.uasset
+[2017.11.15-16.57.30:528][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/animation/RIris3" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/RIris3.uasset" SILENT=true
+[2017.11.15-16.57.30:551][401]LogSavePackage: Save=12.83ms
+[2017.11.15-16.57.30:551][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/RIris39873544A4CA24B05FEE5DEB0C139F0CF.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/RIris3.uasset'
+[2017.11.15-16.57.30:586][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/animation/RIris3.uasset
+[2017.11.15-16.57.30:710][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/BodyA1" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/BodyA1.uasset" SILENT=true
+[2017.11.15-16.57.30:775][401]LogSavePackage: Save=54.95ms
+[2017.11.15-16.57.30:775][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/BodyA187119B7A496E036788B9A68DF1E8A731.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/BodyA1.uasset'
+[2017.11.15-16.57.30:804][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/BodyA1.uasset
+[2017.11.15-16.57.30:881][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/BodyA2" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/BodyA2.uasset" SILENT=true
+[2017.11.15-16.57.30:975][401]LogSavePackage: Save=84.75ms
+[2017.11.15-16.57.30:975][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/BodyA20A942AC94966293EE3A80BA861E5CBD1.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/BodyA2.uasset'
+[2017.11.15-16.57.31:003][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/BodyA2.uasset
+[2017.11.15-16.57.31:128][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/BodyC1" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/BodyC1.uasset" SILENT=true
+[2017.11.15-16.57.31:195][401]LogSavePackage: Save=56.95ms
+[2017.11.15-16.57.31:195][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/BodyC1E6EE49114AAA305DAD2123A750377681.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/BodyC1.uasset'
+[2017.11.15-16.57.31:225][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/BodyC1.uasset
+[2017.11.15-16.57.31:284][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/BodyC2" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/BodyC2.uasset" SILENT=true
+[2017.11.15-16.57.31:322][401]LogSavePackage: Save=29.83ms
+[2017.11.15-16.57.31:323][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/BodyC23794F57C4B0F86BE25477FBC03B32D3A.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/BodyC2.uasset'
+[2017.11.15-16.57.31:344][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/BodyC2.uasset
+[2017.11.15-16.57.31:468][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/Eye5" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Eye5.uasset" SILENT=true
+[2017.11.15-16.57.31:530][401]LogSavePackage: Save=53.18ms
+[2017.11.15-16.57.31:530][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Eye5CAC8F5924AEA29745C1F0EAD0C340CC3.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Eye5.uasset'
+[2017.11.15-16.57.31:557][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Eye5.uasset
+[2017.11.15-16.57.31:636][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/Eye6" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Eye6.uasset" SILENT=true
+[2017.11.15-16.57.31:695][401]LogSavePackage: Save=48.93ms
+[2017.11.15-16.57.31:695][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Eye63617AE7D4A2BB797EE3038B279D8EB07.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Eye6.uasset'
+[2017.11.15-16.57.31:724][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Eye6.uasset
+[2017.11.15-16.57.31:830][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/Incineroar" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Incineroar.uasset" SILENT=true
+[2017.11.15-16.57.31:972][401]LogSavePackage: Save=132.26ms
+[2017.11.15-16.57.31:973][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Incineroar8983A8E7492A18194549E497788EA4DE.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Incineroar.uasset'
+[2017.11.15-16.57.32:003][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Incineroar.uasset
+[2017.11.15-16.57.32:110][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/Incineroar_Anim" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Incineroar_Anim.uasset" SILENT=true
+[2017.11.15-16.57.32:168][401]LogSavePackage: Save=47.78ms
+[2017.11.15-16.57.32:168][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Incineroar_Anim0AEB1ABA44CFC79238A48AB7BEE56966.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Incineroar_Anim.uasset'
+[2017.11.15-16.57.32:209][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Incineroar_Anim.uasset
+[2017.11.15-16.57.32:320][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/Incineroar_PhysicsAsset" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Incineroar_PhysicsAsset.uasset" SILENT=true
+[2017.11.15-16.57.32:371][401]LogSavePackage: Save=42.20ms
+[2017.11.15-16.57.32:371][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Incineroar_PhysicsAsset2FD8B0F6462585F4A51E9BAF8E9931EA.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Incineroar_PhysicsAsset.uasset'
+[2017.11.15-16.57.32:394][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Incineroar_PhysicsAsset.uasset
+[2017.11.15-16.57.32:426][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/Incineroar_Skeleton" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Incineroar_Skeleton.uasset" SILENT=true
+[2017.11.15-16.57.32:447][401]LogSavePackage: Save=11.65ms
+[2017.11.15-16.57.32:447][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Incineroar_Skeleton1B8147B94659E5AA724E11A2EFFB532B.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Incineroar_Skeleton.uasset'
+[2017.11.15-16.57.32:477][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/Incineroar_Skeleton.uasset
+[2017.11.15-16.57.32:600][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/LIris2" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/LIris2.uasset" SILENT=true
+[2017.11.15-16.57.32:661][401]LogSavePackage: Save=51.80ms
+[2017.11.15-16.57.32:661][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/LIris28C29EDC14DCC42860A2C17BE10F1594F.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/LIris2.uasset'
+[2017.11.15-16.57.32:695][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/LIris2.uasset
+[2017.11.15-16.57.32:744][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/LIris3" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/LIris3.uasset" SILENT=true
+[2017.11.15-16.57.32:767][401]LogSavePackage: Save=14.05ms
+[2017.11.15-16.57.32:767][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/LIris3D098818F4673EAA9C1C96D91989B3BBA.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/LIris3.uasset'
+[2017.11.15-16.57.32:795][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/LIris3.uasset
+[2017.11.15-16.57.32:917][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/RIris2" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/RIris2.uasset" SILENT=true
+[2017.11.15-16.57.32:984][401]LogSavePackage: Save=57.64ms
+[2017.11.15-16.57.32:984][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/RIris2192CBCC2462003E32117398CBC12E0CF.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/RIris2.uasset'
+[2017.11.15-16.57.33:014][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/RIris2.uasset
+[2017.11.15-16.57.33:060][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pet/RIris3" FILE="../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/RIris3.uasset" SILENT=true
+[2017.11.15-16.57.33:082][401]LogSavePackage: Save=13.13ms
+[2017.11.15-16.57.33:082][401]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/RIris34CBC0DAE4F7E6F011D6DFF9392536A61.tmp' to '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/RIris3.uasset'
+[2017.11.15-16.57.33:109][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Pet/RIris3.uasset
+[2017.11.15-16.57.36:626][402]Cmd: QUIT_EDITOR
+[2017.11.15-16.57.37:564][402]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.15-16.57.37:697][402]LogExit: Preparing to exit.
+[2017.11.15-16.57.39:082][402]LogDirectoryWatcher: A directory notification for 'C:/Users/Quwaine/Documents/Unreal Projects/MyProject/Content/' was aborted.
+[2017.11.15-16.57.39:509][402]LogExit: Editor shut down
+[2017.11.15-16.57.39:595][402]LogExit: Transaction tracking system shut down
+[2017.11.15-16.57.40:184][402]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.15-16.57.40:184][402]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Quwaine/Documents/Unreal Projects/MyProject/Content/' was aborted.
+[2017.11.15-16.57.40:184][402]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.15-16.57.40:184][402]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.11.15-16.57.40:184][402]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.11.15-16.57.40:184][402]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.15-16.57.40:185][402]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.15-16.57.40:603][402]LogExit: Object subsystem successfully closed.
+[2017.11.15-16.57.40:769][402]LogD3D11RHI: Shutdown
+[2017.11.15-16.57.40:769][402]LogD3D11RHI: CleanupD3DDevice
+[2017.11.15-16.57.40:790][402]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.15-16.57.40:974][402]LogModuleManager: Shutting down and abandoning module SkeletonEditor (558)
+[2017.11.15-16.57.40:974][402]LogModuleManager: Shutting down and abandoning module AnimationEditor (556)
+[2017.11.15-16.57.40:974][402]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2017.11.15-16.57.40:997][402]LogModuleManager: Shutting down and abandoning module SequencerWidgets (552)
+[2017.11.15-16.57.40:997][402]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2017.11.15-16.57.40:998][402]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.11.15-16.57.40:998][402]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.11.15-16.57.40:998][402]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.11.15-16.57.40:998][402]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.11.15-16.57.41:023][402]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.11.15-16.57.41:023][402]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.11.15-16.57.41:023][402]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.11.15-16.57.41:023][402]LogDirectoryWatcher: A directory notification for 'C:/Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Collections/' was aborted.
+[2017.11.15-16.57.41:023][402]LogDirectoryWatcher: A directory notification for 'C:/Users/Quwaine/Documents/Unreal Projects/MyProject/Content/Developers/Quwaine/Collections/' was aborted.
+[2017.11.15-16.57.41:023][402]LogDirectoryWatcher: A directory notification for 'C:/Users/Quwaine/Documents/Unreal Projects/MyProject/Saved/Collections/' was aborted.
+[2017.11.15-16.57.41:024][402]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.11.15-16.57.41:024][402]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.11.15-16.57.41:024][402]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.11.15-16.57.41:024][402]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.11.15-16.57.41:024][402]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.11.15-16.57.41:024][402]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.11.15-16.57.41:024][402]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.11.15-16.57.41:024][402]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.11.15-16.57.41:024][402]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.11.15-16.57.41:024][402]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.11.15-16.57.41:024][402]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.11.15-16.57.41:025][402]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.11.15-16.57.41:025][402]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.11.15-16.57.41:025][402]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.11.15-16.57.41:025][402]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.11.15-16.57.41:025][402]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.11.15-16.57.41:026][402]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.11.15-16.57.41:026][402]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.11.15-16.57.41:026][402]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.11.15-16.57.41:026][402]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.11.15-16.57.41:026][402]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.11.15-16.57.41:026][402]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.11.15-16.57.41:026][402]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.11.15-16.57.41:026][402]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.11.15-16.57.41:026][402]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.11.15-16.57.41:026][402]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.11.15-16.57.41:026][402]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.11.15-16.57.41:027][402]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.11.15-16.57.41:027][402]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.11.15-16.57.41:027][402]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.11.15-16.57.41:027][402]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.11.15-16.57.41:027][402]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.11.15-16.57.41:027][402]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.11.15-16.57.41:027][402]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.11.15-16.57.41:027][402]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.11.15-16.57.41:028][402]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.11.15-16.57.41:029][402]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.11.15-16.57.41:030][402]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.11.15-16.57.41:030][402]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.11.15-16.57.41:030][402]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.11.15-16.57.41:030][402]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.11.15-16.57.41:706][402]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.11.15-16.57.41:706][402]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.11.15-16.57.41:706][402]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.11.15-16.57.41:706][402]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.11.15-16.57.41:706][402]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.11.15-16.57.41:706][402]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.11.15-16.57.41:706][402]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.11.15-16.57.41:707][402]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.11.15-16.57.41:707][402]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.11.15-16.57.41:707][402]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.11.15-16.57.41:707][402]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.11.15-16.57.41:707][402]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.11.15-16.57.41:707][402]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.11.15-16.57.41:707][402]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.11.15-16.57.41:707][402]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.11.15-16.57.41:707][402]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.11.15-16.57.41:707][402]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.11.15-16.57.41:708][402]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.11.15-16.57.41:708][402]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.11.15-16.57.41:708][402]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.11.15-16.57.41:709][402]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.11.15-16.57.41:709][402]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.11.15-16.57.41:709][402]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.11.15-16.57.41:709][402]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.11.15-16.57.41:775][402]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.11.15-16.57.41:775][402]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.11.15-16.57.41:775][402]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.11.15-16.57.41:775][402]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.11.15-16.57.41:775][402]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.11.15-16.57.41:776][402]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.11.15-16.57.41:777][402]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.11.15-16.57.41:777][402]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.11.15-16.57.41:777][402]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.11.15-16.57.41:777][402]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.11.15-16.57.41:827][402]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.11.15-16.57.41:827][402]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.11.15-16.57.41:827][402]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.11.15-16.57.41:827][402]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.11.15-16.57.41:827][402]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.11.15-16.57.41:827][402]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.11.15-16.57.41:827][402]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.11.15-16.57.41:832][402]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.11.15-16.57.41:832][402]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.11.15-16.57.41:832][402]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.11.15-16.57.41:832][402]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.11.15-16.57.41:832][402]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.11.15-16.57.41:832][402]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.11.15-16.57.41:832][402]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.11.15-16.57.41:832][402]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.11.15-16.57.41:832][402]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.11.15-16.57.41:832][402]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.11.15-16.57.41:833][402]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.11.15-16.57.41:833][402]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.11.15-16.57.41:833][402]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.11.15-16.57.42:013][402]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.11.15-16.57.42:013][402]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.11.15-16.57.42:013][402]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.11.15-16.57.42:013][402]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.11.15-16.57.42:013][402]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.11.15-16.57.42:013][402]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.11.15-16.57.42:013][402]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.11.15-16.57.42:013][402]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.11.15-16.57.42:013][402]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.11.15-16.57.42:013][402]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.11.15-16.57.42:013][402]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.11.15-16.57.42:013][402]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.11.15-16.57.42:014][402]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.11.15-16.57.42:014][402]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.11.15-16.57.42:014][402]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.11.15-16.57.42:014][402]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.11.15-16.57.42:014][402]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.11.15-16.57.42:014][402]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.11.15-16.57.42:014][402]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.11.15-16.57.42:014][402]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.11.15-16.57.42:014][402]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.11.15-16.57.42:016][402]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.11.15-16.57.42:016][402]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.11.15-16.57.42:016][402]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.11.15-16.57.42:016][402]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.11.15-16.57.42:016][402]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.11.15-16.57.42:016][402]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.11.15-16.57.42:016][402]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.11.15-16.57.42:016][402]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.11.15-16.57.42:017][402]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.11.15-16.57.42:017][402]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.11.15-16.57.42:017][402]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.11.15-16.57.42:017][402]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.11.15-16.57.42:017][402]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.11.15-16.57.42:017][402]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.11.15-16.57.42:021][402]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.11.15-16.57.42:021][402]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.11.15-16.57.42:021][402]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.11.15-16.57.42:022][402]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.11.15-16.57.42:022][402]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.11.15-16.57.42:022][402]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.11.15-16.57.42:022][402]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.11.15-16.57.42:022][402]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.11.15-16.57.42:023][402]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.11.15-16.57.42:023][402]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.11.15-16.57.42:023][402]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.11.15-16.57.42:124][402]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.11.15-16.57.42:225][402]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.11.15-16.57.42:225][402]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.11.15-16.57.42:225][402]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.11.15-16.57.42:225][402]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.11.15-16.57.42:225][402]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.11.15-16.57.42:225][402]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.11.15-16.57.42:230][402]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.11.15-16.57.42:230][402]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.11.15-16.57.42:230][402]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.11.15-16.57.42:230][402]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.11.15-16.57.42:231][402]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.11.15-16.57.42:231][402]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.11.15-16.57.42:231][402]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.11.15-16.57.42:231][402]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.11.15-16.57.42:231][402]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.11.15-16.57.42:232][402]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.11.15-16.57.42:239][402]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.11.15-16.57.42:239][402]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.11.15-16.57.42:239][402]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.11.15-16.57.42:239][402]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.11.15-16.57.42:239][402]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.11.15-16.57.42:239][402]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.11.15-16.57.42:239][402]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.11.15-16.57.42:239][402]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.11.15-16.57.42:239][402]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.11.15-16.57.42:239][402]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.11.15-16.57.42:239][402]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.11.15-16.57.42:240][402]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.11.15-16.57.42:240][402]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.11.15-16.57.42:240][402]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.11.15-16.57.42:240][402]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.11.15-16.57.42:240][402]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.11.15-16.57.42:253][402]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.11.15-16.57.42:253][402]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.11.15-16.57.42:253][402]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.11.15-16.57.42:253][402]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.11.15-16.57.42:253][402]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.11.15-16.57.42:253][402]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.11.15-16.57.42:253][402]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.11.15-16.57.42:253][402]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.11.15-16.57.42:271][402]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.15-16.57.42:272][402]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.11.15-16.57.42:272][402]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.11.15-16.57.42:272][402]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.11.15-16.57.42:272][402]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.11.15-16.57.42:272][402]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.11.15-16.57.42:272][402]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.11.15-16.57.42:272][402]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.11.15-16.57.42:273][402]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.11.15-16.57.42:298][402]LogDerivedDataCache: Shutdown
+[2017.11.15-16.57.42:298][402]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.11.15-16.57.42:298][402]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.11.15-16.57.42:298][402]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.11.15-16.57.42:299][402]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.11.15-16.57.42:299][402]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.11.15-16.57.42:299][402]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.11.15-16.57.42:299][402]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.11.15-16.57.42:299][402]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.11.15-16.57.42:299][402]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.11.15-16.57.42:299][402]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.11.15-16.57.42:299][402]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.11.15-16.57.42:299][402]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.11.15-16.57.42:299][402]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.11.15-16.57.42:300][402]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.11.15-16.57.42:300][402]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.11.15-16.57.42:300][402]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.11.15-16.57.42:300][402]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.11.15-16.57.42:300][402]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.11.15-16.57.42:300][402]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.11.15-16.57.42:300][402]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.11.15-16.57.42:300][402]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.11.15-16.57.42:300][402]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.11.15-16.57.42:300][402]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.11.15-16.57.42:300][402]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.11.15-16.57.42:300][402]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.11.15-16.57.42:300][402]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.11.15-16.57.42:301][402]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.11.15-16.57.42:302][402]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.11.15-16.57.42:302][402]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.11.15-16.57.42:302][402]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.11.15-16.57.42:302][402]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.11.15-16.57.42:302][402]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.11.15-16.57.42:302][402]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.11.15-16.57.42:302][402]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.15-16.57.42:302][402]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.15-16.57.42:302][402]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.15-16.57.42:302][402]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.15-16.57.42:302][402]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.11.15-16.57.42:302][402]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B84E2A901-40C3-D3E4-EA53-73B767E9D9DD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.0-3709383%2B%2B%2BUE4%2BRelease-4.18&UserID=2ba027674298d1d89f44efbd3f7bfd1b%7Cdac078262b654195b72eb187434c019b%7C78bda70f-a84b-463c-a418-7b09ca8944fe&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.15-16.57.42:302][402]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B84E2A901-40C3-D3E4-EA53-73B767E9D9DD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.0-3709383%2B%2B%2BUE4%2BRelease-4.18&UserID=2ba027674298d1d89f44efbd3f7bfd1b%7Cdac078262b654195b72eb187434c019b%7C78bda70f-a84b-463c-a418-7b09ca8944fe&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.15-16.57.42:316][402]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.15-16.57.42:322][402]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.15-16.57.42:337][402]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.15-16.57.42:338][402]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.15-16.57.42:338][402]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.15-16.57.42:338][402]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.15-16.57.42:338][402]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.15-16.57.42:338][402]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.15-16.57.42:381][402]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.15-16.57.42:381][402]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.15-16.57.42:381][402]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.15-16.57.42:381][402]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.15-16.57.42:381][402]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.15-16.57.42:381][402]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.15-16.57.42:381][402]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.15-16.57.42:381][402]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.15-16.57.42:381][402]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.15-16.57.42:381][402]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.15-16.57.42:381][402]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.15-16.57.42:389][402]LogExit: Exiting.
+[2017.11.15-16.57.42:439][402]Log file closed, 11/15/17 16:57:42

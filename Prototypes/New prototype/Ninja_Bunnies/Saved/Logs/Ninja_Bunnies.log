@@ -1,0 +1,1127 @@
+﻿Log file open, 01/17/18 16:48:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Ninja_Bunnies
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1842310882) SRandInit(-1842310881).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.163997
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.17-16.48.07:175][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.17-16.48.07:175][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.17-16.48.07:275][  0]LogInit: Computer: DESKTOP-5PTATBL
+[2018.01.17-16.48.07:275][  0]LogInit: User: Administrator
+[2018.01.17-16.48.07:275][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.17-16.48.07:275][  0]LogInit: High frequency timer resolution =3.410071 MHz
+[2018.01.17-16.48.07:275][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.01.17-16.48.07:275][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.17-16.48.07:275][  0]LogMemory: Process Physical Memory: 278.12 MB used, 278.12 MB peak
+[2018.01.17-16.48.07:275][  0]LogMemory: Process Virtual Memory: 274.42 MB used, 274.42 MB peak
+[2018.01.17-16.48.07:275][  0]LogMemory: Physical Memory: 12428.72 MB used,  20198.81 MB free, 32627.54 MB total
+[2018.01.17-16.48.07:275][  0]LogMemory: Virtual Memory: 666.24 MB used,  20198.81 MB free, 134217728.00 MB total
+[2018.01.17-16.48.07:416][  0]LogInit: Using OS detected language (en-US).
+[2018.01.17-16.48.07:416][  0]LogInit: Using OS detected locale (en-GB).
+[2018.01.17-16.48.07:419][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.17-16.48.08:471][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.17-16.48.08:492][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.01.17-16.48.08:492][  0]LogD3D11RHI:       4058/0/16313 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.17-16.48.08:493][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.17-16.48.08:493][  0]LogD3D11RHI:       0/0/16313 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.17-16.48.08:493][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.17-16.48.08:498][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.17-16.48.08:498][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.17-16.48.08:498][  0]LogWindows: EnumDisplayDevices:
+[2018.01.17-16.48.08:499][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.01.17-16.48.08:499][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.01.17-16.48.08:499][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.17-16.48.08:499][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.01.17-16.48.08:499][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.01.17-16.48.08:499][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.01.17-16.48.08:499][  0]LogD3D11RHI:   Driver Version: 372.90 (internal:21.21.13.7290, unified:372.90)
+[2018.01.17-16.48.08:499][  0]LogD3D11RHI:      Driver Date: 9-16-2016
+[2018.01.17-16.48.08:499][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.01.17-16.48.08:511][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.17-16.48.08:521][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.17-16.48.08:617][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Intermediate/Shaders/WorkingDirectory/9608/).
+[2018.01.17-16.48.08:617][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/956974464173E4011748449AEF9664A0/'.
+[2018.01.17-16.48.08:617][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.17-16.48.09:696][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.17-16.48.09:775][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.17-16.48.09:825][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.17-16.48.09:888][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.17-16.48.09:984][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.17-16.48.10:070][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.17-16.48.10:125][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.17-16.48.10:177][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.17-16.48.10:214][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.17-16.48.10:272][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.17-16.48.10:314][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.17-16.48.10:358][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.17-16.48.10:400][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.17-16.48.10:442][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.17-16.48.10:484][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.17-16.48.10:570][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.17-16.48.10:570][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.17-16.48.10:604][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.17-16.48.10:756][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.17-16.48.10:781][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.17-16.48.10:822][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.17-16.48.10:865][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.17-16.48.10:906][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.17-16.48.10:959][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.17-16.48.10:959][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.17-16.48.11:485][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.17-16.48.13:079][  0]LogDerivedDataCache: Loaded boot cache 1.59s 93MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.17-16.48.13:079][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.01.17-16.48.13:080][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.17-16.48.13:080][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.17-16.48.13:080][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.17-16.48.13:080][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.17-16.48.13:097][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.17-16.48.13:109][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.17-16.48.13:118][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.17-16.48.13:119][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.17-16.48.13:144][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.17-16.48.13:144][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.17-16.48.16:353][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2018.01.17-16.48.16:460][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.17-16.48.17:078][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.17-16.48.17:119][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.17-16.48.17:119][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.17-16.48.17:119][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.17-16.48.17:119][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.17-16.48.17:119][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.17-16.48.17:125][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.01.17-16.48.17:532][  0]LogNetVersion: Ninja_Bunnies , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1886342967)
+[2018.01.17-16.48.17:731][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.057790 seconds
+[2018.01.17-16.48.17:737][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.01.17-16.48.17:737][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.01.17-16.48.17:737][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.17-16.48.17:788][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.17-16.49.06:256][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.17-16.49.06:301][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.17-16.49.07:086][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.17-16.49.07:646][  0]SourceControl: Source control is disabled
+[2018.01.17-16.49.07:646][  0]SourceControl: Source control is disabled
+[2018.01.17-16.49.07:692][  0]SourceControl: Source control is disabled
+[2018.01.17-16.49.07:733][  0]SourceControl: Source control is disabled
+[2018.01.17-16.49.08:342][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.17-16.49.08:559][  0]LogOcInput: OculusInput pre-init called
+[2018.01.17-16.49.08:839][  0]LogEngine: Initializing Engine...
+[2018.01.17-16.49.08:874][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.01.17-16.49.09:554][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.17-16.49.09:554][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.17-16.49.09:680][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.17-16.49.09:685][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.17-16.49.09:694][  0]LogInit: FAudioDevice initialized.
+[2018.01.17-16.49.10:013][  0]LogDerivedDataCache: Saved boot cache 0.32s 93MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.17-16.49.10:031][  0]LogInit: Texture streaming: Enabled
+[2018.01.17-16.49.10:139][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.17-16.49.10:500][  0]LogInit: Transaction tracking system initialized
+[2018.01.17-16.49.10:779][  0]BlueprintLog: New page: Editor Load
+[2018.01.17-16.49.11:678][  0]LogInit: Warning: CVar named 'r.MobileHDR' marked up in RendererSettings was not found or is set to read-only
+[2018.01.17-16.49.11:943][  0]LocalizationService: Localization service is disabled
+[2018.01.17-16.49.12:749][  0]LogConsoleResponse: Display: 
+[2018.01.17-16.49.13:307][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.17-16.49.13:307][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.17-16.49.13:307][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.17-16.49.14:423][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/' took 0.01s
+[2018.01.17-16.49.14:474][  0]SourceControl: Source control is disabled
+[2018.01.17-16.49.14:526][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.17/FeaturePacks/StarterContent.upack)
+[2018.01.17-16.49.14:573][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.01.17-16.49.14:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.01.17-16.49.14:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.01.17-16.49.14:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.01.17-16.49.14:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.01.17-16.49.14:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.01.17-16.49.14:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.01.17-16.49.14:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.01.17-16.49.14:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.01.17-16.49.14:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.01.17-16.49.14:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.01.17-16.49.14:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.01.17-16.49.14:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.01.17-16.49.14:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.01.17-16.49.14:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.01.17-16.49.14:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.01.17-16.49.14:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.01.17-16.49.14:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.01.17-16.49.14:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Fire01.uasset"
+[2018.01.17-16.49.14:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.01.17-16.49.14:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.01.17-16.49.14:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.01.17-16.49.14:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Light01.uasset"
+[2018.01.17-16.49.15:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.01.17-16.49.15:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Light02.uasset"
+[2018.01.17-16.49.15:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.01.17-16.49.15:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.01.17-16.49.15:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.01.17-16.49.15:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.01.17-16.49.15:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.01.17-16.49.15:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.01.17-16.49.15:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.01.17-16.49.15:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.01.17-16.49.15:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.01.17-16.49.15:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Steam01.uasset"
+[2018.01.17-16.49.15:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.01.17-16.49.15:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.01.17-16.49.15:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.01.17-16.49.15:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.01.17-16.49.15:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.01.17-16.49.15:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.01.17-16.49.15:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.01.17-16.49.15:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.01.17-16.49.15:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.01.17-16.49.15:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.01.17-16.49.15:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.01.17-16.49.15:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.01.17-16.49.15:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.01.17-16.49.15:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.01.17-16.49.15:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.01.17-16.49.15:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.01.17-16.49.15:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.01.17-16.49.17:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.01.17-16.49.17:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.01.17-16.49.17:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.01.17-16.49.17:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.01.17-16.49.17:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.01.17-16.49.17:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Maps/StarterMap.umap"
+[2018.01.17-16.49.17:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.01.17-16.49.17:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.01.17-16.49.17:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.01.17-16.49.17:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.01.17-16.49.17:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.01.17-16.49.17:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.01.17-16.49.17:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.01.17-16.49.17:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.01.17-16.49.17:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.01.17-16.49.17:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.01.17-16.49.17:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.01.17-16.49.17:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.01.17-16.49.17:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.01.17-16.49.17:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.01.17-16.49.17:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.01.17-16.49.17:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.01.17-16.49.17:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.01.17-16.49.17:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.01.17-16.49.17:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.01.17-16.49.17:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.01.17-16.49.17:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.01.17-16.49.17:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.01.17-16.49.17:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.01.17-16.49.17:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.01.17-16.49.17:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.01.17-16.49.17:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.01.17-16.49.17:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.01.17-16.49.18:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.01.17-16.49.18:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.01.17-16.49.18:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.01.17-16.49.18:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.01.17-16.49.18:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.01.17-16.49.18:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.01.17-16.49.18:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.01.17-16.49.18:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.01.17-16.49.18:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.01.17-16.49.18:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.01.17-16.49.18:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.01.17-16.49.18:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.01.17-16.49.18:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.01.17-16.49.18:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.01.17-16.49.18:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.01.17-16.49.18:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.01.17-16.49.18:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.01.17-16.49.18:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.01.17-16.49.18:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.01.17-16.49.18:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.01.17-16.49.18:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.01.17-16.49.18:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.01.17-16.49.18:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.01.17-16.49.18:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.01.17-16.49.18:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.01.17-16.49.18:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.01.17-16.49.18:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.01.17-16.49.18:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.01.17-16.49.18:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.01.17-16.49.18:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.01.17-16.49.18:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.01.17-16.49.18:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.01.17-16.49.18:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.01.17-16.49.18:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.01.17-16.49.18:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.01.17-16.49.18:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.01.17-16.49.18:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.01.17-16.49.18:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.01.17-16.49.18:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_Door.uasset"
+[2018.01.17-16.49.18:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.01.17-16.49.18:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.01.17-16.49.18:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.01.17-16.49.18:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.01.17-16.49.18:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.01.17-16.49.18:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.01.17-16.49.18:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.01.17-16.49.19:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.01.17-16.49.19:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.01.17-16.49.19:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.01.17-16.49.19:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.01.17-16.49.19:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.01.17-16.49.19:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.01.17-16.49.19:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.01.17-16.49.19:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.01.17-16.49.19:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.01.17-16.49.19:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.01.17-16.49.19:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.01.17-16.49.19:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.01.17-16.49.19:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.01.17-16.49.19:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.01.17-16.49.19:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.01.17-16.49.19:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.01.17-16.49.19:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.01.17-16.49.19:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.01.17-16.49.19:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.01.17-16.49.19:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.01.17-16.49.19:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.01.17-16.49.19:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.01.17-16.49.19:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.01.17-16.49.20:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.01.17-16.49.20:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.01.17-16.49.20:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.01.17-16.49.20:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.01.17-16.49.20:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.01.17-16.49.20:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.01.17-16.49.20:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.01.17-16.49.20:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.01.17-16.49.20:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.01.17-16.49.20:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.01.17-16.49.20:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.01.17-16.49.20:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.01.17-16.49.20:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.01.17-16.49.20:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.01.17-16.49.20:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.01.17-16.49.20:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.01.17-16.49.20:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.01.17-16.49.20:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.01.17-16.49.20:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.01.17-16.49.20:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.01.17-16.49.20:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.01.17-16.49.20:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.01.17-16.49.21:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.01.17-16.49.21:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.01.17-16.49.21:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.01.17-16.49.21:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.01.17-16.49.21:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.01.17-16.49.21:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.01.17-16.49.21:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.01.17-16.49.21:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.01.17-16.49.21:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.01.17-16.49.21:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.01.17-16.49.21:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.01.17-16.49.21:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.01.17-16.49.21:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.01.17-16.49.21:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.01.17-16.49.21:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.01.17-16.49.21:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.01.17-16.49.21:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.01.17-16.49.21:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.01.17-16.49.21:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.01.17-16.49.21:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.01.17-16.49.21:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.01.17-16.49.22:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.01.17-16.49.22:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.01.17-16.49.22:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.01.17-16.49.22:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.01.17-16.49.22:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.01.17-16.49.22:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.01.17-16.49.22:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.01.17-16.49.22:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.01.17-16.49.22:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.01.17-16.49.22:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.01.17-16.49.22:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.01.17-16.49.22:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.01.17-16.49.22:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.01.17-16.49.22:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.01.17-16.49.23:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.01.17-16.49.23:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.01.17-16.49.23:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.01.17-16.49.23:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.01.17-16.49.23:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.01.17-16.49.23:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.01.17-16.49.23:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.01.17-16.49.23:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.01.17-16.49.23:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.01.17-16.49.23:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.01.17-16.49.23:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.01.17-16.49.23:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.01.17-16.49.23:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.01.17-16.49.23:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.01.17-16.49.24:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.01.17-16.49.24:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.01.17-16.49.24:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.01.17-16.49.24:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.01.17-16.49.24:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.01.17-16.49.24:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.01.17-16.49.24:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.01.17-16.49.24:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.01.17-16.49.24:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.01.17-16.49.24:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.01.17-16.49.24:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.01.17-16.49.24:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.01.17-16.49.24:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.01.17-16.49.24:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.01.17-16.49.24:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.01.17-16.49.24:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.01.17-16.49.24:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.01.17-16.49.25:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.01.17-16.49.25:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.01.17-16.49.25:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.01.17-16.49.25:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.01.17-16.49.25:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.01.17-16.49.25:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.01.17-16.49.25:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.01.17-16.49.25:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.01.17-16.49.26:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.01.17-16.49.26:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.01.17-16.49.26:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.01.17-16.49.26:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.01.17-16.49.26:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.01.17-16.49.26:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.01.17-16.49.26:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.01.17-16.49.26:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.01.17-16.49.26:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.01.17-16.49.26:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.01.17-16.49.26:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.01.17-16.49.26:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.01.17-16.49.26:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.01.17-16.49.26:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.01.17-16.49.26:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.01.17-16.49.26:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.01.17-16.49.26:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.01.17-16.49.26:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.01.17-16.49.26:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.01.17-16.49.26:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.01.17-16.49.27:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.01.17-16.49.27:306][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2018.01.17-16.49.27:401][  0]LogStaticMesh: Built static mesh [0.12s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2018.01.17-16.49.28:023][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.01.17-16.49.28:231][  0]LogSavePackage: Save=69.14ms
+[2018.01.17-16.49.28:231][  0]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Saved/Floor_400x400A10453CA47FE7DAD4883C18852373017.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.01.17-16.49.28:236][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.01.17-16.49.28:237][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.01.17-16.49.28:241][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.17-16.49.28:254][  0]LightingResults: New page: Lighting Build
+[2018.01.17-16.49.28:293][  0]MapCheck: New page: Map Check
+[2018.01.17-16.49.28:293][  0]LightingResults: New page: Lighting Build
+[2018.01.17-16.49.30:166][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.01.17-16.49.30:261][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.17-16.49.30:271][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.17-16.49.30:317][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.3ms to complete.
+[2018.01.17-16.49.30:317][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 2.077
+[2018.01.17-16.49.30:652][  0]LogCollectionManager: Loaded 0 collections in 0.001274 seconds
+[2018.01.17-16.49.30:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Saved/Collections/' took 0.01s
+[2018.01.17-16.49.30:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/Developers/Administrator/Collections/' took 0.01s
+[2018.01.17-16.49.30:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/Collections/' took 0.01s
+[2018.01.17-16.49.30:777][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.17-16.49.30:785][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2386 classes and 500 folders.
+[2018.01.17-16.49.30:849][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.01.17-16.49.32:483][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.01.17-16.49.32:527][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.01.17-16.49.32:559][  0]LogSlate: Took 0.013757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.17-16.49.32:574][  0]LogSlate: Took 0.012884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.17-16.49.32:595][  0]LogSlate: Took 0.016429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.17-16.49.32:923][  0]LogRenderer: Reallocating scene render targets to support 1208x668 Format 10 NumSamples 1 (Frame:1).
+[2018.01.17-16.49.33:350][  0]LogSlate: Took 0.054064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.17-16.49.33:907][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.01.17-16.49.33:926][  0]LogLoad: (Engine Initialization) Total time: 88.27 seconds
+[2018.01.17-16.49.33:926][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.17-16.49.33:926][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.17-16.49.33:926][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.17-16.49.34:546][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.17-16.49.34:635][  1]LogAssetRegistry: Asset discovery search completed in 78.3036 seconds
+[2018.01.17-16.49.34:637][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.17-16.49.34:637][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2018.01.17-16.49.39:751][ 15]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.01.17-16.49.56:200][490]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.01.17-16.50.24:636][734]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.01.17-16.50.36:963][164]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (RightEdge)
+[2018.01.17-16.50.37:942][260]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (LeftEdge)
+[2018.01.17-16.50.40:871][593]Cmd: TRANSACTION UNDO
+[2018.01.17-16.50.40:871][593]LogEditorTransaction: Undo Scale Actors
+[2018.01.17-16.50.40:985][593]LogSlate: Took 0.007970 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.17-16.50.43:608][887]Cmd: TRANSACTION UNDO
+[2018.01.17-16.50.43:608][887]LogEditorTransaction: Undo Scale Actors
+[2018.01.17-16.50.50:957][753]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (RightEdge)
+[2018.01.17-16.50.55:705][309]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.01.17-16.51.05:138][428]LogEditorViewport: Clicking Background
+[2018.01.17-16.51.06:044][535]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.01.17-16.51.06:522][586]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_26)
+[2018.01.17-16.59.34:343][563]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.17-16.59.34:523][563]LogSavePackage: Save=102.02ms
+[2018.01.17-16.59.34:523][563]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Saved/2DSideScrollerExampleMap_Auto104DF747E4FF0C997688822B45009910C.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2018.01.17-16.59.34:524][563]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap
+[2018.01.17-16.59.34:536][563]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.154
+[2018.01.17-16.59.34:536][563]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.154
+[2018.01.17-18.41.39:025][187]LogEditorViewport: Clicking Background
+[2018.01.17-18.41.50:646][550]Cmd: TRANSACTION UNDO
+[2018.01.17-18.41.50:646][550]LogEditorTransaction: Undo Move Actors
+[2018.01.17-18.42.03:518][991]Cmd: TRANSACTION UNDO
+[2018.01.17-18.42.03:518][991]LogEditorTransaction: Undo Move Actors
+[2018.01.17-18.42.04:206][ 46]LogEditorViewport: Clicking Background
+[2018.01.17-18.42.07:506][425]Cmd: TRANSACTION UNDO
+[2018.01.17-18.42.07:506][425]LogEditorTransaction: Undo Rotate Actors
+[2018.01.17-18.42.13:508][121]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.01.17-18.42.13:961][165]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_26)
+[2018.01.17-18.42.22:709][205]Cmd: TRANSACTION UNDO
+[2018.01.17-18.42.22:709][205]LogEditorTransaction: Undo Scale Actors
+[2018.01.17-18.42.54:106][911]LogSavePackage: Save=41.25ms
+[2018.01.17-18.42.54:107][911]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Saved/2DSideScrollerExampleMap_Auto2CEBBC4DB4F408A6847B8908BCD065531.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2018.01.17-18.42.54:107][911]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap
+[2018.01.17-18.42.54:109][911]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.086
+[2018.01.17-18.42.54:109][911]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.086
+[2018.01.17-18.44.37:460][302]LogSlate: Took 0.013816 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.17-18.44.40:404][629]LogActorFactory: Actor Factory created Cube
+[2018.01.17-18.44.42:012][815]LogActorFactory: Actor Factory created Cube
+[2018.01.17-18.45.49:232][793]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_26)
+[2018.01.17-18.45.50:762][969]Cmd: DUPLICATE
+[2018.01.17-18.45.50:762][969]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.46.00:799][102]LogActorFactory: Actor Factory created Sphere
+[2018.01.17-18.46.02:432][296]LogActorFactory: Actor Factory created Cube
+[2018.01.17-18.46.04:399][531]LogActorFactory: Actor Factory created Cube
+[2018.01.17-18.46.08:207][979]LogActorFactory: Actor Factory created Sphere
+[2018.01.17-18.46.18:361][195]LogActorFactory: Actor Factory created Sphere
+[2018.01.17-18.46.21:606][575]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_33)
+[2018.01.17-18.46.32:156][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.01.17-18.46.38:557][585]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_27)
+[2018.01.17-18.46.50:782][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.17-18.46.52:037][185]Cmd: DUPLICATE
+[2018.01.17-18.46.52:037][185]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.47.04:090][622]LogActorFactory: Actor Factory created Cube
+[2018.01.17-18.47.05:546][794]LogActorFactory: Actor Factory created Cube
+[2018.01.17-18.47.10:312][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.01.17-18.47.10:712][396]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.01.17-18.47.18:925][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.01.17-18.47.31:219][823]Cmd: DUPLICATE
+[2018.01.17-18.47.31:219][823]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.47.35:428][321]Cmd: DUPLICATE
+[2018.01.17-18.47.35:428][321]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.47.41:446][ 36]Cmd: DUPLICATE
+[2018.01.17-18.47.41:447][ 36]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.47.44:123][350]Cmd: DUPLICATE
+[2018.01.17-18.47.44:123][350]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.47.46:515][630]Cmd: DUPLICATE
+[2018.01.17-18.47.46:515][630]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.47.48:788][896]Cmd: DUPLICATE
+[2018.01.17-18.47.48:789][896]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.47.54:048][518]Cmd: DUPLICATE
+[2018.01.17-18.47.54:048][518]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.47.56:014][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.01.17-18.48.08:019][173]Cmd: DUPLICATE
+[2018.01.17-18.48.08:019][173]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.48.18:119][369]Cmd: DUPLICATE
+[2018.01.17-18.48.18:119][369]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.48.33:566][203]Cmd: DUPLICATE
+[2018.01.17-18.48.33:566][203]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.48.43:120][336]LogEditorViewport: Clicking Background
+[2018.01.17-18.48.49:046][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2018.01.17-18.48.59:179][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.01.17-18.49.06:119][ 63]LogEditorViewport: Clicking Background
+[2018.01.17-18.49.06:897][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2018.01.17-18.50.09:921][687]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_28)
+[2018.01.17-18.50.11:077][819]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_29)
+[2018.01.17-18.50.11:634][880]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_30)
+[2018.01.17-18.50.12:211][944]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_31)
+[2018.01.17-18.50.12:845][ 15]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_32)
+[2018.01.17-18.50.37:228][927]Cmd: TRANSACTION UNDO
+[2018.01.17-18.50.37:228][927]LogEditorTransaction: Undo Move Actors
+[2018.01.17-18.50.59:859][569]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_49)
+[2018.01.17-18.51.00:554][647]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_48)
+[2018.01.17-18.51.01:313][733]Cmd: DELETE
+[2018.01.17-18.51.01:313][733]Cmd: ACTOR DELETE
+[2018.01.17-18.51.01:333][733]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.01.17-18.51.01:334][733]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.01.17-18.51.01:343][733]LogEditorActor: Deleted 2 Actors (0.029 secs)
+[2018.01.17-18.51.07:034][407]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_32)
+[2018.01.17-18.51.08:582][587]Cmd: DELETE
+[2018.01.17-18.51.08:582][587]Cmd: ACTOR DELETE
+[2018.01.17-18.51.08:582][587]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.01.17-18.51.08:591][587]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2018.01.17-18.51.11:878][981]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_31)
+[2018.01.17-18.51.12:403][ 39]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_30)
+[2018.01.17-18.51.13:006][106]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_29)
+[2018.01.17-18.51.13:506][161]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_28)
+[2018.01.17-18.51.14:064][223]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_35)
+[2018.01.17-18.51.14:572][279]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_36)
+[2018.01.17-18.51.15:039][330]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_37)
+[2018.01.17-18.51.15:446][374]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_38)
+[2018.01.17-18.51.15:855][418]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_39)
+[2018.01.17-18.51.16:298][466]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_40)
+[2018.01.17-18.51.16:741][514]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_41)
+[2018.01.17-18.51.17:951][654]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_42)
+[2018.01.17-18.51.19:002][770]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_43)
+[2018.01.17-18.51.19:391][811]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_42)
+[2018.01.17-18.51.19:923][870]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_44)
+[2018.01.17-18.51.20:290][909]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_45)
+[2018.01.17-18.51.21:784][ 83]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_46)
+[2018.01.17-18.51.38:150][ 32]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_48)
+[2018.01.17-18.51.39:356][171]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_49)
+[2018.01.17-18.51.39:895][230]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_32)
+[2018.01.17-18.51.40:466][293]Cmd: DELETE
+[2018.01.17-18.51.40:466][293]Cmd: ACTOR DELETE
+[2018.01.17-18.51.40:467][293]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.01.17-18.51.40:467][293]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.01.17-18.51.40:467][293]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.01.17-18.51.40:477][293]LogEditorActor: Deleted 3 Actors (0.011 secs)
+[2018.01.17-18.51.42:949][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.01.17-18.51.44:945][811]Cmd: TRANSACTION UNDO
+[2018.01.17-18.51.44:945][811]LogEditorTransaction: Undo Move Actors
+[2018.01.17-18.52.54:079][ 14]LogSavePackage: Save=77.01ms
+[2018.01.17-18.52.54:079][ 14]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Saved/2DSideScrollerExampleMap_Auto39EE8A08948B6F3BF6FA60DAE71D8B1AC.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto3.umap'
+[2018.01.17-18.52.54:104][ 14]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto3.umap
+[2018.01.17-18.52.54:106][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.121
+[2018.01.17-18.52.54:106][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.121
+[2018.01.17-18.53.24:803][661]Cmd: TRANSACTION UNDO
+[2018.01.17-18.53.24:803][661]LogEditorTransaction: Undo Move Actors
+[2018.01.17-18.53.49:416][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.01.17-18.53.50:554][696]Cmd: DUPLICATE
+[2018.01.17-18.53.50:554][696]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.53.56:384][388]Cmd: DUPLICATE
+[2018.01.17-18.53.56:384][388]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.53.59:320][733]Cmd: DUPLICATE
+[2018.01.17-18.53.59:320][733]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.54.00:925][918]Cmd: DUPLICATE
+[2018.01.17-18.54.00:925][918]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.54.04:470][336]Cmd: DUPLICATE
+[2018.01.17-18.54.04:470][336]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.54.06:368][556]Cmd: DUPLICATE
+[2018.01.17-18.54.06:368][556]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.54.07:913][734]Cmd: DUPLICATE
+[2018.01.17-18.54.07:913][734]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.54.14:029][453]Cmd: DUPLICATE
+[2018.01.17-18.54.14:029][453]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.54.16:601][754]Cmd: DUPLICATE
+[2018.01.17-18.54.16:601][754]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.54.51:575][931]LogActorFactory: Actor Factory created Cone
+[2018.01.17-18.54.52:915][ 90]LogActorFactory: Actor Factory created Cone
+[2018.01.17-18.55.00:093][934]Cmd: DUPLICATE
+[2018.01.17-18.55.00:093][934]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.55.03:712][361]Cmd: DUPLICATE
+[2018.01.17-18.55.03:712][361]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.55.08:367][911]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone)
+[2018.01.17-18.55.08:898][969]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone2)
+[2018.01.17-18.55.16:012][805]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone)
+[2018.01.17-18.55.16:611][871]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone2)
+[2018.01.17-18.55.17:464][968]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone3)
+[2018.01.17-18.55.28:487][265]LogActorFactory: Actor Factory created Sphere
+[2018.01.17-18.55.32:394][731]LogActorFactory: Actor Factory created Sphere
+[2018.01.17-18.55.33:495][858]Cmd: DUPLICATE
+[2018.01.17-18.55.33:495][858]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.55.38:918][498]Cmd: DUPLICATE
+[2018.01.17-18.55.38:918][498]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.55.41:411][790]Cmd: DUPLICATE
+[2018.01.17-18.55.41:412][790]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.55.43:203][998]Cmd: DUPLICATE
+[2018.01.17-18.55.43:203][998]Cmd: ACTOR DUPLICATE
+[2018.01.17-18.55.45:996][326]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (GlobalPostProcessSettings)
+[2018.01.17-18.55.48:587][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere15)
+[2018.01.17-18.56.18:292][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere22)
+[2018.01.17-18.56.25:842][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere21)
+[2018.01.17-18.56.30:384][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere21)
+[2018.01.17-18.56.31:298][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere23)
+[2018.01.17-18.56.37:026][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere19)
+[2018.01.17-18.56.39:892][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere20)
+[2018.01.17-18.56.42:160][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere21)
+[2018.01.17-18.57.11:365][374]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_62)
+[2018.01.17-18.57.12:071][452]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_61)
+[2018.01.17-18.57.12:721][524]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_60)
+[2018.01.17-18.57.13:282][586]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_59)
+[2018.01.17-18.57.13:844][648]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_58)
+[2018.01.17-18.57.14:338][702]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_57)
+[2018.01.17-18.57.14:833][756]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_56)
+[2018.01.17-18.57.15:294][806]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_55)
+[2018.01.17-18.57.15:825][864]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_54)
+[2018.01.17-18.57.16:235][908]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_53)
+[2018.01.17-18.57.16:697][958]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_52)
+[2018.01.17-18.57.17:108][  2]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_51)
+[2018.01.17-18.57.17:803][ 80]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_50)
+[2018.01.17-18.57.29:859][512]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_63)
+[2018.01.17-18.57.31:591][712]Cmd: TRANSACTION UNDO
+[2018.01.17-18.57.31:591][712]LogEditorTransaction: Undo Move Actors
+[2018.01.17-18.57.32:684][822]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Ledge_64)
+[2018.01.17-18.57.42:277][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere10)
+[2018.01.17-18.57.53:569][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere9)
+[2018.01.17-18.57.57:365][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere10)
+[2018.01.17-18.58.07:922][991]Cmd: TRANSACTION UNDO
+[2018.01.17-18.58.07:922][991]LogEditorTransaction: Undo Move Actors
+[2018.01.17-18.58.17:383][ 81]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere25)
+[2018.01.17-18.58.18:406][197]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere24)
+[2018.01.17-18.58.19:599][334]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere10)
+[2018.01.17-18.58.34:066][ 36]Cmd: DELETE
+[2018.01.17-18.58.34:066][ 36]Cmd: ACTOR DELETE
+[2018.01.17-18.58.34:067][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-18.58.34:067][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-18.58.34:076][ 36]LogEditorActor: Deleted 2 Actors (0.010 secs)
+[2018.01.17-18.58.43:762][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere23)
+[2018.01.17-18.59.09:351][190]Cmd: TRANSACTION UNDO
+[2018.01.17-18.59.09:351][190]LogEditorTransaction: Undo Move Actors
+[2018.01.17-18.59.18:658][255]Cmd: TRANSACTION UNDO
+[2018.01.17-18.59.18:658][255]LogEditorTransaction: Undo Move Actors
+[2018.01.17-19.00.51:706][372]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.01.17-19.00.52:307][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2018.01.17-19.00.53:692][597]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Background_Sprite)
+[2018.01.17-19.00.55:803][839]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube16)
+[2018.01.17-19.01.20:140][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2018.01.17-19.01.45:701][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere39)
+[2018.01.17-19.01.58:812][298]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_25)
+[2018.01.17-19.02.11:816][833]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_34)
+[2018.01.17-19.02.24:265][307]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.01.17-19.02.24:743][359]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_17)
+[2018.01.17-19.02.56:373][ 55]LogActorFactory: Actor Factory created Cylinder
+[2018.01.17-19.02.57:815][227]LogActorFactory: Actor Factory created Cylinder
+[2018.01.17-19.03.04:550][ 17]LogActorFactory: Actor Factory created Cone
+[2018.01.17-19.03.07:640][386]LogActorFactory: Actor Factory created Cone
+[2018.01.17-19.03.11:839][879]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.01.17-19.03.14:358][166]LogEditorViewport: Clicking Background
+[2018.01.17-19.03.18:586][671]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2018.01.17-19.03.30:808][119]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_17)
+[2018.01.17-19.03.31:606][210]Cmd: DELETE
+[2018.01.17-19.03.31:606][210]Cmd: ACTOR DELETE
+[2018.01.17-19.03.31:606][210]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2018.01.17-19.03.31:618][210]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2018.01.17-19.03.32:193][279]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2018.01.17-19.03.48:268][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.01.17-19.03.51:931][622]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_76)
+[2018.01.17-19.04.09:076][638]LogActorFactory: Actor Factory created Cube
+[2018.01.17-19.04.10:769][840]LogActorFactory: Actor Factory created Cube
+[2018.01.17-19.04.13:737][188]LogActorFactory: Actor Factory created Sphere
+[2018.01.17-19.04.15:438][391]LogActorFactory: Actor Factory created Sphere
+[2018.01.17-19.04.17:728][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere45)
+[2018.01.17-19.04.20:392][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2018.01.17-19.04.29:204][ 13]LogActorFactory: Actor Factory created Cone
+[2018.01.17-19.04.29:487][ 46]LogActorFactory: Actor Factory created Cone
+[2018.01.17-19.04.57:425][380]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube19)
+[2018.01.17-19.04.57:990][442]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere45)
+[2018.01.17-19.05.11:405][ 27]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.01.17-19.05.18:862][912]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_51)
+[2018.01.17-19.05.19:317][961]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_12)
+[2018.01.17-19.05.31:437][399]LogActorFactory: Actor Factory created Sphere
+[2018.01.17-19.05.32:439][518]LogActorFactory: Actor Factory created Sphere
+[2018.01.17-19.05.39:504][356]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_57)
+[2018.01.17-19.05.40:221][436]Cmd: DUPLICATE
+[2018.01.17-19.05.40:221][436]Cmd: ACTOR DUPLICATE
+[2018.01.17-19.05.54:347][121]LogActorFactory: Actor Factory created Sphere
+[2018.01.17-19.05.55:492][257]LogActorFactory: Actor Factory created Sphere
+[2018.01.17-19.05.56:941][424]LogActorFactory: Actor Factory created Cube
+[2018.01.17-19.05.58:411][599]LogActorFactory: Actor Factory created Cube
+[2018.01.17-19.06.12:837][304]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.17-19.06.14:963][304]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.01.17-19.06.14:974][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.17-19.06.15:092][304]PIE: New page: PIE session: 2DSideScrollerExampleMap (17 Jan 2018 19:06:15)
+[2018.01.17-19.06.15:107][304]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.01.17-19.06.15:151][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044630s)
+[2018.01.17-19.06.15:152][304]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.01.17-19.06.15:152][304]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2018.01.17-19.06.15:162][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.061775s)
+[2018.01.17-19.06.15:192][304]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.17-19.06.15:200][304]LogInit: FAudioDevice initialized.
+[2018.01.17-19.06.15:302][304]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.01.17-19.06.15:434][304]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.01.17-19.06.15
+[2018.01.17-19.06.15:462][304]LogWorld: Bringing up level for play took: 0.038443
+[2018.01.17-19.06.15:652][304]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.01.17-19.06.15:708][304]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.224
+[2018.01.17-19.06.15:708][304]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.01.17-19.06.28:179][765]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.01.17-19.06.28:275][765]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.01.17-19.06.30:299][960]LogSavePackage: Save=152.47ms
+[2018.01.17-19.06.30:299][960]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Saved/2DSideScrollerExampleMap55ED8A0E450E33B1CD8B418673677E73.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.01.17-19.06.30:313][960]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2018.01.17-19.06.30:352][960]LogSavePackage: Save=4.39ms
+[2018.01.17-19.06.30:352][960]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Saved/2DSideScrollerExampleMap_BuiltData9D287C4A4BB9BA1CB4A6A4831A3A4494.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2018.01.17-19.06.30:353][960]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
+[2018.01.17-19.06.34:423][414]Cmd: QUIT_EDITOR
+[2018.01.17-19.06.34:548][414]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.17-19.06.34:560][414]LogExit: Preparing to exit.
+[2018.01.17-19.06.35:807][414]LogDirectoryWatcher: A directory notification for 'C:/Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/' was aborted.
+[2018.01.17-19.06.35:823][414]LogExit: Editor shut down
+[2018.01.17-19.06.35:828][414]LogExit: Transaction tracking system shut down
+[2018.01.17-19.06.36:001][414]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.17-19.06.36:001][414]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/' was aborted.
+[2018.01.17-19.06.36:001][414]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.17-19.06.36:001][414]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.17-19.06.36:001][414]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.17-19.06.36:039][414]LogExit: Object subsystem successfully closed.
+[2018.01.17-19.06.36:056][414]LogD3D11RHI: Shutdown
+[2018.01.17-19.06.36:056][414]LogD3D11RHI: CleanupD3DDevice
+[2018.01.17-19.06.36:130][414]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.17-19.06.36:144][414]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2018.01.17-19.06.36:144][414]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.01.17-19.06.36:144][414]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.01.17-19.06.36:144][414]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.01.17-19.06.36:144][414]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.01.17-19.06.36:145][414]LogDirectoryWatcher: A directory notification for 'C:/Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/Collections/' was aborted.
+[2018.01.17-19.06.36:145][414]LogDirectoryWatcher: A directory notification for 'C:/Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Content/Developers/Administrator/Collections/' was aborted.
+[2018.01.17-19.06.36:145][414]LogDirectoryWatcher: A directory notification for 'C:/Users/Administrator/Documents/Unreal Projects/Ninja_Bunnies/Saved/Collections/' was aborted.
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.01.17-19.06.36:145][414]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.01.17-19.06.36:146][414]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.01.17-19.06.36:878][414]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.01.17-19.06.36:878][414]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.01.17-19.06.36:878][414]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.01.17-19.06.36:878][414]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.01.17-19.06.36:878][414]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.01.17-19.06.36:878][414]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.01.17-19.06.36:878][414]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.01.17-19.06.36:878][414]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.01.17-19.06.36:878][414]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.01.17-19.06.36:879][414]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.01.17-19.06.36:879][414]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.01.17-19.06.36:879][414]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.01.17-19.06.36:879][414]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.01.17-19.06.36:879][414]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.01.17-19.06.36:879][414]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.01.17-19.06.36:879][414]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.01.17-19.06.36:879][414]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.01.17-19.06.36:879][414]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.01.17-19.06.36:879][414]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.01.17-19.06.36:879][414]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.01.17-19.06.36:879][414]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.01.17-19.06.36:879][414]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.01.17-19.06.36:879][414]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.01.17-19.06.36:879][414]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.01.17-19.06.36:945][414]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.01.17-19.06.36:945][414]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.01.17-19.06.36:945][414]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.01.17-19.06.36:945][414]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.01.17-19.06.36:945][414]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.01.17-19.06.36:945][414]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.01.17-19.06.36:945][414]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.01.17-19.06.36:945][414]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.01.17-19.06.36:945][414]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.01.17-19.06.36:945][414]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.01.17-19.06.36:945][414]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.01.17-19.06.36:945][414]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.01.17-19.06.36:946][414]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.01.17-19.06.37:178][414]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.01.17-19.06.37:178][414]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.01.17-19.06.37:178][414]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.01.17-19.06.37:178][414]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.01.17-19.06.37:178][414]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.01.17-19.06.37:178][414]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.01.17-19.06.37:178][414]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.01.17-19.06.37:178][414]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.01.17-19.06.37:178][414]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.01.17-19.06.37:178][414]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.01.17-19.06.37:178][414]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.01.17-19.06.37:179][414]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.01.17-19.06.37:210][414]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.01.17-19.06.37:210][414]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.01.17-19.06.37:210][414]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.01.17-19.06.37:210][414]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.01.17-19.06.37:210][414]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.01.17-19.06.37:210][414]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.01.17-19.06.37:210][414]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.01.17-19.06.37:210][414]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.01.17-19.06.37:310][414]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.01.17-19.06.37:411][414]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.01.17-19.06.37:411][414]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.01.17-19.06.37:411][414]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.01.17-19.06.37:411][414]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.01.17-19.06.37:411][414]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.01.17-19.06.37:411][414]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.01.17-19.06.37:412][414]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.01.17-19.06.37:413][414]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.01.17-19.06.37:413][414]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.01.17-19.06.37:414][414]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.01.17-19.06.37:414][414]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.01.17-19.06.37:414][414]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.01.17-19.06.37:414][414]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.01.17-19.06.37:414][414]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.01.17-19.06.37:415][414]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.01.17-19.06.37:415][414]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.17-19.06.37:415][414]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.01.17-19.06.37:415][414]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.01.17-19.06.37:415][414]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.01.17-19.06.37:415][414]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.01.17-19.06.37:415][414]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.01.17-19.06.37:415][414]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.01.17-19.06.37:415][414]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.01.17-19.06.37:415][414]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.01.17-19.06.37:415][414]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.01.17-19.06.37:415][414]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.01.17-19.06.37:484][414]LogDerivedDataCache: Shutdown
+[2018.01.17-19.06.37:484][414]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.01.17-19.06.37:484][414]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.01.17-19.06.37:484][414]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.01.17-19.06.37:484][414]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.01.17-19.06.37:484][414]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.17-19.06.37:485][414]LogOnline: Display: Unloading online subsystem: NULL
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.17-19.06.37:485][414]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.17-19.06.37:485][414]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.17-19.06.37:485][414]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3794254B-4615-C261-15BC-83A97F707179%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=089dfdf144facfd5499fc79de58fde98%7C2ed8ff0489e7442d83bd09a4de59a2bb%7C0f918d86-2868-4041-bc65-b7a615ce63e0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.17-19.06.37:490][414]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.17-19.06.37:491][414]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.17-19.06.37:491][414]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.17-19.06.37:491][414]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.17-19.06.37:491][414]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.17-19.06.37:491][414]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.17-19.06.37:491][414]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.17-19.06.37:491][414]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.17-19.06.37:492][414]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.17-19.06.37:492][414]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.17-19.06.37:492][414]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.17-19.06.37:492][414]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.17-19.06.37:492][414]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.17-19.06.37:492][414]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.17-19.06.37:492][414]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.17-19.06.37:492][414]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.17-19.06.37:492][414]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.17-19.06.37:492][414]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.17-19.06.37:492][414]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.17-19.06.37:494][414]LogExit: Exiting.
+[2018.01.17-19.06.37:508][414]Log file closed, 01/17/18 19:06:37

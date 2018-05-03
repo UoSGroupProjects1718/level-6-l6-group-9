@@ -1,0 +1,756 @@
+﻿Log file open, 12/08/17 15:45:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Year3_Group9_GreyBox
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-909681568) SRandInit(-909681568).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.159575
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.08-15.45.31:293][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.08-15.45.31:293][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.08-15.45.31:319][  0]LogInit: Computer: GAMES-105-011
+[2017.12.08-15.45.31:319][  0]LogInit: User: Games
+[2017.12.08-15.45.31:319][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.08-15.45.31:319][  0]LogInit: High frequency timer resolution =3.613339 MHz
+[2017.12.08-15.45.31:320][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.12.08-15.45.31:320][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.08-15.45.31:320][  0]LogMemory: Process Physical Memory: 281.41 MB used, 281.41 MB peak
+[2017.12.08-15.45.31:320][  0]LogMemory: Process Virtual Memory: 285.36 MB used, 285.36 MB peak
+[2017.12.08-15.45.31:320][  0]LogMemory: Physical Memory: 5276.09 MB used,  10985.64 MB free, 16261.73 MB total
+[2017.12.08-15.45.31:320][  0]LogMemory: Virtual Memory: 664.18 MB used,  10985.64 MB free, 8388608.00 MB total
+[2017.12.08-15.45.31:526][  0]LogInit: Using OS detected language (en-GB).
+[2017.12.08-15.45.31:526][  0]LogInit: Using OS detected locale (en-GB).
+[2017.12.08-15.45.31:534][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2017.12.08-15.45.32:283][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.08-15.45.32:301][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2017.12.08-15.45.32:301][  0]LogD3D11RHI:       1990/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.08-15.45.32:301][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.08-15.45.32:305][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.08-15.45.32:306][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.08-15.45.32:306][  0]LogWindows: EnumDisplayDevices:
+[2017.12.08-15.45.32:306][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2017.12.08-15.45.32:306][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2017.12.08-15.45.32:306][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2017.12.08-15.45.32:306][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2017.12.08-15.45.32:306][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.12.08-15.45.32:306][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.12.08-15.45.32:306][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.12.08-15.45.32:307][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.12.08-15.45.32:307][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2017.12.08-15.45.32:307][  0]LogD3D11RHI:   Driver Version: 353.30 (internal:10.18.13.5330, unified:353.30)
+[2017.12.08-15.45.32:307][  0]LogD3D11RHI:      Driver Date: 6-17-2015
+[2017.12.08-15.45.32:307][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.12.08-15.45.32:314][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
+[2017.12.08-15.45.32:314][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.08-15.45.32:328][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.12.08-15.45.32:334][  0]LogShaderCompilers: Guid format shader working directory is -48 characters bigger than the processId version (../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Intermediate/Shaders/WorkingDirectory/8072/).
+[2017.12.08-15.45.32:334][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Games/AppData/Local/Temp/UnrealShaderWorkingDir/DF4E16684B7E664B21B0209AC5DF4078/'.
+[2017.12.08-15.45.32:334][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.08-15.45.33:701][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.08-15.45.33:784][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.08-15.45.33:834][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.08-15.45.33:893][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.08-15.45.33:954][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.08-15.45.34:015][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.08-15.45.34:105][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.08-15.45.34:174][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.08-15.45.34:224][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.08-15.45.34:280][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.08-15.45.34:334][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.08-15.45.34:387][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.08-15.45.34:462][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.08-15.45.34:518][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.08-15.45.34:589][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.08-15.45.34:783][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.08-15.45.34:783][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.08-15.45.34:830][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.08-15.45.34:944][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.08-15.45.34:971][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.08-15.45.35:046][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.08-15.45.35:133][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.08-15.45.35:225][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.08-15.45.35:293][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.08-15.45.35:293][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.08-15.45.35:923][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.08-15.45.36:051][  0]LogDerivedDataCache: Loaded boot cache 0.13s 93MB C:/Users/Games/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.08-15.45.36:051][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Games/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.12.08-15.45.36:051][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.08-15.45.36:051][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.08-15.45.36:051][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.08-15.45.36:051][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.08-15.45.36:069][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.08-15.45.36:080][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Games/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.08-15.45.36:090][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.08-15.45.36:090][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.08-15.45.36:091][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.08-15.45.36:091][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.08-15.45.36:466][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
+[2017.12.08-15.45.36:664][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.08-15.45.36:669][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.12.08-15.45.37:216][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.08-15.45.37:281][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.08-15.45.37:281][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.08-15.45.37:282][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.08-15.45.37:282][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.08-15.45.37:282][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.08-15.45.37:721][  0]LogNetVersion: Year3_Group9_GreyBox , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4068347300)
+[2017.12.08-15.45.37:978][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.046340 seconds
+[2017.12.08-15.45.37:983][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.12.08-15.45.37:983][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.12.08-15.45.37:983][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.08-15.45.38:047][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.08-15.45.41:126][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.08-15.45.41:162][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.08-15.45.41:939][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.08-15.45.42:465][  0]SourceControl: Source control is disabled
+[2017.12.08-15.45.42:465][  0]SourceControl: Source control is disabled
+[2017.12.08-15.45.42:522][  0]SourceControl: Source control is disabled
+[2017.12.08-15.45.42:610][  0]SourceControl: Source control is disabled
+[2017.12.08-15.45.43:335][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.08-15.45.43:693][  0]LogOcInput: OculusInput pre-init called
+[2017.12.08-15.45.44:025][  0]LogEngine: Initializing Engine...
+[2017.12.08-15.45.44:027][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.08-15.45.44:325][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.08-15.45.44:325][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.08-15.45.44:507][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.08-15.45.44:522][  0]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.08-15.45.44:590][  0]LogInit: FAudioDevice initialized.
+[2017.12.08-15.45.45:294][  0]LogDerivedDataCache: Saved boot cache 0.70s 93MB C:/Users/Games/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.08-15.45.45:324][  0]LogInit: Texture streaming: Enabled
+[2017.12.08-15.45.45:518][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.08-15.45.45:838][  0]LogInit: Transaction tracking system initialized
+[2017.12.08-15.45.46:369][  0]BlueprintLog: New page: Editor Load
+[2017.12.08-15.45.47:583][  0]LocalizationService: Localization service is disabled
+[2017.12.08-15.45.48:534][  0]LogConsoleResponse: Display: 
+[2017.12.08-15.45.48:706][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.08-15.45.48:706][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.08-15.45.48:706][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.08-15.45.49:411][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/' took 0.01s
+[2017.12.08-15.45.50:280][  0]SourceControl: Source control is disabled
+[2017.12.08-15.45.50:281][  0]LightingResults: New page: Lighting Build
+[2017.12.08-15.45.50:358][  0]MapCheck: New page: Map Check
+[2017.12.08-15.45.50:358][  0]LightingResults: New page: Lighting Build
+[2017.12.08-15.45.50:946][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.08-15.45.50:966][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.08-15.45.50:979][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.08-15.45.51:034][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.346ms to complete.
+[2017.12.08-15.45.51:034][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.754
+[2017.12.08-15.45.51:212][  0]LogCollectionManager: Loaded 0 collections in 0.003468 seconds
+[2017.12.08-15.45.51:313][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Collections/' took 0.01s
+[2017.12.08-15.45.51:313][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Developers/Games/Collections/' took 0.01s
+[2017.12.08-15.45.51:313][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Collections/' took 0.01s
+[2017.12.08-15.45.51:313][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.08-15.45.51:322][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2386 classes and 500 folders.
+[2017.12.08-15.45.51:392][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.12.08-15.45.51:463][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2017.12.08-15.45.51:512][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.12.08-15.45.51:571][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.08-15.45.51:575][  0]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.08-15.45.51:582][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.08-15.45.51:724][  0]LogRenderer: Reallocating scene render targets to support 1216x656 Format 10 NumSamples 1 (Frame:1).
+[2017.12.08-15.45.51:970][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.08-15.45.51:970][  0]LogLoad: (Engine Initialization) Total time: 22.45 seconds
+[2017.12.08-15.45.51:970][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.08-15.45.51:971][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.08-15.45.51:971][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.08-15.45.52:002][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.08-15.45.52:113][  2]LogAssetRegistry: Asset discovery search completed in 15.6666 seconds
+[2017.12.08-15.45.52:114][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.08-15.45.52:114][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2017.12.08-15.45.56:074][451]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.08-15.45.58:396][722]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.08-15.45.58:551][722]LogAIModule: Creating AISystem for world Garden_Level
+[2017.12.08-15.45.58:594][722]Cmd: MAP LOAD FILE="../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Garden_Level/Garden_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.08-15.45.58:594][722]LightingResults: New page: Lighting Build
+[2017.12.08-15.45.58:595][722]LoadErrors: New page: Loading map: Garden_Level.umap
+[2017.12.08-15.45.58:596][722]MapCheck: New page: Map Check
+[2017.12.08-15.45.58:597][722]LightingResults: New page: Lighting Build
+[2017.12.08-15.45.58:727][722]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.08-15.45.58:782][722]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.08-15.45.58:843][722]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.801ms to complete.
+[2017.12.08-15.45.58:843][722]LogFileHelpers: Loading map 'Garden_Level' took 0.250
+[2017.12.08-15.46.08:738][731]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.08-15.46.09:285][731]LogRenderer: Reallocating scene render targets to support 1432x932 Format 10 NumSamples 1 (Frame:1).
+[2017.12.08-15.53.33:343][741]Cmd: TRANSACTION UNDO
+[2017.12.08-15.53.33:343][741]LogEditorTransaction: Undo Create Box Collision
+[2017.12.08-15.53.33:515][741]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.08-15.53.34:779][836]Cmd: TRANSACTION UNDO
+[2017.12.08-15.53.34:779][836]LogEditorTransaction: Undo Create Box Collision
+[2017.12.08-15.54.03:242][105]Cmd: TRANSACTION UNDO
+[2017.12.08-15.54.03:242][105]LogEditorTransaction: Undo Create Box Collision
+[2017.12.08-15.54.12:568][794]Cmd: TRANSACTION UNDO
+[2017.12.08-15.54.12:568][794]LogEditorTransaction: Undo Create Box Collision
+[2017.12.08-15.55.12:790][882]LogEditorTransaction: Undo Create Box Collision
+[2017.12.08-15.56.14:547][928]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Garden_Level/Garden_Level' took 0.018
+[2017.12.08-15.56.14:549][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Decking_Fencing] ([1] browsable assets)...
+[2017.12.08-15.56.14:564][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Decking_Fencing.Decking_Fencing]
+[2017.12.08-15.56.14:564][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Decking_Fencing]
+[2017.12.08-15.56.14:604][928]LogSavePackage: Save=21.59ms
+[2017.12.08-15.56.14:604][928]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Decking_Fencing_Auto17B51A1BF4B8DEAB39B3F7C802C81B5A8.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Decking_Fencing_Auto1.uasset'
+[2017.12.08-15.56.14:607][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Decking_Fencing_Auto1.uasset
+[2017.12.08-15.56.14:608][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Dog_Kennel] ([1] browsable assets)...
+[2017.12.08-15.56.14:625][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Dog_Kennel.Dog_Kennel]
+[2017.12.08-15.56.14:625][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Dog_Kennel]
+[2017.12.08-15.56.14:652][928]LogSavePackage: Save=17.54ms
+[2017.12.08-15.56.14:652][928]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Dog_Kennel_Auto14D67BDC9414A64CBDF0971BE13995EE4.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Dog_Kennel_Auto1.uasset'
+[2017.12.08-15.56.14:653][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Dog_Kennel_Auto1.uasset
+[2017.12.08-15.56.14:654][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Garden_Fence] ([1] browsable assets)...
+[2017.12.08-15.56.14:668][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Garden_Fence.Garden_Fence]
+[2017.12.08-15.56.14:668][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Garden_Fence]
+[2017.12.08-15.56.14:691][928]LogSavePackage: Save=13.98ms
+[2017.12.08-15.56.14:691][928]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Garden_Fence_Auto1C56A71224AD3857DAC36E9823EC20AEF.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Garden_Fence_Auto1.uasset'
+[2017.12.08-15.56.14:693][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Garden_Fence_Auto1.uasset
+[2017.12.08-15.56.14:693][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Garden_Sun_Bed_Updated] ([1] browsable assets)...
+[2017.12.08-15.56.14:708][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Garden_Sun_Bed_Updated.Garden_Sun_Bed_Updated]
+[2017.12.08-15.56.14:708][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Garden_Sun_Bed_Updated]
+[2017.12.08-15.56.14:807][928]LogSavePackage: Save=36.46ms
+[2017.12.08-15.56.14:807][928]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Garden_Sun_Bed_Updated_Auto1ED5817AD488AB08877FD6785ADC80065.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Garden_Sun_Bed_Updated_Auto1.uasset'
+[2017.12.08-15.56.14:810][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Garden_Sun_Bed_Updated_Auto1.uasset
+[2017.12.08-15.56.14:811][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Garden_Table_Updated] ([1] browsable assets)...
+[2017.12.08-15.56.14:845][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Garden_Table_Updated.Garden_Table_Updated]
+[2017.12.08-15.56.14:845][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Garden_Table_Updated]
+[2017.12.08-15.56.14:891][928]LogSavePackage: Save=27.24ms
+[2017.12.08-15.56.14:891][928]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Garden_Table_Updated_Auto14A6D69D840D5FDD0AFD46686B821976C.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Garden_Table_Updated_Auto1.uasset'
+[2017.12.08-15.56.14:894][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Garden_Table_Updated_Auto1.uasset
+[2017.12.08-15.56.14:895][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Digging_Fork] ([1] browsable assets)...
+[2017.12.08-15.56.14:919][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Digging_Fork.Digging_Fork]
+[2017.12.08-15.56.14:919][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Digging_Fork]
+[2017.12.08-15.56.14:960][928]LogSavePackage: Save=23.44ms
+[2017.12.08-15.56.14:960][928]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Digging_Fork_Auto146865BD04ABB17FD79D3518E47C594B5.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Digging_Fork_Auto1.uasset'
+[2017.12.08-15.56.14:963][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Digging_Fork_Auto1.uasset
+[2017.12.08-15.56.14:964][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Digging_Spade] ([1] browsable assets)...
+[2017.12.08-15.56.14:990][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Digging_Spade.Digging_Spade]
+[2017.12.08-15.56.14:990][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Digging_Spade]
+[2017.12.08-15.56.15:020][928]LogSavePackage: Save=18.79ms
+[2017.12.08-15.56.15:020][928]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Digging_Spade_Auto1DC14E2024E79000437ACEDAA049EF41C.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Digging_Spade_Auto1.uasset'
+[2017.12.08-15.56.15:021][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Digging_Spade_Auto1.uasset
+[2017.12.08-15.56.15:022][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Flower_Bed] ([1] browsable assets)...
+[2017.12.08-15.56.15:036][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Flower_Bed.Flower_Bed]
+[2017.12.08-15.56.15:036][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Flower_Bed]
+[2017.12.08-15.56.15:087][928]LogSavePackage: Save=25.21ms
+[2017.12.08-15.56.15:087][928]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Flower_Bed_Auto1BD0BA4C040C71FF5053D7FA855E32D85.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Flower_Bed_Auto1.uasset'
+[2017.12.08-15.56.15:088][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Flower_Bed_Auto1.uasset
+[2017.12.08-15.56.15:089][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Marble_bench] ([1] browsable assets)...
+[2017.12.08-15.56.15:113][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Marble_bench.Marble_bench]
+[2017.12.08-15.56.15:113][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Marble_bench]
+[2017.12.08-15.56.15:163][928]LogSavePackage: Save=29.88ms
+[2017.12.08-15.56.15:163][928]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Marble_bench_Auto1E8FA77514E5A8B4BDB9812BE17B41BE1.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Marble_bench_Auto1.uasset'
+[2017.12.08-15.56.15:166][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Marble_bench_Auto1.uasset
+[2017.12.08-15.56.15:167][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Paving_Slab] ([1] browsable assets)...
+[2017.12.08-15.56.15:187][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Paving_Slab.Paving_Slab]
+[2017.12.08-15.56.15:187][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Paving_Slab]
+[2017.12.08-15.56.15:218][928]LogSavePackage: Save=18.75ms
+[2017.12.08-15.56.15:218][928]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Paving_Slab_Auto1E2896CE24F6175B0193DDBB84D0865BF.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Paving_Slab_Auto1.uasset'
+[2017.12.08-15.56.15:219][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Paving_Slab_Auto1.uasset
+[2017.12.08-15.56.15:219][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Pet_Fencing_Updated] ([1] browsable assets)...
+[2017.12.08-15.56.15:235][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Pet_Fencing_Updated.Pet_Fencing_Updated]
+[2017.12.08-15.56.15:235][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Pet_Fencing_Updated]
+[2017.12.08-15.56.15:262][928]LogSavePackage: Save=15.36ms
+[2017.12.08-15.56.15:262][928]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Pet_Fencing_Updated_Auto16F57FA854BD7C15B2C909AB8023B2881.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Pet_Fencing_Updated_Auto1.uasset'
+[2017.12.08-15.56.15:263][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Pet_Fencing_Updated_Auto1.uasset
+[2017.12.08-15.56.15:263][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/plant_pot] ([1] browsable assets)...
+[2017.12.08-15.56.15:278][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/plant_pot.plant_pot]
+[2017.12.08-15.56.15:278][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/plant_pot]
+[2017.12.08-15.56.15:305][928]LogSavePackage: Save=16.68ms
+[2017.12.08-15.56.15:305][928]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/plant_pot_Auto156559C76449B87A4184230AD74672C05.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/plant_pot_Auto1.uasset'
+[2017.12.08-15.56.15:306][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/plant_pot_Auto1.uasset
+[2017.12.08-15.56.15:307][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Plant_Pot_2] ([1] browsable assets)...
+[2017.12.08-15.56.15:321][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Plant_Pot_2.Plant_Pot_2]
+[2017.12.08-15.56.15:321][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Plant_Pot_2]
+[2017.12.08-15.56.15:350][928]LogSavePackage: Save=14.02ms
+[2017.12.08-15.56.15:350][928]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Plant_Pot_2_Auto158FDCE334178527800B1FA97870DB90A.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Plant_Pot_2_Auto1.uasset'
+[2017.12.08-15.56.15:351][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Plant_Pot_2_Auto1.uasset
+[2017.12.08-15.56.15:351][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Soil_Rack] ([1] browsable assets)...
+[2017.12.08-15.56.15:375][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Soil_Rack.Soil_Rack]
+[2017.12.08-15.56.15:375][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Soil_Rack]
+[2017.12.08-15.56.15:406][928]LogSavePackage: Save=17.39ms
+[2017.12.08-15.56.15:407][928]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Soil_Rack_Auto12CAF1C054199845A21BE259EC8E7088F.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Soil_Rack_Auto1.uasset'
+[2017.12.08-15.56.15:408][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Autosaves/Game/Models/Soil_Rack_Auto1.uasset
+[2017.12.08-15.56.15:408][928]LogFileHelpers: Auto-saving content packages took 0.860
+[2017.12.08-15.56.37:765][742]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.08-15.56.37:800][742]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level' with GeneratedClass '/Game/Garden_Level/Garden_Level.Garden_Level_C' with ClassGeneratedBy '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level'
+[2017.12.08-15.56.37:800][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.08-15.56.37:801][742]PIE: New page: PIE session: Garden_Level (8 Dec 2017 15:56:37)
+[2017.12.08-15.56.37:801][742]LogPlayLevel: Creating play world package: /Game/Garden_Level/UEDPIE_0_Garden_Level
+[2017.12.08-15.56.37:827][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026088s)
+[2017.12.08-15.56.37:828][742]LogAIModule: Creating AISystem for world Garden_Level
+[2017.12.08-15.56.37:828][742]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2017.12.08-15.56.37:828][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Garden_Level/Garden_Level.Garden_Level to /Game/Garden_Level/UEDPIE_0_Garden_Level.Garden_Level (0.027166s)
+[2017.12.08-15.56.37:841][742]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.08-15.56.37:852][742]LogInit: FAudioDevice initialized.
+[2017.12.08-15.56.37:912][742]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.08-15.56.37:947][742]LogWorld: Bringing World /Game/Garden_Level/UEDPIE_0_Garden_Level.Garden_Level up for play (max tick rate 0) at 2017.12.08-15.56.37
+[2017.12.08-15.56.37:948][742]LogWorld: Bringing up level for play took: 0.033129
+[2017.12.08-15.56.38:004][742]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.12.08-15.56.38:005][742]PIE: Play in editor start time for /Game/Garden_Level/UEDPIE_0_Garden_Level 0.785
+[2017.12.08-15.56.38:006][742]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level' with GeneratedClass '/Game/Garden_Level/Garden_Level.Garden_Level_C' with ClassGeneratedBy '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level'
+[2017.12.08-15.57.35:678][613]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level' with GeneratedClass '/Game/Garden_Level/Garden_Level.Garden_Level_C' with ClassGeneratedBy '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level'
+[2017.12.08-15.57.35:714][613]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level' with GeneratedClass '/Game/Garden_Level/Garden_Level.Garden_Level_C' with ClassGeneratedBy '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level'
+[2017.12.08-15.58.00:092][  0]LogSavePackage: Save=16.17ms
+[2017.12.08-15.58.00:092][  0]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Level_Changing_Decking071AC9F448CC28619B1CAFA3F5DD92E4.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Level_Changing_Decking.uasset'
+[2017.12.08-15.58.00:096][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Level_Changing_Decking.uasset
+[2017.12.08-15.58.02:409][221]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.08-15.58.02:426][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level' with GeneratedClass '/Game/Garden_Level/Garden_Level.Garden_Level_C' with ClassGeneratedBy '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level'
+[2017.12.08-15.58.02:426][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.08-15.58.02:426][221]PIE: New page: PIE session: Garden_Level (8 Dec 2017 15:58:02)
+[2017.12.08-15.58.02:426][221]LogPlayLevel: Creating play world package: /Game/Garden_Level/UEDPIE_0_Garden_Level
+[2017.12.08-15.58.02:452][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025626s)
+[2017.12.08-15.58.02:453][221]LogAIModule: Creating AISystem for world Garden_Level
+[2017.12.08-15.58.02:453][221]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2017.12.08-15.58.02:453][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Garden_Level/Garden_Level.Garden_Level to /Game/Garden_Level/UEDPIE_0_Garden_Level.Garden_Level (0.026673s)
+[2017.12.08-15.58.02:464][221]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.08-15.58.02:476][221]LogInit: FAudioDevice initialized.
+[2017.12.08-15.58.02:508][221]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.08-15.58.02:533][221]LogWorld: Bringing World /Game/Garden_Level/UEDPIE_0_Garden_Level.Garden_Level up for play (max tick rate 0) at 2017.12.08-15.58.02
+[2017.12.08-15.58.02:535][221]LogWorld: Bringing up level for play took: 0.026119
+[2017.12.08-15.58.02:537][221]PIE: Play in editor start time for /Game/Garden_Level/UEDPIE_0_Garden_Level -0.685
+[2017.12.08-15.58.02:537][221]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level' with GeneratedClass '/Game/Garden_Level/Garden_Level.Garden_Level_C' with ClassGeneratedBy '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level'
+[2017.12.08-15.58.09:293][ 23]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level' with GeneratedClass '/Game/Garden_Level/Garden_Level.Garden_Level_C' with ClassGeneratedBy '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level'
+[2017.12.08-15.58.09:326][ 23]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level' with GeneratedClass '/Game/Garden_Level/Garden_Level.Garden_Level_C' with ClassGeneratedBy '/Game/Garden_Level/Garden_Level.Garden_Level:PersistentLevel.Garden_Level'
+[2017.12.08-15.58.16:344][716]LogSavePackage: Save=35.00ms
+[2017.12.08-15.58.16:345][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Decking_FencingC1F99EFA406B0C49B38F23BDDE519472.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Decking_Fencing.uasset'
+[2017.12.08-15.58.16:367][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Decking_Fencing.uasset
+[2017.12.08-15.58.16:391][716]LogSavePackage: Save=12.03ms
+[2017.12.08-15.58.16:391][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Digging_Fork2D2D27FF4A6A41125FD92EA8BB74EC5D.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Digging_Fork.uasset'
+[2017.12.08-15.58.16:404][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Digging_Fork.uasset
+[2017.12.08-15.58.16:420][716]LogSavePackage: Save=8.73ms
+[2017.12.08-15.58.16:420][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Digging_SpadeD65054CE4195DA4FABB6E6A5BEBF89BC.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Digging_Spade.uasset'
+[2017.12.08-15.58.16:430][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Digging_Spade.uasset
+[2017.12.08-15.58.16:433][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Dog_Kennel" FILE="../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Dog_Kennel.uasset" SILENT=true
+[2017.12.08-15.58.16:446][716]LogSavePackage: Save=8.79ms
+[2017.12.08-15.58.16:447][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Dog_Kennel3A1C74CA4E58EA1ABB499B9B1D3CBF6A.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Dog_Kennel.uasset'
+[2017.12.08-15.58.16:454][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Dog_Kennel.uasset
+[2017.12.08-15.58.16:456][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Flower_Bed" FILE="../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Flower_Bed.uasset" SILENT=true
+[2017.12.08-15.58.16:469][716]LogSavePackage: Save=7.88ms
+[2017.12.08-15.58.16:469][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Flower_BedBADAA8674299DE9DA39DCD83188E1515.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Flower_Bed.uasset'
+[2017.12.08-15.58.16:477][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Flower_Bed.uasset
+[2017.12.08-15.58.16:491][716]LogSavePackage: Save=6.98ms
+[2017.12.08-15.58.16:491][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Garden_Fence37EAEAE647C41C8086F3708CBC324C1F.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Garden_Fence.uasset'
+[2017.12.08-15.58.16:498][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Garden_Fence.uasset
+[2017.12.08-15.58.16:513][716]LogSavePackage: Save=8.37ms
+[2017.12.08-15.58.16:514][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Garden_Sun_Bed_Updated96BE7E094EDD62816B8EE5905E94DAF9.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Garden_Sun_Bed_Updated.uasset'
+[2017.12.08-15.58.16:524][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Garden_Sun_Bed_Updated.uasset
+[2017.12.08-15.58.16:539][716]LogSavePackage: Save=7.47ms
+[2017.12.08-15.58.16:539][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Garden_Table_UpdatedD5F824EA465DB26AD839B18BCC6B2C6C.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Garden_Table_Updated.uasset'
+[2017.12.08-15.58.16:546][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Garden_Table_Updated.uasset
+[2017.12.08-15.58.16:560][716]LogSavePackage: Save=7.74ms
+[2017.12.08-15.58.16:560][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Marble_bench64594CB445890B44C6DC60BA9ECC41A1.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Marble_bench.uasset'
+[2017.12.08-15.58.16:569][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Marble_bench.uasset
+[2017.12.08-15.58.16:571][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Paving_Slab" FILE="../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Paving_Slab.uasset" SILENT=true
+[2017.12.08-15.58.16:583][716]LogSavePackage: Save=6.84ms
+[2017.12.08-15.58.16:583][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Paving_Slab878B24EF447E0F43C5592CAAC0048FAF.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Paving_Slab.uasset'
+[2017.12.08-15.58.16:590][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Paving_Slab.uasset
+[2017.12.08-15.58.16:604][716]LogSavePackage: Save=7.17ms
+[2017.12.08-15.58.16:604][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Pet_Fencing_Updated3BB3958B4392DBFDD0F92EB45A9C4C01.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Pet_Fencing_Updated.uasset'
+[2017.12.08-15.58.16:609][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Pet_Fencing_Updated.uasset
+[2017.12.08-15.58.16:611][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/plant_pot" FILE="../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/plant_pot.uasset" SILENT=true
+[2017.12.08-15.58.16:623][716]LogSavePackage: Save=7.01ms
+[2017.12.08-15.58.16:623][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/plant_potAFEC37884241AF1C71AC22B05530EC03.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/plant_pot.uasset'
+[2017.12.08-15.58.16:629][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/plant_pot.uasset
+[2017.12.08-15.58.16:631][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Plant_Pot_2" FILE="../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Plant_Pot_2.uasset" SILENT=true
+[2017.12.08-15.58.16:643][716]LogSavePackage: Save=6.82ms
+[2017.12.08-15.58.16:643][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Plant_Pot_20F87252442C9C7B51F1816988A7F720B.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Plant_Pot_2.uasset'
+[2017.12.08-15.58.16:648][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Plant_Pot_2.uasset
+[2017.12.08-15.58.16:651][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Soil_Rack" FILE="../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Soil_Rack.uasset" SILENT=true
+[2017.12.08-15.58.16:662][716]LogSavePackage: Save=7.01ms
+[2017.12.08-15.58.16:662][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Soil_RackB17FF5F746BEBB6CBF3B81B0EC1BB3BE.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Soil_Rack.uasset'
+[2017.12.08-15.58.16:665][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/Soil_Rack.uasset
+[2017.12.08-15.58.16:682][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/table" FILE="../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/table.uasset" SILENT=true
+[2017.12.08-15.58.16:726][716]LogSavePackage: Save=16.00ms
+[2017.12.08-15.58.16:726][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/table27DE3459474A190930A70DA7961BCA3E.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/table.uasset'
+[2017.12.08-15.58.16:729][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/table.uasset
+[2017.12.08-15.58.16:756][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/table_bench" FILE="../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/table_bench.uasset" SILENT=true
+[2017.12.08-15.58.16:797][716]LogSavePackage: Save=24.80ms
+[2017.12.08-15.58.16:798][716]LogSavePackage: Moving '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/table_benchD7F2A14A45648A88AF4AC39E8A5959D4.tmp' to '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/table_bench.uasset'
+[2017.12.08-15.58.16:801][716]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Models/table_bench.uasset
+[2017.12.08-15.58.17:213][717]Cmd: QUIT_EDITOR
+[2017.12.08-15.58.17:258][717]LogExit: Preparing to exit.
+[2017.12.08-15.58.18:364][717]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/', and we were unable to create a new request.
+[2017.12.08-15.58.18:410][717]LogExit: Editor shut down
+[2017.12.08-15.58.18:417][717]LogExit: Transaction tracking system shut down
+[2017.12.08-15.58.18:621][717]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.08-15.58.18:621][717]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/' was aborted.
+[2017.12.08-15.58.18:621][717]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.08-15.58.18:621][717]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.08-15.58.18:621][717]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.08-15.58.18:703][717]LogExit: Object subsystem successfully closed.
+[2017.12.08-15.58.18:724][717]LogD3D11RHI: Shutdown
+[2017.12.08-15.58.18:724][717]LogD3D11RHI: CleanupD3DDevice
+[2017.12.08-15.58.18:807][717]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.08-15.58.18:820][717]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2017.12.08-15.58.18:820][717]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (532)
+[2017.12.08-15.58.18:821][717]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.12.08-15.58.18:821][717]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.12.08-15.58.18:821][717]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.12.08-15.58.18:821][717]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.12.08-15.58.18:822][717]LogDirectoryWatcher: A directory notification for 'C:/Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Collections/' was aborted.
+[2017.12.08-15.58.18:822][717]LogDirectoryWatcher: A directory notification for 'C:/Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Content/Developers/Games/Collections/' was aborted.
+[2017.12.08-15.58.18:822][717]LogDirectoryWatcher: A directory notification for 'C:/Users/Games/Desktop/level-6-l6-group-9/Prototypes/GreyBox Scene/Garden_Level/Saved/Collections/' was aborted.
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.12.08-15.58.18:822][717]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.12.08-15.58.18:823][717]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.12.08-15.58.18:823][717]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.12.08-15.58.18:823][717]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.12.08-15.58.18:823][717]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.12.08-15.58.18:823][717]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.12.08-15.58.18:823][717]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.12.08-15.58.18:823][717]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.12.08-15.58.18:823][717]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.12.08-15.58.18:823][717]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.12.08-15.58.18:823][717]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.12.08-15.58.18:823][717]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.12.08-15.58.18:823][717]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.12.08-15.58.19:100][717]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.12.08-15.58.19:100][717]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.12.08-15.58.19:100][717]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.12.08-15.58.19:100][717]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.12.08-15.58.19:100][717]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.12.08-15.58.19:100][717]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.12.08-15.58.19:100][717]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.12.08-15.58.19:100][717]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.12.08-15.58.19:100][717]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.12.08-15.58.19:100][717]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.12.08-15.58.19:100][717]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.12.08-15.58.19:101][717]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.12.08-15.58.19:101][717]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.12.08-15.58.19:101][717]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.12.08-15.58.19:101][717]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.12.08-15.58.19:101][717]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.12.08-15.58.19:101][717]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.12.08-15.58.19:101][717]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.12.08-15.58.19:101][717]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.12.08-15.58.19:101][717]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.12.08-15.58.19:102][717]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.12.08-15.58.19:102][717]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.12.08-15.58.19:102][717]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.12.08-15.58.19:102][717]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.12.08-15.58.19:152][717]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.12.08-15.58.19:152][717]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.12.08-15.58.19:152][717]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.12.08-15.58.19:152][717]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.12.08-15.58.19:152][717]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.12.08-15.58.19:152][717]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.12.08-15.58.19:152][717]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.12.08-15.58.19:153][717]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.12.08-15.58.19:153][717]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.12.08-15.58.19:153][717]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.12.08-15.58.19:154][717]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.12.08-15.58.19:154][717]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.12.08-15.58.19:154][717]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.12.08-15.58.19:154][717]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.12.08-15.58.19:154][717]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.12.08-15.58.19:154][717]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.12.08-15.58.19:154][717]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.12.08-15.58.19:154][717]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.12.08-15.58.19:154][717]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.12.08-15.58.19:155][717]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.12.08-15.58.19:155][717]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.12.08-15.58.19:155][717]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.12.08-15.58.19:155][717]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.12.08-15.58.19:155][717]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.12.08-15.58.19:155][717]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.12.08-15.58.19:155][717]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.12.08-15.58.19:155][717]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.12.08-15.58.19:155][717]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.12.08-15.58.19:155][717]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.12.08-15.58.19:155][717]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.12.08-15.58.19:155][717]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.12.08-15.58.19:256][717]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.12.08-15.58.19:256][717]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.12.08-15.58.19:256][717]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.12.08-15.58.19:257][717]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.12.08-15.58.19:257][717]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.12.08-15.58.19:257][717]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.12.08-15.58.19:257][717]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.12.08-15.58.19:257][717]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.12.08-15.58.19:257][717]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.12.08-15.58.19:257][717]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.12.08-15.58.19:257][717]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.12.08-15.58.19:257][717]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.12.08-15.58.19:257][717]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.12.08-15.58.19:257][717]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.12.08-15.58.19:257][717]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.12.08-15.58.19:257][717]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.12.08-15.58.19:257][717]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.12.08-15.58.19:257][717]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.12.08-15.58.19:258][717]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.12.08-15.58.19:258][717]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.12.08-15.58.19:258][717]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.12.08-15.58.19:258][717]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.12.08-15.58.19:258][717]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.12.08-15.58.19:258][717]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.12.08-15.58.19:258][717]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.12.08-15.58.19:258][717]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.12.08-15.58.19:258][717]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.12.08-15.58.19:258][717]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.12.08-15.58.19:258][717]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.12.08-15.58.19:258][717]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.12.08-15.58.19:258][717]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.12.08-15.58.19:259][717]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.12.08-15.58.19:262][717]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.12.08-15.58.19:262][717]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.12.08-15.58.19:262][717]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.12.08-15.58.19:264][717]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.12.08-15.58.19:264][717]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.12.08-15.58.19:264][717]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.12.08-15.58.19:264][717]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.12.08-15.58.19:264][717]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.12.08-15.58.19:264][717]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.12.08-15.58.19:264][717]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.12.08-15.58.19:264][717]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.12.08-15.58.19:364][717]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.12.08-15.58.19:464][717]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.12.08-15.58.19:464][717]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.12.08-15.58.19:464][717]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.12.08-15.58.19:464][717]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.12.08-15.58.19:464][717]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.12.08-15.58.19:464][717]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.12.08-15.58.19:466][717]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.12.08-15.58.19:466][717]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.12.08-15.58.19:467][717]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.12.08-15.58.19:467][717]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.12.08-15.58.19:468][717]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.12.08-15.58.19:468][717]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.12.08-15.58.19:468][717]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.12.08-15.58.19:469][717]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.12.08-15.58.19:469][717]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.12.08-15.58.19:469][717]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.12.08-15.58.19:469][717]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.12.08-15.58.19:469][717]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.12.08-15.58.19:469][717]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.12.08-15.58.19:469][717]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.12.08-15.58.19:469][717]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.12.08-15.58.19:469][717]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.12.08-15.58.19:469][717]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.12.08-15.58.19:469][717]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.12.08-15.58.19:469][717]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.12.08-15.58.19:469][717]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.12.08-15.58.19:470][717]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.12.08-15.58.19:470][717]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.12.08-15.58.19:470][717]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.12.08-15.58.19:470][717]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.12.08-15.58.19:476][717]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.12.08-15.58.19:476][717]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.12.08-15.58.19:476][717]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.12.08-15.58.19:476][717]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.12.08-15.58.19:476][717]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.12.08-15.58.19:476][717]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.12.08-15.58.19:476][717]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.08-15.58.19:476][717]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.08-15.58.19:477][717]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.08-15.58.19:477][717]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.08-15.58.19:477][717]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.08-15.58.19:477][717]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.08-15.58.19:477][717]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.08-15.58.19:477][717]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.08-15.58.19:477][717]LogModuleManager: Shutting down and abandoning module LevelSequence (148)
+[2017.12.08-15.58.19:477][717]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.12.08-15.58.19:479][717]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.12.08-15.58.19:535][717]LogDerivedDataCache: Shutdown
+[2017.12.08-15.58.19:535][717]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.12.08-15.58.19:535][717]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.12.08-15.58.19:535][717]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.12.08-15.58.19:535][717]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.12.08-15.58.19:535][717]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.12.08-15.58.19:535][717]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.12.08-15.58.19:535][717]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.12.08-15.58.19:535][717]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.12.08-15.58.19:535][717]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.12.08-15.58.19:535][717]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.12.08-15.58.19:535][717]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.12.08-15.58.19:535][717]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.12.08-15.58.19:535][717]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.12.08-15.58.19:536][717]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.08-15.58.19:537][717]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.08-15.58.19:537][717]LogOnline: Display: Unloading online subsystem: NULL
+[2017.12.08-15.58.19:538][717]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.08-15.58.19:538][717]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.08-15.58.19:538][717]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.08-15.58.19:538][717]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD3DD117-45B9-2123-2D62-4480E768A4CE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=369b65a549ed0cd7955de6ac67adaac8%7C08957ea931864701ba2171b9adc4675f%7C643a0c62-4508-4f4c-af27-6ace02bcc1ff&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.08-15.58.19:544][717]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.08-15.58.19:548][717]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.08-15.58.19:548][717]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.08-15.58.19:549][717]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.08-15.58.19:549][717]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.08-15.58.19:549][717]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.08-15.58.19:549][717]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.08-15.58.19:549][717]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.08-15.58.19:551][717]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.08-15.58.19:551][717]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.08-15.58.19:551][717]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.08-15.58.19:551][717]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.08-15.58.19:551][717]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.08-15.58.19:551][717]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.08-15.58.19:551][717]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.08-15.58.19:551][717]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.08-15.58.19:551][717]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.08-15.58.19:551][717]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.08-15.58.19:551][717]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.08-15.58.19:558][717]LogExit: Exiting.
+[2017.12.08-15.58.19:589][717]Log file closed, 12/08/17 15:58:19

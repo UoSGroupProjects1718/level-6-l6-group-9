@@ -1,0 +1,12 @@
+have the main menu come up from the tutorial level
+
+have the UI show up (lives and score)
+
+double jump has been added
+
+check that the code for respawning is working (sometimes it
+didnt work for me)
+
+add pause function
+
+

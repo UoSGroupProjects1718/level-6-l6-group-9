@@ -1,0 +1,736 @@
+﻿Log file open, 08/18/18 10:50:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Ninja_Bunnies
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(935076098) SRandInit(935076098).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 8.924477
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.18-09.50.38:694][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.18-09.50.38:694][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.18-09.50.39:182][  0]LogInit: Computer: QUWAINES-LAPTOP
+[2018.08.18-09.50.39:182][  0]LogInit: User: Quwaine
+[2018.08.18-09.50.39:182][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.18-09.50.39:182][  0]LogInit: High frequency timer resolution =2.435776 MHz
+[2018.08.18-09.50.39:182][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.18-09.50.39:222][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.18-09.50.39:222][  0]LogMemory: Process Physical Memory: 280.61 MB used, 280.61 MB peak
+[2018.08.18-09.50.39:222][  0]LogMemory: Process Virtual Memory: 274.52 MB used, 274.52 MB peak
+[2018.08.18-09.50.39:222][  0]LogMemory: Physical Memory: 2505.01 MB used,  13791.27 MB free, 16296.27 MB total
+[2018.08.18-09.50.39:222][  0]LogMemory: Virtual Memory: 4804.27 MB used,  13791.27 MB free, 134217728.00 MB total
+[2018.08.18-09.50.55:626][  0]LogInit: Using OS detected language (en-GB).
+[2018.08.18-09.50.55:626][  0]LogInit: Using OS detected locale (en-GB).
+[2018.08.18-09.50.56:553][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.08.18-09.51.40:557][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.18-09.52.03:387][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2018.08.18-09.52.03:387][  0]LogD3D11RHI:       4055/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.18-09.52.03:602][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.08.18-09.52.03:602][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.08.18-09.52.03:606][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.18-09.52.03:606][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.18-09.52.03:606][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.18-09.52.03:696][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.18-09.52.03:696][  0]LogD3D11RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.18-09.52.03:696][  0]LogWindows: EnumDisplayDevices:
+[2018.08.18-09.52.03:696][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.08.18-09.52.03:696][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.08.18-09.52.03:697][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.08.18-09.52.03:697][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.18-09.52.03:697][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2018.08.18-09.52.03:697][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.18-09.52.03:697][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.18-09.52.03:697][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.08.18-09.52.04:260][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.18-09.52.08:377][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 27)
+[2018.08.18-09.52.09:616][  0]LogShaderCompilers: Guid format shader working directory is -54 characters bigger than the processId version (../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Intermediate/Shaders/WorkingDirectory/10332/).
+[2018.08.18-09.52.09:617][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Quwaine/AppData/Local/Temp/UnrealShaderWorkingDir/13C3EFA342B05D21661C8DA9166D487D/'.
+[2018.08.18-09.52.09:751][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.18-09.52.37:565][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.18-09.52.37:834][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.18-09.52.38:081][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.18-09.52.38:332][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.18-09.52.38:787][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.18-09.52.39:195][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.18-09.52.39:467][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.18-09.52.39:732][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.18-09.52.40:092][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.18-09.52.40:679][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.18-09.52.41:125][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.18-09.52.41:601][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.18-09.52.41:997][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.18-09.52.42:509][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.18-09.52.42:909][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.18-09.52.44:084][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.18-09.52.44:084][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.18-09.52.44:491][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.18-09.52.46:393][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.18-09.52.46:652][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.18-09.52.47:031][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.18-09.52.47:403][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.18-09.52.47:799][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.18-09.52.48:340][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.18-09.52.48:340][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.18-09.53.02:609][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.18-09.53.17:518][  0]LogDerivedDataCache: Loaded boot cache 14.79s 93MB C:/Users/Quwaine/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.08.18-09.53.17:518][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Quwaine/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.08.18-09.53.17:519][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.18-09.53.17:519][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.18-09.53.17:519][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.18-09.53.17:519][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.18-09.53.18:082][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.18-09.53.18:096][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Quwaine/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.18-09.53.18:712][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.18-09.53.19:495][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.18-09.53.19:856][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.18-09.53.19:935][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.18-09.54.52:835][  0]LogAssetRegistry: FAssetRegistry took 0.7615 seconds to start up
+[2018.08.18-09.55.00:972][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.18-09.55.30:273][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.18-09.55.31:224][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.18-09.55.31:331][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.18-09.55.31:332][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.18-09.55.31:332][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.18-09.55.31:332][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.18-09.55.33:808][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.08.18-09.56.00:908][  0]LogNetVersion: Ninja_Bunnies , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1886342967)
+[2018.08.18-09.56.12:976][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.511923 seconds
+[2018.08.18-09.56.13:002][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.08.18-09.56.13:002][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.08.18-09.56.13:002][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.18-09.56.13:825][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.08.18-09.58.50:778][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.18-09.58.51:564][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.18-09.59.07:236][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.08.18-09.59.15:799][  0]SourceControl: Source control is disabled
+[2018.08.18-09.59.15:799][  0]SourceControl: Source control is disabled
+[2018.08.18-09.59.17:746][  0]SourceControl: Source control is disabled
+[2018.08.18-09.59.18:778][  0]SourceControl: Source control is disabled
+[2018.08.18-09.59.32:330][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.18-09.59.35:585][  0]LogOcInput: OculusInput pre-init called
+[2018.08.18-09.59.42:276][  0]LogEngine: Initializing Engine...
+[2018.08.18-09.59.42:441][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.18-09.59.46:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.18-09.59.46:687][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.088 s
+[2018.08.18-09.59.51:450][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.18-09.59.52:660][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.18-09.59.52:698][  0]LogInit: FAudioDevice initialized.
+[2018.08.18-09.59.53:578][  0]LogDerivedDataCache: Saved boot cache 0.88s 93MB C:/Users/Quwaine/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.08.18-09.59.53:726][  0]LogInit: Texture streaming: Enabled
+[2018.08.18-09.59.56:211][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.18-10.00.05:140][  0]LogInit: Transaction tracking system initialized
+[2018.08.18-10.00.19:299][  0]BlueprintLog: New page: Editor Load
+[2018.08.18-10.00.42:423][  0]LocalizationService: Localization service is disabled
+[2018.08.18-10.00.58:729][  0]LogConsoleResponse: Display: 
+[2018.08.18-10.01.10:231][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/' took 0.02s
+[2018.08.18-10.01.10:231][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.18-10.01.10:231][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.18-10.01.10:507][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.18-10.01.34:051][  0]SourceControl: Source control is disabled
+[2018.08.18-10.01.34:539][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.08.18-10.01.34:608][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.18-10.01.34:825][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 216.828ms to complete.
+[2018.08.18-10.01.34:825][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.464
+[2018.08.18-10.01.45:520][  0]LogCollectionManager: Loaded 0 collections in 0.002236 seconds
+[2018.08.18-10.01.48:997][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Collections/' took 0.01s
+[2018.08.18-10.01.48:997][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/Developers/Quwaine/Collections/' took 0.01s
+[2018.08.18-10.01.48:997][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/Collections/' took 0.01s
+[2018.08.18-10.01.48:997][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.18-10.01.49:265][  0]LogContentBrowser: Native class hierarchy populated in 0.1031 seconds. Added 2386 classes and 500 folders.
+[2018.08.18-10.01.50:364][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0463 seconds. Added 0 classes and 0 folders.
+[2018.08.18-10.02.05:093][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.08.18-10.02.06:643][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2018.08.18-10.02.24:053][  0]LogSlate: Took 0.071553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.18-10.02.24:333][  0]LogSlate: Took 0.151841 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.18-10.02.24:778][  0]LogSlate: Took 0.096740 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.18-10.02.27:310][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2018.08.18-10.02.36:728][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2018.08.18-10.02.36:728][  0]LogLoad: (Engine Initialization) Total time: 785.70 seconds
+[2018.08.18-10.02.36:728][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.18-10.02.36:798][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.08.18-10.02.36:798][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.08.18-10.02.38:072][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.08.18-10.02.39:485][  3]LogAssetRegistry: Asset discovery search completed in 467.0139 seconds
+[2018.08.18-10.02.39:487][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.18-10.02.39:488][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2018.08.18-10.02.40:012][  3]LogSlate: Took 0.291756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.18-10.03.58:697][241]LogHttp: Warning: 000001F9DDBE6980: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.08.18-10.03.58:698][241]LogHttp: Warning: 000001F9DDBE6980: libcurl info message cache 0 (  Trying 1.1.1.1...)
+[2018.08.18-10.03.58:698][241]LogHttp: Warning: 000001F9DDBE6980: libcurl info message cache 1 (connect to 1.1.1.1 port 443 failed: Timed out)
+[2018.08.18-10.03.58:698][241]LogHttp: Warning: 000001F9DDBE6980: libcurl info message cache 2 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.08.18-10.03.58:698][241]LogHttp: Warning: 000001F9DDBE6980: libcurl info message cache 3 (Closing connection 0)
+[2018.08.18-10.04.38:011][323]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.NinjaBunnies
+[2018.08.18-10.04.38:011][323]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.08.18-10.04.38:011][323]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2018.08.18-10.04.38:011][323]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.08.18-10.04.38:124][323]LogTemp: BranchPath = QUWAINES-LAPTOP/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = QUWAINES-LAPTOP/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2018.08.18-10.04.39:576][339]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Quwaine\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.18-10.05.01:118][138]LogSlate: Took 0.000335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.18-10.05.29:563][738]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.18-10.05.30:360][738]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.18-10.05.30:646][738]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.18-10.05.31:094][738]LightingResults: New page: Lighting Build
+[2018.08.18-10.05.31:592][738]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0014 seconds. Added 5 classes and 0 folders.
+[2018.08.18-10.05.31:713][738]LoadErrors: New page: Loading map: Tutorial_Level.umap
+[2018.08.18-10.05.31:795][738]MapCheck: New page: Map Check
+[2018.08.18-10.05.31:795][738]LightingResults: New page: Lighting Build
+[2018.08.18-10.05.34:124][738]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.18-10.05.34:441][738]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.18-10.05.34:622][738]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 180.125ms to complete.
+[2018.08.18-10.05.34:623][738]LogFileHelpers: Loading map 'Tutorial_Level' took 3.531
+[2018.08.18-10.05.59:740][223]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2018.08.18-10.06.01:976][306]LogEditorViewport: Clicking Background
+[2018.08.18-10.06.10:455][702]LogSlate: Took 0.050889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.18-10.06.10:618][702]LogRenderer: Reallocating scene render targets to support 964x708 Format 10 NumSamples 1 (Frame:1).
+[2018.08.18-10.06.19:756][204]LogHttp: Warning: 000001F9DBB8F880: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.08.18-10.06.19:756][204]LogHttp: Warning: 000001F9DBB8F880: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.08.18-10.06.19:756][204]LogHttp: Warning: 000001F9DBB8F880: libcurl info message cache 1 (  Trying 1.1.1.1...)
+[2018.08.18-10.06.19:756][204]LogHttp: Warning: 000001F9DBB8F880: libcurl info message cache 2 (connect to 1.1.1.1 port 443 failed: Timed out)
+[2018.08.18-10.06.19:756][204]LogHttp: Warning: 000001F9DBB8F880: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.08.18-10.06.19:756][204]LogHttp: Warning: 000001F9DBB8F880: libcurl info message cache 4 (Closing connection 1)
+[2018.08.18-10.07.43:366][871]Cmd: TRANSACTION UNDO
+[2018.08.18-10.07.43:366][871]LogEditorTransaction: Undo Delete Layer
+[2018.08.18-10.08.36:888][105]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.36:888][105]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.37:105][117]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.37:105][117]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.37:297][127]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.37:297][127]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.37:543][141]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.37:544][141]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.40:797][336]LogHttp: Warning: 000001F9EC33B580: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.08.18-10.08.40:797][336]LogHttp: Warning: 000001F9EC33B580: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.08.18-10.08.40:797][336]LogHttp: Warning: 000001F9EC33B580: libcurl info message cache 1 (  Trying 1.1.1.1...)
+[2018.08.18-10.08.40:797][336]LogHttp: Warning: 000001F9EC33B580: libcurl info message cache 2 (connect to 1.1.1.1 port 443 failed: Timed out)
+[2018.08.18-10.08.40:797][336]LogHttp: Warning: 000001F9EC33B580: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.08.18-10.08.40:797][336]LogHttp: Warning: 000001F9EC33B580: libcurl info message cache 4 (Closing connection 2)
+[2018.08.18-10.08.46:017][649]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.46:017][649]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.46:283][664]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.46:283][664]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.46:454][673]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.46:454][673]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.46:635][683]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.46:635][683]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.46:835][695]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.46:835][695]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.47:020][706]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.47:020][706]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.47:238][719]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.47:238][719]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.47:489][734]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.47:489][734]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.47:826][754]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.47:826][754]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.48:820][813]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.48:820][813]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.51:499][973]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.51:499][973]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.51:725][986]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.51:725][986]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.51:917][997]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.51:917][997]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.52:095][  7]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.52:095][  7]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.52:271][ 17]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.52:271][ 17]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.52:479][ 29]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.52:479][ 29]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.56:982][298]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.56:982][298]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.57:198][310]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.57:198][310]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.57:390][320]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.57:390][320]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.57:572][330]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.57:572][330]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.57:729][339]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.57:729][339]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.08.57:997][355]Cmd: TRANSACTION UNDO
+[2018.08.18-10.08.57:997][355]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.02:322][614]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.02:322][614]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.02:537][626]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.02:537][626]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.02:727][636]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.02:727][636]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.46:701][262]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.46:701][262]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.47:227][292]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.47:227][292]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.47:430][304]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.47:430][304]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.47:824][327]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.47:824][327]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.51:054][520]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.51:054][520]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.51:272][532]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.51:272][532]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.51:478][543]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.51:478][543]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.52:724][617]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.52:725][617]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.52:949][630]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.52:949][630]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.53:323][652]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.53:323][652]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.55:455][779]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.55:455][779]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.55:678][792]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.55:678][792]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.55:920][806]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.55:920][806]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.09.56:122][818]Cmd: TRANSACTION UNDO
+[2018.08.18-10.09.56:122][818]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.00:401][ 74]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.00:401][ 74]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.00:602][ 85]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.00:602][ 85]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.00:815][ 96]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.00:815][ 96]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.04:792][333]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.04:792][333]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.04:977][343]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.04:977][343]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.05:164][353]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.05:164][353]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.05:390][365]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.05:390][365]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.05:625][379]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.05:625][379]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.06:000][401]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.06:000][401]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.06:348][421]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.06:348][421]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.09:263][595]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.09:263][595]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.09:476][607]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.09:476][607]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.09:674][618]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.09:674][618]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.10:138][645]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.10:138][645]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.13:032][818]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.13:032][818]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.13:250][831]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.13:250][831]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.13:474][844]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.13:474][844]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.14:704][917]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.14:704][917]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.14:913][929]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.14:913][929]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.15:125][941]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.15:125][941]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.15:618][970]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.15:618][970]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.15:903][987]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.15:904][987]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.18:037][114]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.18:037][114]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.18:334][131]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.18:334][131]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.18:663][150]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.18:663][150]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.20:145][238]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.20:145][238]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.20:365][251]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.20:365][251]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.20:588][264]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.20:588][264]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.21:201][300]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.21:201][300]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.24:114][474]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.24:114][474]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.24:345][487]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.24:345][487]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.24:574][500]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.24:574][500]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.25:233][539]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.25:233][539]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.30:044][826]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.30:044][826]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.39:582][ 72]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.39:582][ 72]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.39:786][ 83]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.39:786][ 83]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.40:131][102]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.40:131][102]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.41:186][165]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.41:186][165]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.41:399][177]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.41:399][177]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.41:585][188]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.41:585][188]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.10.41:897][206]Cmd: TRANSACTION UNDO
+[2018.08.18-10.10.41:897][206]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.11.01:912][293]LogHttp: Warning: 000001F9BAC07B80: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.08.18-10.11.01:912][293]LogHttp: Warning: 000001F9BAC07B80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.08.18-10.11.01:912][293]LogHttp: Warning: 000001F9BAC07B80: libcurl info message cache 1 (  Trying 1.1.1.1...)
+[2018.08.18-10.11.01:912][293]LogHttp: Warning: 000001F9BAC07B80: libcurl info message cache 2 (connect to 1.1.1.1 port 443 failed: Timed out)
+[2018.08.18-10.11.01:912][293]LogHttp: Warning: 000001F9BAC07B80: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.08.18-10.11.01:912][293]LogHttp: Warning: 000001F9BAC07B80: libcurl info message cache 4 (Closing connection 3)
+[2018.08.18-10.11.55:815][148]Cmd: TRANSACTION UNDO
+[2018.08.18-10.11.55:815][148]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.11.59:796][385]Cmd: TRANSACTION UNDO
+[2018.08.18-10.11.59:796][385]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.12.39:162][744]Cmd: TRANSACTION UNDO
+[2018.08.18-10.12.39:162][744]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.12.39:652][772]Cmd: TRANSACTION UNDO
+[2018.08.18-10.12.39:653][772]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.13.22:947][260]LogHttp: Warning: 000001F9D9069300: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.08.18-10.13.22:947][260]LogHttp: Warning: 000001F9D9069300: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.08.18-10.13.22:947][260]LogHttp: Warning: 000001F9D9069300: libcurl info message cache 1 (  Trying 1.1.1.1...)
+[2018.08.18-10.13.22:947][260]LogHttp: Warning: 000001F9D9069300: libcurl info message cache 2 (connect to 1.1.1.1 port 443 failed: Timed out)
+[2018.08.18-10.13.22:947][260]LogHttp: Warning: 000001F9D9069300: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.08.18-10.13.22:947][260]LogHttp: Warning: 000001F9D9069300: libcurl info message cache 4 (Closing connection 4)
+[2018.08.18-10.14.29:965][444]LogSavePackage: Save=1795.22ms
+[2018.08.18-10.14.29:965][444]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Ninja_Bunnies_Tutorial_Level8AED7C3D4422B8DE4294B9A615565A84.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.uasset'
+[2018.08.18-10.14.29:974][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.uasset
+[2018.08.18-10.14.37:142][860]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.14.37:142][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.18-10.14.37:172][860]PIE: New page: PIE session: Tutorial_Level (18 Aug 2018 12:14:37)
+[2018.08.18-10.14.37:172][860]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.18-10.14.37:222][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050532s)
+[2018.08.18-10.14.37:223][860]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.18-10.14.37:223][860]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2018.08.18-10.14.37:223][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.051739s)
+[2018.08.18-10.14.37:261][860]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.18-10.14.37:284][860]LogInit: FAudioDevice initialized.
+[2018.08.18-10.14.37:382][860]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.18-10.14.37:472][860]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.18-11.14.37
+[2018.08.18-10.14.37:512][860]LogWorld: Bringing up level for play took: 0.041418
+[2018.08.18-10.14.37:981][860]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2018.08.18-10.14.38:119][860]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level 0.205
+[2018.08.18-10.14.38:119][860]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.14.38:579][861]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.058645 > MaxSimulationTimeStep (0.050) for '2DSideScrollerCharacter_C_0', movement 'Walking'
+[2018.08.18-10.15.40:117][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.15.40:173][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.15.43:991][771]LogHttp: Warning: 000001F9BAC06E00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.08.18-10.15.43:991][771]LogHttp: Warning: 000001F9BAC06E00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.08.18-10.15.43:991][771]LogHttp: Warning: 000001F9BAC06E00: libcurl info message cache 1 (  Trying 1.1.1.1...)
+[2018.08.18-10.15.43:991][771]LogHttp: Warning: 000001F9BAC06E00: libcurl info message cache 2 (connect to 1.1.1.1 port 443 failed: Timed out)
+[2018.08.18-10.15.43:991][771]LogHttp: Warning: 000001F9BAC06E00: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.08.18-10.15.43:991][771]LogHttp: Warning: 000001F9BAC06E00: libcurl info message cache 4 (Closing connection 5)
+[2018.08.18-10.15.54:114][375]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2018.08.18-10.16.06:187][ 84]LogSavePackage: Save=54.92ms
+[2018.08.18-10.16.06:187][ 84]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Tutorial_Level15F4590B4109A9F163B8B0A790407A62.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap'
+[2018.08.18-10.16.06:196][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap
+[2018.08.18-10.16.30:843][540]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.18-10.16.42:536][231]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.18-10.18.05:476][894]LogHttp: Warning: 000001F9CCE6A380: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.08.18-10.18.05:476][894]LogHttp: Warning: 000001F9CCE6A380: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.08.18-10.18.05:476][894]LogHttp: Warning: 000001F9CCE6A380: libcurl info message cache 1 (  Trying 1.1.1.1...)
+[2018.08.18-10.18.05:476][894]LogHttp: Warning: 000001F9CCE6A380: libcurl info message cache 2 (connect to 1.1.1.1 port 443 failed: Timed out)
+[2018.08.18-10.18.05:476][894]LogHttp: Warning: 000001F9CCE6A380: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.08.18-10.18.05:476][894]LogHttp: Warning: 000001F9CCE6A380: libcurl info message cache 4 (Closing connection 6)
+[2018.08.18-10.18.59:037][853]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 113 classes and 0 folders.
+[2018.08.18-10.19.01:811][854]LogSlate: Took 0.012217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.18-10.19.27:730][ 55]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.08.18-10.19.31:441][204]LogSavePackage: Save=190.49ms
+[2018.08.18-10.19.31:441][204]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/2DSideScrollerCharacterD57D0BA247003F290C93A395F694FC4D.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.08.18-10.19.31:450][204]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2018.08.18-10.19.33:204][301]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.18-10.19.33:232][301]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.19.33:232][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.18-10.19.33:232][301]PIE: New page: PIE session: Tutorial_Level (18 Aug 2018 12:19:33)
+[2018.08.18-10.19.33:232][301]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.18-10.19.33:235][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003070s)
+[2018.08.18-10.19.33:236][301]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.18-10.19.33:236][301]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2018.08.18-10.19.33:236][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.004124s)
+[2018.08.18-10.19.33:272][301]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.18-10.19.33:295][301]LogInit: FAudioDevice initialized.
+[2018.08.18-10.19.33:331][301]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.18-10.19.33:335][301]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.18-11.19.33
+[2018.08.18-10.19.33:335][301]LogWorld: Bringing up level for play took: 0.002887
+[2018.08.18-10.19.33:429][301]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level -0.486
+[2018.08.18-10.19.33:430][301]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.19.40:963][739]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.19.41:008][739]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.19.42:598][825]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.08.18-10.19.43:642][887]Cmd: DELETE
+[2018.08.18-10.19.43:642][887]Cmd: ACTOR DELETE
+[2018.08.18-10.19.43:804][887]LogEditorActor: Deleted Actor: PlayerStart
+[2018.08.18-10.19.43:824][887]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.08.18-10.19.45:021][955]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.18-10.19.45:047][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.19.45:047][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.18-10.19.45:047][955]PIE: New page: PIE session: Tutorial_Level (18 Aug 2018 12:19:45)
+[2018.08.18-10.19.45:047][955]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.18-10.19.45:050][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002765s)
+[2018.08.18-10.19.45:051][955]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.18-10.19.45:051][955]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2018.08.18-10.19.45:051][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.003912s)
+[2018.08.18-10.19.45:082][955]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.18-10.19.45:104][955]LogInit: FAudioDevice initialized.
+[2018.08.18-10.19.45:137][955]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.18-10.19.45:140][955]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.18-11.19.45
+[2018.08.18-10.19.45:141][955]LogWorld: Bringing up level for play took: 0.002929
+[2018.08.18-10.19.45:143][955]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level -0.771
+[2018.08.18-10.19.45:143][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.19.58:594][762]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.19.58:633][762]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.20.26:521][388]LogHttp: Warning: 000001F99D1C7B80: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.08.18-10.20.26:521][388]LogHttp: Warning: 000001F99D1C7B80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.08.18-10.20.26:521][388]LogHttp: Warning: 000001F99D1C7B80: libcurl info message cache 1 (  Trying 1.1.1.1...)
+[2018.08.18-10.20.26:521][388]LogHttp: Warning: 000001F99D1C7B80: libcurl info message cache 2 (connect to 1.1.1.1 port 443 failed: Timed out)
+[2018.08.18-10.20.26:521][388]LogHttp: Warning: 000001F99D1C7B80: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.08.18-10.20.26:521][388]LogHttp: Warning: 000001F99D1C7B80: libcurl info message cache 4 (Closing connection 7)
+[2018.08.18-10.20.49:319][755]Cmd: TRANSACTION UNDO
+[2018.08.18-10.20.49:319][755]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.20.49:689][775]Cmd: TRANSACTION UNDO
+[2018.08.18-10.20.49:689][775]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.20.50:097][798]Cmd: TRANSACTION UNDO
+[2018.08.18-10.20.50:097][798]LogEditorTransaction: Undo Tile Painting
+[2018.08.18-10.21.28:633][109]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.18-10.21.28:659][109]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.21.28:659][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.18-10.21.28:659][109]PIE: New page: PIE session: Tutorial_Level (18 Aug 2018 12:21:28)
+[2018.08.18-10.21.28:659][109]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.18-10.21.28:663][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003078s)
+[2018.08.18-10.21.28:663][109]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.18-10.21.28:664][109]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2018.08.18-10.21.28:664][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.004291s)
+[2018.08.18-10.21.28:697][109]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.18-10.21.28:719][109]LogInit: FAudioDevice initialized.
+[2018.08.18-10.21.28:755][109]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.18-10.21.28:759][109]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.18-11.21.28
+[2018.08.18-10.21.28:760][109]LogWorld: Bringing up level for play took: 0.003075
+[2018.08.18-10.21.28:762][109]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level 0.847
+[2018.08.18-10.21.28:762][109]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.21.36:997][603]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.21.37:034][603]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.22.47:553][790]LogHttp: Warning: 000001FA00CF2500: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.08.18-10.22.47:553][790]LogHttp: Warning: 000001FA00CF2500: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.08.18-10.22.47:553][790]LogHttp: Warning: 000001FA00CF2500: libcurl info message cache 1 (  Trying 1.1.1.1...)
+[2018.08.18-10.22.47:553][790]LogHttp: Warning: 000001FA00CF2500: libcurl info message cache 2 (connect to 1.1.1.1 port 443 failed: Timed out)
+[2018.08.18-10.22.47:553][790]LogHttp: Warning: 000001FA00CF2500: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.08.18-10.22.47:553][790]LogHttp: Warning: 000001FA00CF2500: libcurl info message cache 4 (Closing connection 8)
+[2018.08.18-10.22.53:487][133]LogSavePackage: Save=68.42ms
+[2018.08.18-10.22.53:487][133]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Tutorial_Level56743E544A09C2C3C95C3A945624CB4B.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap'
+[2018.08.18-10.22.53:496][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap
+[2018.08.18-10.22.54:997][213]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.18-10.22.55:032][213]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.22.55:032][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.18-10.22.55:032][213]PIE: New page: PIE session: Tutorial_Level (18 Aug 2018 12:22:55)
+[2018.08.18-10.22.55:032][213]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.18-10.22.55:036][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003191s)
+[2018.08.18-10.22.55:036][213]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.18-10.22.55:037][213]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2018.08.18-10.22.55:037][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.004293s)
+[2018.08.18-10.22.55:098][213]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.18-10.22.55:121][213]LogInit: FAudioDevice initialized.
+[2018.08.18-10.22.55:152][213]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.18-10.22.55:156][213]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.18-11.22.55
+[2018.08.18-10.22.55:268][213]LogWorld: Bringing up level for play took: 0.114963
+[2018.08.18-10.22.55:270][213]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level -0.645
+[2018.08.18-10.22.55:271][213]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.23.04:770][778]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.23.04:852][778]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.23.24:483][942]LogEditorViewport: Clicking Background
+[2018.08.18-10.23.26:535][ 63]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.08.18-10.23.27:786][132]Cmd: DELETE
+[2018.08.18-10.23.27:786][132]Cmd: ACTOR DELETE
+[2018.08.18-10.23.27:787][132]LogEditorActor: Deleted Actor: 2DSideScrollerCharacter_C
+[2018.08.18-10.23.27:836][132]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2018.08.18-10.23.34:092][505]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.23.34:092][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.18-10.23.34:092][505]PIE: New page: SIE session: Tutorial_Level (18 Aug 2018 12:23:34)
+[2018.08.18-10.23.34:092][505]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.18-10.23.34:095][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002844s)
+[2018.08.18-10.23.34:096][505]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.18-10.23.34:096][505]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2018.08.18-10.23.34:096][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.003933s)
+[2018.08.18-10.23.34:130][505]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.18-10.23.34:152][505]LogInit: FAudioDevice initialized.
+[2018.08.18-10.23.34:187][505]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.18-10.23.34:190][505]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.18-11.23.34
+[2018.08.18-10.23.34:191][505]LogWorld: Bringing up level for play took: 0.002924
+[2018.08.18-10.23.34:191][505]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.18-10.23.34:192][505]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level 0.277
+[2018.08.18-10.23.34:297][505]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.23.37:452][690]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=64.850 Z=-20.000] for [2DSideScrollerCharacter_C]
+[2018.08.18-10.23.37:452][690]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type 2DSideScrollerCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.08.18-10.23.39:579][809]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.23.39:615][809]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.23.43:140][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.23.43:140][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.18-10.23.43:140][ 17]PIE: New page: PIE session: Tutorial_Level (18 Aug 2018 12:23:43)
+[2018.08.18-10.23.43:141][ 17]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.18-10.23.43:143][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002756s)
+[2018.08.18-10.23.43:144][ 17]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.18-10.23.43:144][ 17]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2018.08.18-10.23.43:144][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.003751s)
+[2018.08.18-10.23.43:178][ 17]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.18-10.23.43:199][ 17]LogInit: FAudioDevice initialized.
+[2018.08.18-10.23.43:235][ 17]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.18-10.23.43:239][ 17]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.18-11.23.43
+[2018.08.18-10.23.43:239][ 17]LogWorld: Bringing up level for play took: 0.002802
+[2018.08.18-10.23.43:241][ 17]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level -0.673
+[2018.08.18-10.23.43:241][ 17]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.23.45:276][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.23.45:310][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.23.47:087][244]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.18-10.23.47:110][244]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.23.47:110][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.18-10.23.47:110][244]PIE: New page: PIE session: Tutorial_Level (18 Aug 2018 12:23:47)
+[2018.08.18-10.23.47:110][244]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.18-10.23.47:113][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002780s)
+[2018.08.18-10.23.47:114][244]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.18-10.23.47:114][244]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2018.08.18-10.23.47:114][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.003755s)
+[2018.08.18-10.23.47:146][244]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.18-10.23.47:167][244]LogInit: FAudioDevice initialized.
+[2018.08.18-10.23.47:198][244]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.18-10.23.47:202][244]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.18-11.23.47
+[2018.08.18-10.23.47:202][244]LogWorld: Bringing up level for play took: 0.002995
+[2018.08.18-10.23.47:204][244]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level -0.711
+[2018.08.18-10.23.47:204][244]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.18-10.23.57:253][847]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.08.18-10.24.05:603][320]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Level_1
+[2018.08.18-10.24.05:603][320]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Level_1
+[2018.08.18-10.24.05:627][320]Cmd: MEM
+[2018.08.18-10.24.05:648][320]LogMemory: Platform Memory Stats for Windows
+[2018.08.18-10.24.05:648][320]LogMemory: Process Physical Memory: 1467.11 MB used, 1471.70 MB peak
+[2018.08.18-10.24.05:648][320]LogMemory: Process Virtual Memory: 2361.33 MB used, 2383.39 MB peak
+[2018.08.18-10.24.05:648][320]LogMemory: Physical Memory: 4938.20 MB used,  11358.07 MB free, 16296.27 MB total
+[2018.08.18-10.24.05:648][320]LogMemory: Virtual Memory: 7436.82 MB used,  11358.07 MB free, 134217728.00 MB total
+[2018.08.18-10.24.05:648][320]LogMemory: 
+[2018.08.18-10.24.05:648][320]Allocator Stats for TBB: (not implemented)
+[2018.08.18-10.24.10:394][320]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.166 s
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: === Handled ensure: ===
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: 
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: 
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: Stack: 
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D7F53E36
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D7CDC2D2
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D7CF4746
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000CFC0D5D9
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000CFBDC90D
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D9040F67
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D934B666
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D9361766
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D9360CB2
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000D57CE10B
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000D5786AE8
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000D57ED89D
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000D285BF80
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000D30ED646
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor.exe!0x00000000335C534A
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor.exe!0x00000000335D3970
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor.exe!0x00000000335D39EA
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor.exe!0x00000000335E02D9
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: UE4Editor.exe!0x00000000335E1C47
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: KERNEL32.DLL!0x0000000015CF3034
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: ntdll.dll!0x0000000018861431
+[2018.08.18-10.24.10:394][320]LogOutputDevice: Error: 
+[2018.08.18-10.24.10:401][320]LogStats:                SubmitErrorReport -  0.000 s

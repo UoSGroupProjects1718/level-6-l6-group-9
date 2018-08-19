@@ -1,0 +1,965 @@
+﻿Log file open, 08/17/18 20:06:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Ninja_Bunnies
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1369623021) SRandInit(1369623021).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 9.385497
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.17-19.06.52:608][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.17-19.06.52:608][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.17-19.06.53:211][  0]LogInit: Computer: QUWAINES-LAPTOP
+[2018.08.17-19.06.53:211][  0]LogInit: User: Quwaine
+[2018.08.17-19.06.53:211][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.17-19.06.53:211][  0]LogInit: High frequency timer resolution =2.435780 MHz
+[2018.08.17-19.06.53:251][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.17-19.06.53:251][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.17-19.06.53:251][  0]LogMemory: Process Physical Memory: 280.58 MB used, 280.58 MB peak
+[2018.08.17-19.06.53:251][  0]LogMemory: Process Virtual Memory: 282.39 MB used, 282.39 MB peak
+[2018.08.17-19.06.53:251][  0]LogMemory: Physical Memory: 2390.58 MB used,  13905.69 MB free, 16296.27 MB total
+[2018.08.17-19.06.53:251][  0]LogMemory: Virtual Memory: 4812.27 MB used,  13905.69 MB free, 134217728.00 MB total
+[2018.08.17-19.07.09:666][  0]LogInit: Using OS detected language (en-GB).
+[2018.08.17-19.07.09:666][  0]LogInit: Using OS detected locale (en-GB).
+[2018.08.17-19.07.10:659][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.08.17-19.07.40:332][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.17-19.08.03:556][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2018.08.17-19.08.03:556][  0]LogD3D11RHI:       4055/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.17-19.08.03:749][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.08.17-19.08.03:749][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.08.17-19.08.03:753][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.17-19.08.03:753][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.17-19.08.03:753][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.17-19.08.08:015][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.17-19.08.08:015][  0]LogD3D11RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.17-19.08.08:015][  0]LogWindows: EnumDisplayDevices:
+[2018.08.17-19.08.08:015][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.08.17-19.08.08:015][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.08.17-19.08.08:016][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.08.17-19.08.08:016][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.17-19.08.08:016][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2018.08.17-19.08.08:016][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.17-19.08.08:016][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.17-19.08.08:016][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.08.17-19.08.08:491][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.17-19.08.13:062][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 26)
+[2018.08.17-19.08.14:191][  0]LogShaderCompilers: Guid format shader working directory is -54 characters bigger than the processId version (../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Intermediate/Shaders/WorkingDirectory/11556/).
+[2018.08.17-19.08.14:192][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Quwaine/AppData/Local/Temp/UnrealShaderWorkingDir/C7B3EBF4479A3B092C17AD80498D868C/'.
+[2018.08.17-19.08.14:260][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.17-19.08.46:070][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.17-19.08.46:437][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.17-19.08.46:843][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.17-19.08.47:225][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.17-19.08.47:811][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.17-19.08.48:245][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.17-19.08.48:652][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.17-19.08.49:007][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.17-19.08.49:650][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.17-19.08.50:203][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.17-19.08.50:674][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.17-19.08.51:139][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.17-19.08.51:614][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.17-19.08.52:091][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.17-19.08.52:580][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.17-19.08.53:611][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.17-19.08.53:611][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.17-19.08.54:081][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.17-19.08.55:684][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.17-19.08.55:936][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.17-19.08.56:426][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.17-19.08.56:875][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.17-19.08.57:346][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.17-19.08.57:931][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.17-19.08.57:931][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.17-19.09.12:473][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.17-19.09.46:799][  0]LogDerivedDataCache: Loaded boot cache 34.28s 93MB C:/Users/Quwaine/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.08.17-19.09.46:799][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Quwaine/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.08.17-19.09.46:799][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.17-19.09.46:799][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.17-19.09.46:799][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.17-19.09.46:799][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.17-19.09.47:170][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.17-19.09.47:225][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Quwaine/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.17-19.09.47:739][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.17-19.09.48:510][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.17-19.09.48:996][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.17-19.09.49:062][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.17-19.11.23:748][  0]LogAssetRegistry: FAssetRegistry took 0.6438 seconds to start up
+[2018.08.17-19.11.31:069][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.17-19.12.00:832][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.08.17-19.12.12:619][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.17-19.12.13:668][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.17-19.12.13:809][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.17-19.12.13:809][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.17-19.12.13:809][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.17-19.12.13:809][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.17-19.12.51:322][  0]LogNetVersion: Ninja_Bunnies , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1886342967)
+[2018.08.17-19.13.05:236][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.774072 seconds
+[2018.08.17-19.13.05:287][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.08.17-19.13.05:288][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.08.17-19.13.05:288][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.17-19.13.06:177][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.08.17-19.16.06:740][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.17-19.16.07:162][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.17-19.16.24:039][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.08.17-19.16.31:584][  0]SourceControl: Source control is disabled
+[2018.08.17-19.16.31:584][  0]SourceControl: Source control is disabled
+[2018.08.17-19.16.32:502][  0]SourceControl: Source control is disabled
+[2018.08.17-19.16.33:356][  0]SourceControl: Source control is disabled
+[2018.08.17-19.16.45:370][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.17-19.16.48:359][  0]LogOcInput: OculusInput pre-init called
+[2018.08.17-19.16.54:830][  0]LogEngine: Initializing Engine...
+[2018.08.17-19.16.55:049][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.17-19.16.58:660][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.17-19.16.58:764][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.032 s
+[2018.08.17-19.17.02:941][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.17-19.17.03:777][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-19.17.04:002][  0]LogInit: FAudioDevice initialized.
+[2018.08.17-19.17.04:917][  0]LogDerivedDataCache: Saved boot cache 0.92s 93MB C:/Users/Quwaine/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.08.17-19.17.05:072][  0]LogInit: Texture streaming: Enabled
+[2018.08.17-19.17.08:224][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.17-19.17.08:224][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={16D62B97-469D-F23A-F881-6792BB6AED96}
+[2018.08.17-19.17.08:224][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={05D148FD-40ED-EBCA-FC6C-1EB1E3CF343E}
+[2018.08.17-19.17.15:899][  0]LogInit: Transaction tracking system initialized
+[2018.08.17-19.17.27:468][  0]BlueprintLog: New page: Editor Load
+[2018.08.17-19.17.51:201][  0]LocalizationService: Localization service is disabled
+[2018.08.17-19.18.05:051][  0]LogConsoleResponse: Display: 
+[2018.08.17-19.18.17:979][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/' took 0.02s
+[2018.08.17-19.18.17:979][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.17-19.18.17:979][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.17-19.18.18:234][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.17-19.18.39:606][  0]SourceControl: Source control is disabled
+[2018.08.17-19.18.44:213][  0]LogSlate: Took 0.067511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.17-19.19.07:270][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.17-19.19.07:647][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.17-19.19.07:901][  0]LightingResults: New page: Lighting Build
+[2018.08.17-19.19.08:389][  0]MapCheck: New page: Map Check
+[2018.08.17-19.19.08:389][  0]LightingResults: New page: Lighting Build
+[2018.08.17-19.19.13:755][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.08.17-19.19.14:434][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.17-19.19.14:617][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.17-19.19.14:843][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 226.514ms to complete.
+[2018.08.17-19.19.14:844][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 7.097
+[2018.08.17-19.19.16:968][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_1bd4_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_2c0_0///####STATCAT_Advanced####
+[2018.08.17-19.19.16:968][  0]LogCollectionManager: Loaded 0 collections in 0.002763 seconds
+[2018.08.17-19.19.17:714][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Collections/' took 0.01s
+[2018.08.17-19.19.17:715][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/Developers/Quwaine/Collections/' took 0.01s
+[2018.08.17-19.19.17:715][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/Collections/' took 0.01s
+[2018.08.17-19.19.17:715][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.17-19.19.17:728][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2386 classes and 500 folders.
+[2018.08.17-19.19.18:348][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0234 seconds. Added 0 classes and 0 folders.
+[2018.08.17-19.19.20:557][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.08.17-19.19.20:988][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2018.08.17-19.19.22:562][  0]LogSlate: Took 0.012757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.17-19.19.22:641][  0]LogSlate: Took 0.019262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.17-19.19.23:121][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2018.08.17-19.19.24:962][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2018.08.17-19.19.24:962][  0]LogLoad: (Engine Initialization) Total time: 790.99 seconds
+[2018.08.17-19.19.24:962][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.17-19.19.24:986][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.08.17-19.19.24:986][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.08.17-19.19.25:187][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.08.17-19.19.25:444][  0]LogSlate: Took 0.020210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.17-19.19.25:600][  4]LogAssetRegistry: Asset discovery search completed in 481.9834 seconds
+[2018.08.17-19.19.25:603][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.17-19.19.25:603][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2018.08.17-19.20.02:925][190]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.17-19.20.03:199][190]LogSlate: Took 0.013075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.17-19.20.03:318][190]LogRenderer: Reallocating scene render targets to support 964x708 Format 10 NumSamples 1 (Frame:1).
+[2018.08.17-19.20.25:069][385]LogHttp: Warning: 00000199370BA800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.20.25:069][385]LogHttp: Warning: 00000199370BA800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.20.25:069][385]LogHttp: Warning: 00000199370BA800: libcurl info message cache 1 (Closing connection 0)
+[2018.08.17-19.22.25:096][458]LogHttp: Warning: 00000199371B4880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.22.25:096][458]LogHttp: Warning: 00000199371B4880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.22.25:096][458]LogHttp: Warning: 00000199371B4880: libcurl info message cache 1 (Closing connection 1)
+[2018.08.17-19.23.12:359][160]Cmd: TRANSACTION UNDO
+[2018.08.17-19.23.12:359][160]LogEditorTransaction: Undo Tile Painting
+[2018.08.17-19.23.12:395][160]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.17-19.24.25:128][430]LogHttp: Warning: 00000199371B7100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.24.25:128][430]LogHttp: Warning: 00000199371B7100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.24.25:128][430]LogHttp: Warning: 00000199371B7100: libcurl info message cache 1 (Closing connection 2)
+[2018.08.17-19.25.27:993][ 61]Cmd: TRANSACTION UNDO
+[2018.08.17-19.25.27:993][ 61]LogEditorTransaction: Undo Tile Painting
+[2018.08.17-19.25.28:264][ 76]Cmd: TRANSACTION UNDO
+[2018.08.17-19.25.28:264][ 76]LogEditorTransaction: Undo Tile Painting
+[2018.08.17-19.25.28:539][ 89]Cmd: TRANSACTION UNDO
+[2018.08.17-19.25.28:539][ 89]LogEditorTransaction: Undo Tile Painting
+[2018.08.17-19.26.25:218][570]LogHttp: Warning: 00000199370B9180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.26.25:218][570]LogHttp: Warning: 00000199370B9180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.26.25:218][570]LogHttp: Warning: 00000199370B9180: libcurl info message cache 1 (Closing connection 3)
+[2018.08.17-19.28.25:252][472]LogHttp: Warning: 00000199371B4280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.28.25:252][472]LogHttp: Warning: 00000199371B4280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.28.25:252][472]LogHttp: Warning: 00000199371B4280: libcurl info message cache 1 (Closing connection 4)
+[2018.08.17-19.28.29:823][559]LogSavePackage: Save=534.57ms
+[2018.08.17-19.28.29:823][559]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Ninja_Bunnies_Tutorial_Level14FDEF2345D48B4FFD0509B691E76596.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.uasset'
+[2018.08.17-19.28.29:856][559]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.uasset
+[2018.08.17-19.30.25:312][265]LogHttp: Warning: 00000199371B4280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.30.25:312][265]LogHttp: Warning: 00000199371B4280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.30.25:312][265]LogHttp: Warning: 00000199371B4280: libcurl info message cache 1 (Closing connection 5)
+[2018.08.17-19.32.25:363][304]LogHttp: Warning: 00000199371B6980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.32.25:363][304]LogHttp: Warning: 00000199371B6980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.32.25:363][304]LogHttp: Warning: 00000199371B6980: libcurl info message cache 1 (Closing connection 6)
+[2018.08.17-19.32.54:920][290]LogSavePackage: Save=471.86ms
+[2018.08.17-19.32.54:920][290]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Ninja_Bunnies_Tutorial_Level631CCC3E4F62F0169E6687BEB81C8469.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.uasset'
+[2018.08.17-19.32.54:936][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.uasset
+[2018.08.17-19.33.29:902][363]LogSavePackage: Save=33.87ms
+[2018.08.17-19.33.29:902][363]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Tutorial_Level44045E55455FACA0D98648AA397A7BAC.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap'
+[2018.08.17-19.33.29:936][363]LogSlate: Took 0.001078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.17-19.33.29:952][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap
+[2018.08.17-19.33.29:971][363]LogFileHelpers: Saving map 'Tutorial_Level' took 0.956
+[2018.08.17-19.33.29:997][363]LightingResults: New page: Lighting Build
+[2018.08.17-19.33.30:000][363]LoadErrors: New page: Loading map: Tutorial_Level.umap
+[2018.08.17-19.33.30:009][363]MapCheck: New page: Map Check
+[2018.08.17-19.33.30:010][363]LightingResults: New page: Lighting Build
+[2018.08.17-19.33.30:301][363]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.17-19.33.30:302][363]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-19.33.30:447][363]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.17-19.33.31:138][363]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 692.024ms to complete.
+[2018.08.17-19.33.31:141][363]LogFileHelpers: Loading map 'Tutorial_Level' took 1.163
+[2018.08.17-19.34.18:365][945]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Ninja_Bunnies_Tutorial_Level)
+[2018.08.17-19.34.25:430][203]LogHttp: Warning: 0000019904F91F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.34.25:430][203]LogHttp: Warning: 0000019904F91F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.34.25:430][203]LogHttp: Warning: 0000019904F91F00: libcurl info message cache 1 (Closing connection 7)
+[2018.08.17-19.34.37:179][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.37:180][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[0] invalid
+[2018.08.17-19.34.37:180][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.37:180][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[1] invalid
+[2018.08.17-19.34.37:180][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.37:180][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[2] invalid
+[2018.08.17-19.34.37:180][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.37:180][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[3] invalid
+[2018.08.17-19.34.37:180][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.37:180][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[4] invalid
+[2018.08.17-19.34.37:180][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.37:180][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[5] invalid
+[2018.08.17-19.34.37:182][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.37:182][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[0] invalid
+[2018.08.17-19.34.37:182][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.37:182][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[1] invalid
+[2018.08.17-19.34.37:182][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.37:182][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[2] invalid
+[2018.08.17-19.34.37:182][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.37:182][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[3] invalid
+[2018.08.17-19.34.37:182][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.37:183][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[4] invalid
+[2018.08.17-19.34.37:183][623]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.37:183][623]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[5] invalid
+[2018.08.17-19.34.39:920][721]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.39:920][721]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[0] invalid
+[2018.08.17-19.34.39:920][721]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.39:921][721]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[1] invalid
+[2018.08.17-19.34.39:921][721]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.39:921][721]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[2] invalid
+[2018.08.17-19.34.39:921][721]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.39:921][721]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[3] invalid
+[2018.08.17-19.34.39:921][721]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.39:921][721]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[4] invalid
+[2018.08.17-19.34.39:921][721]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.39:921][721]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[5] invalid
+[2018.08.17-19.34.41:940][791]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.08.17-19.34.47:378][968]LogSlate: Took 0.028267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.17-19.34.48:424][  4]LogTemp: Repeating last play command: Simulate
+[2018.08.17-19.34.48:724][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-19.34.48:765][  4]PIE: New page: SIE session: Tutorial_Level (17 Aug 2018 21:34:48)
+[2018.08.17-19.34.48:765][  4]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.17-19.34.48:781][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015887s)
+[2018.08.17-19.34.48:783][  4]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-19.34.48:784][  4]LogPlayLevel: PIE: World Init took: (0.002664s)
+[2018.08.17-19.34.48:785][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.019604s)
+[2018.08.17-19.34.48:899][  4]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-19.34.48:968][  4]LogInit: FAudioDevice initialized.
+[2018.08.17-19.34.49:143][  4]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.17-19.34.49:221][  4]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.49:221][  4]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[0] invalid
+[2018.08.17-19.34.49:221][  4]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.49:221][  4]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[1] invalid
+[2018.08.17-19.34.49:221][  4]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.49:221][  4]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[2] invalid
+[2018.08.17-19.34.49:222][  4]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.49:222][  4]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[3] invalid
+[2018.08.17-19.34.49:222][  4]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.49:222][  4]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[4] invalid
+[2018.08.17-19.34.49:222][  4]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.34.49:222][  4]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[5] invalid
+[2018.08.17-19.34.49:231][  4]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.17-20.34.49
+[2018.08.17-19.34.49:293][  4]LogWorld: Bringing up level for play took: 0.073127
+[2018.08.17-19.34.49:312][  4]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.17-19.34.50:373][  4]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0042 seconds. Added 11 classes and 0 folders.
+[2018.08.17-19.34.50:409][  4]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level 1.499
+[2018.08.17-19.34.55:829][186]LogEditorViewport: Clicking Background
+[2018.08.17-19.34.57:352][236]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:352][236]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:685][245]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:685][245]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:712][246]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:713][246]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:770][247]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:770][247]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:806][248]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:806][248]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:841][249]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:841][249]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:878][250]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:878][250]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:913][251]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:913][251]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:915][251]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:915][251]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:950][252]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:950][252]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:984][253]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.57:985][253]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.58:053][255]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.58:053][255]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.58:240][261]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.58:240][261]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.58:445][269]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.58:445][269]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.58:529][272]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.58:529][272]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.58:588][274]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.58:588][274]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.58:645][276]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.34.58:646][276]PIE: Warning: Mobility of /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level:PersistentLevel.Brush_0 : BrushComponent0 has to be 'Movable' if you'd like to move. 
+[2018.08.17-19.35.27:658][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.35.27:658][293]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[0] invalid
+[2018.08.17-19.35.27:658][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.35.27:658][293]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[1] invalid
+[2018.08.17-19.35.27:658][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.35.27:658][293]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[2] invalid
+[2018.08.17-19.35.27:658][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.35.27:658][293]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[3] invalid
+[2018.08.17-19.35.27:659][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.35.27:659][293]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[4] invalid
+[2018.08.17-19.35.27:659][293]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.08.17-19.35.27:659][293]LogPhysics: Warning: ForeachShape(Convex): [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.Ninja_Bunnies_Tutorial_Level] ScaledElem[5] invalid
+[2018.08.17-19.36.00:809][491]Cmd: DELETE
+[2018.08.17-19.36.00:810][491]Cmd: ACTOR DELETE
+[2018.08.17-19.36.00:964][491]LogEditorActor: Deleted Actor: PaperTileMapActor
+[2018.08.17-19.36.01:006][491]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.08.17-19.36.11:105][842]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.08.17-19.36.12:596][842]LightingResults: New page: Lighting Build
+[2018.08.17-19.36.12:599][842]LoadErrors: New page: Loading map: 2DSideScrollerExampleMap.umap
+[2018.08.17-19.36.12:603][842]MapCheck: New page: Map Check
+[2018.08.17-19.36.12:603][842]LightingResults: New page: Lighting Build
+[2018.08.17-19.36.12:947][842]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.17-19.36.13:086][842]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.17-19.36.13:799][842]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 712.252ms to complete.
+[2018.08.17-19.36.13:820][842]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 1.233
+[2018.08.17-19.36.17:162][968]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Ninja_Bunnies_First_Level)
+[2018.08.17-19.36.25:478][243]LogHttp: Warning: 0000019918D7BD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.36.25:479][243]LogHttp: Warning: 0000019918D7BD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.36.25:479][243]LogHttp: Warning: 0000019918D7BD00: libcurl info message cache 1 (Closing connection 8)
+[2018.08.17-19.36.25:781][251]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-19.36.25:828][251]LightingResults: New page: Lighting Build
+[2018.08.17-19.36.25:831][251]LoadErrors: New page: Loading map: Tutorial_Level.umap
+[2018.08.17-19.36.25:838][251]MapCheck: New page: Map Check
+[2018.08.17-19.36.25:838][251]LightingResults: New page: Lighting Build
+[2018.08.17-19.36.26:101][251]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.17-19.36.26:246][251]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.17-19.36.26:964][251]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 716.992ms to complete.
+[2018.08.17-19.36.26:967][251]LogFileHelpers: Loading map 'Tutorial_Level' took 1.143
+[2018.08.17-19.37.02:977][540]LogTemp: Repeating last play command: Simulate
+[2018.08.17-19.37.03:033][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-19.37.03:034][540]PIE: New page: SIE session: Tutorial_Level (17 Aug 2018 21:37:03)
+[2018.08.17-19.37.03:034][540]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.17-19.37.03:036][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002629s)
+[2018.08.17-19.37.03:038][540]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-19.37.03:038][540]LogPlayLevel: PIE: World Init took: (0.002076s)
+[2018.08.17-19.37.03:039][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.005473s)
+[2018.08.17-19.37.03:118][540]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-19.37.03:187][540]LogInit: FAudioDevice initialized.
+[2018.08.17-19.37.03:257][540]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.17-19.37.03:263][540]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.17-20.37.03
+[2018.08.17-19.37.03:264][540]LogWorld: Bringing up level for play took: 0.004041
+[2018.08.17-19.37.03:266][540]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.17-19.37.03:268][540]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level 0.357
+[2018.08.17-19.37.20:276][153]LogTemp: Repeating last play command: Simulate
+[2018.08.17-19.37.20:332][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-19.37.20:332][153]PIE: New page: SIE session: Tutorial_Level (17 Aug 2018 21:37:20)
+[2018.08.17-19.37.20:333][153]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.17-19.37.20:335][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002819s)
+[2018.08.17-19.37.20:337][153]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-19.37.20:337][153]LogPlayLevel: PIE: World Init took: (0.002066s)
+[2018.08.17-19.37.20:338][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.005592s)
+[2018.08.17-19.37.20:413][153]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-19.37.20:481][153]LogInit: FAudioDevice initialized.
+[2018.08.17-19.37.20:534][153]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.17-19.37.20:539][153]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.17-20.37.20
+[2018.08.17-19.37.20:541][153]LogWorld: Bringing up level for play took: 0.003942
+[2018.08.17-19.37.20:542][153]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.17-19.37.20:544][153]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level -0.368
+[2018.08.17-19.38.07:511][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-19.38.07:511][809]PIE: New page: SIE session: Tutorial_Level (17 Aug 2018 21:38:07)
+[2018.08.17-19.38.07:512][809]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.17-19.38.07:514][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002765s)
+[2018.08.17-19.38.07:516][809]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-19.38.07:517][809]LogPlayLevel: PIE: World Init took: (0.002373s)
+[2018.08.17-19.38.07:518][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.006155s)
+[2018.08.17-19.38.07:610][809]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-19.38.07:681][809]LogInit: FAudioDevice initialized.
+[2018.08.17-19.38.07:741][809]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.17-19.38.07:746][809]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.17-20.38.07
+[2018.08.17-19.38.07:748][809]LogWorld: Bringing up level for play took: 0.004042
+[2018.08.17-19.38.07:749][809]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.17-19.38.07:751][809]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level 0.84
+[2018.08.17-19.38.15:468][ 72]LogTemp: Repeating last play command: Simulate
+[2018.08.17-19.38.15:526][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-19.38.15:526][ 72]PIE: New page: SIE session: Tutorial_Level (17 Aug 2018 21:38:15)
+[2018.08.17-19.38.15:526][ 72]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.17-19.38.15:529][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002555s)
+[2018.08.17-19.38.15:531][ 72]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-19.38.15:531][ 72]LogPlayLevel: PIE: World Init took: (0.001966s)
+[2018.08.17-19.38.15:531][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.005339s)
+[2018.08.17-19.38.15:606][ 72]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-19.38.15:670][ 72]LogInit: FAudioDevice initialized.
+[2018.08.17-19.38.15:725][ 72]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.17-19.38.15:731][ 72]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.17-20.38.15
+[2018.08.17-19.38.15:732][ 72]LogWorld: Bringing up level for play took: 0.003725
+[2018.08.17-19.38.15:733][ 72]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.17-19.38.15:735][ 72]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level 0.824
+[2018.08.17-19.38.19:769][214]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Ninja_Bunnies_Tutorial_Level)
+[2018.08.17-19.38.25:613][418]LogHttp: Warning: 000001992A7F3700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.38.25:613][418]LogHttp: Warning: 000001992A7F3700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.38.25:613][418]LogHttp: Warning: 000001992A7F3700: libcurl info message cache 1 (Closing connection 9)
+[2018.08.17-19.38.34:055][736]LogTemp: Repeating last play command: Simulate
+[2018.08.17-19.38.34:111][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-19.38.34:112][736]PIE: New page: SIE session: Tutorial_Level (17 Aug 2018 21:38:34)
+[2018.08.17-19.38.34:112][736]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.17-19.38.34:115][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002868s)
+[2018.08.17-19.38.34:116][736]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-19.38.34:117][736]LogPlayLevel: PIE: World Init took: (0.001962s)
+[2018.08.17-19.38.34:117][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.005500s)
+[2018.08.17-19.38.34:192][736]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-19.38.34:256][736]LogInit: FAudioDevice initialized.
+[2018.08.17-19.38.34:311][736]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.17-19.38.34:316][736]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.17-20.38.34
+[2018.08.17-19.38.34:318][736]LogWorld: Bringing up level for play took: 0.004210
+[2018.08.17-19.38.34:321][736]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level -0.59
+[2018.08.17-19.38.42:336][ 26]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.08.17-19.38.43:484][ 65]Cmd: DELETE
+[2018.08.17-19.38.43:484][ 65]Cmd: ACTOR DELETE
+[2018.08.17-19.38.43:486][ 65]LogEditorActor: Deleted Actor: PlayerStart
+[2018.08.17-19.38.43:528][ 65]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.08.17-19.39.11:626][ 72]LogEditorViewport: Clicking Background
+[2018.08.17-19.39.12:049][ 92]LogEditorViewport: Clicking Background
+[2018.08.17-19.39.12:879][128]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Ninja_Bunnies_Tutorial_Level)
+[2018.08.17-19.39.33:375][888]LogTemp: Repeating last play command: Simulate
+[2018.08.17-19.39.33:445][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-19.39.33:445][888]PIE: New page: SIE session: Tutorial_Level (17 Aug 2018 21:39:33)
+[2018.08.17-19.39.33:445][888]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.17-19.39.33:449][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002962s)
+[2018.08.17-19.39.33:451][888]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-19.39.33:451][888]LogPlayLevel: PIE: World Init took: (0.002748s)
+[2018.08.17-19.39.33:452][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.006751s)
+[2018.08.17-19.39.33:530][888]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-19.39.33:597][888]LogInit: FAudioDevice initialized.
+[2018.08.17-19.39.33:653][888]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.17-19.39.33:659][888]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.17-20.39.33
+[2018.08.17-19.39.33:660][888]LogWorld: Bringing up level for play took: 0.004169
+[2018.08.17-19.39.33:662][888]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.17-19.39.33:664][888]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level 0.753
+[2018.08.17-19.39.53:870][615]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Ninja_Bunnies_Tutorial_Level)
+[2018.08.17-19.40.01:939][761]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0054 seconds. Added 113 classes and 0 folders.
+[2018.08.17-19.40.25:673][131]LogHttp: Warning: 000001999DC34B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.40.25:674][131]LogHttp: Warning: 000001999DC34B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.40.25:674][131]LogHttp: Warning: 000001999DC34B80: libcurl info message cache 1 (Closing connection 10)
+[2018.08.17-19.42.20:828][256]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.08.17-19.42.25:720][351]LogHttp: Warning: 000001999A98FA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.42.25:720][351]LogHttp: Warning: 000001999A98FA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.42.25:720][351]LogHttp: Warning: 000001999A98FA00: libcurl info message cache 1 (Closing connection 11)
+[2018.08.17-19.44.25:757][656]LogHttp: Warning: 000001999A777B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.44.25:757][656]LogHttp: Warning: 000001999A777B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.44.25:757][656]LogHttp: Warning: 000001999A777B80: libcurl info message cache 1 (Closing connection 12)
+[2018.08.17-19.46.25:825][570]LogHttp: Warning: 000001999AED3880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.46.25:825][570]LogHttp: Warning: 000001999AED3880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.46.25:825][570]LogHttp: Warning: 000001999AED3880: libcurl info message cache 1 (Closing connection 13)
+[2018.08.17-19.48.25:878][836]LogHttp: Warning: 00000199A0726E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.48.25:878][836]LogHttp: Warning: 00000199A0726E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.48.25:878][836]LogHttp: Warning: 00000199A0726E00: libcurl info message cache 1 (Closing connection 14)
+[2018.08.17-19.50.25:936][791]LogHttp: Warning: 000001999AA33A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.50.25:936][791]LogHttp: Warning: 000001999AA33A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.50.25:936][791]LogHttp: Warning: 000001999AA33A00: libcurl info message cache 1 (Closing connection 15)
+[2018.08.17-19.51.18:387][549]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.08.17-19.51.31:688][420]LogEditorViewport: Clicking Background
+[2018.08.17-19.51.34:452][726]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Ninja_Bunnies_Tutorial_Level)
+[2018.08.17-19.52.25:985][222]LogHttp: Warning: 000001999AB6AB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.52.25:985][222]LogHttp: Warning: 000001999AB6AB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.52.25:985][222]LogHttp: Warning: 000001999AB6AB00: libcurl info message cache 1 (Closing connection 16)
+[2018.08.17-19.52.29:630][416]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.08.17-19.52.54:398][  3]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.08.17-19.52.55:174][ 73]Cmd: DELETE
+[2018.08.17-19.52.55:174][ 73]Cmd: ACTOR DELETE
+[2018.08.17-19.52.55:174][ 73]LogEditorActor: Deleted Actor: 2DSideScrollerCharacter_C
+[2018.08.17-19.52.55:226][ 73]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.08.17-19.54.15:422][925]BlueprintLog: New page: Compile Tutorial_Level
+[2018.08.17-19.54.20:092][ 45]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.08.17-19.54.22:378][ 58]LogSavePackage: Save=428.56ms
+[2018.08.17-19.54.22:378][ 58]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/2DSideScrollerCharacter1D9D6C754ADF3865673925AFC4A5BB65.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.08.17-19.54.22:412][ 58]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2018.08.17-19.54.26:038][155]LogHttp: Warning: 0000019905374A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.54.26:038][155]LogHttp: Warning: 0000019905374A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.54.26:038][155]LogHttp: Warning: 0000019905374A00: libcurl info message cache 1 (Closing connection 17)
+[2018.08.17-19.54.29:136][255]LogTemp: Repeating last play command: Simulate
+[2018.08.17-19.54.29:215][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-19.54.29:215][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-19.54.29:216][255]PIE: New page: SIE session: Tutorial_Level (17 Aug 2018 21:54:29)
+[2018.08.17-19.54.29:216][255]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.17-19.54.29:220][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003568s)
+[2018.08.17-19.54.29:221][255]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-19.54.29:222][255]LogPlayLevel: PIE: World Init took: (0.002167s)
+[2018.08.17-19.54.29:222][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.006453s)
+[2018.08.17-19.54.29:322][255]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-19.54.29:391][255]LogInit: FAudioDevice initialized.
+[2018.08.17-19.54.29:445][255]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.17-19.54.29:451][255]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 0) at 2018.08.17-20.54.29
+[2018.08.17-19.54.29:452][255]LogWorld: Bringing up level for play took: 0.004285
+[2018.08.17-19.54.29:454][255]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.17-19.54.29:547][255]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level 0.636
+[2018.08.17-19.54.29:557][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-19.54.35:551][479]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-19.54.35:623][479]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-19.54.42:881][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-19.54.42:881][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-19.54.42:882][725]PIE: New page: PIE session: Tutorial_Level (17 Aug 2018 21:54:42)
+[2018.08.17-19.54.42:882][725]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.17-19.54.42:886][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003933s)
+[2018.08.17-19.54.42:888][725]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-19.54.42:889][725]LogPlayLevel: PIE: World Init took: (0.002586s)
+[2018.08.17-19.54.42:890][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.007302s)
+[2018.08.17-19.54.42:983][725]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-19.54.43:050][725]LogInit: FAudioDevice initialized.
+[2018.08.17-19.54.43:104][725]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.17-19.54.43:109][725]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 0) at 2018.08.17-20.54.43
+[2018.08.17-19.54.43:111][725]LogWorld: Bringing up level for play took: 0.004167
+[2018.08.17-19.54.43:116][725]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level 0.204
+[2018.08.17-19.54.43:116][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-19.55.16:542][929]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-19.55.16:617][929]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-19.56.26:121][224]LogHttp: Warning: 00000199B57E8100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.56.26:121][224]LogHttp: Warning: 00000199B57E8100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.56.26:121][224]LogHttp: Warning: 00000199B57E8100: libcurl info message cache 1 (Closing connection 18)
+[2018.08.17-19.56.51:892][ 50]LogSavePackage: Save=137.00ms
+[2018.08.17-19.56.51:892][ 50]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Ninja_Bunnies_Tutorial_LevelDF5BE6A54B0571C5D64AE9B42C393C0F.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.uasset'
+[2018.08.17-19.56.51:923][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.uasset
+[2018.08.17-19.57.23:847][ 51]LogSavePackage: Save=97.26ms
+[2018.08.17-19.57.23:847][ 51]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Tutorial_LevelA4874B894399F41FE23007B1C73384BA.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap'
+[2018.08.17-19.57.23:878][ 51]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap
+[2018.08.17-19.57.23:988][ 51]LogFileHelpers: Saving map 'Tutorial_Level' took 1.341
+[2018.08.17-19.58.26:198][209]LogHttp: Warning: 000001999AA6B400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-19.58.26:199][209]LogHttp: Warning: 000001999AA6B400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-19.58.26:199][209]LogHttp: Warning: 000001999AA6B400: libcurl info message cache 1 (Closing connection 19)
+[2018.08.17-20.00.26:279][147]LogHttp: Warning: 00000199B4EF4400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-20.00.26:279][147]LogHttp: Warning: 00000199B4EF4400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-20.00.26:279][147]LogHttp: Warning: 00000199B4EF4400: libcurl info message cache 1 (Closing connection 20)
+[2018.08.17-20.02.26:338][475]LogHttp: Warning: 00000199AB700100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-20.02.26:339][475]LogHttp: Warning: 00000199AB700100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-20.02.26:339][475]LogHttp: Warning: 00000199AB700100: libcurl info message cache 1 (Closing connection 21)
+[2018.08.17-20.03.34:576][943]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.17-20.03.34:702][943]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.03.34:702][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-20.03.34:704][943]PIE: New page: PIE session: Tutorial_Level (17 Aug 2018 22:03:34)
+[2018.08.17-20.03.34:705][943]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.17-20.03.34:713][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008358s)
+[2018.08.17-20.03.34:719][943]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-20.03.34:721][943]LogPlayLevel: PIE: World Init took: (0.007856s)
+[2018.08.17-20.03.34:722][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.017369s)
+[2018.08.17-20.03.34:880][943]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-20.03.34:958][943]LogInit: FAudioDevice initialized.
+[2018.08.17-20.03.35:020][943]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.17-20.03.35:029][943]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 0) at 2018.08.17-21.03.35
+[2018.08.17-20.03.35:031][943]LogWorld: Bringing up level for play took: 0.007708
+[2018.08.17-20.03.35:042][943]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level 0.131
+[2018.08.17-20.03.35:044][943]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.03.39:750][106]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.03.39:833][106]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.03.58:092][771]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.17-20.03.58:160][771]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.03.58:161][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-20.03.58:161][771]PIE: New page: PIE session: Tutorial_Level (17 Aug 2018 22:03:58)
+[2018.08.17-20.03.58:161][771]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.17-20.03.58:165][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003754s)
+[2018.08.17-20.03.58:167][771]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-20.03.58:167][771]LogPlayLevel: PIE: World Init took: (0.002183s)
+[2018.08.17-20.03.58:168][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.006681s)
+[2018.08.17-20.03.58:278][771]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-20.03.58:345][771]LogInit: FAudioDevice initialized.
+[2018.08.17-20.03.58:405][771]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.17-20.03.58:410][771]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 0) at 2018.08.17-21.03.58
+[2018.08.17-20.03.58:412][771]LogWorld: Bringing up level for play took: 0.004208
+[2018.08.17-20.03.58:417][771]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level -0.495
+[2018.08.17-20.03.58:417][771]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.04.02:296][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.04.02:369][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.04.26:379][777]LogHttp: Warning: 0000019915EE8700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-20.04.26:379][777]LogHttp: Warning: 0000019915EE8700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-20.04.26:379][777]LogHttp: Warning: 0000019915EE8700: libcurl info message cache 1 (Closing connection 22)
+[2018.08.17-20.05.06:269][248]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.17-20.05.06:340][248]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.05.06:341][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-20.05.06:341][248]PIE: New page: PIE session: Tutorial_Level (17 Aug 2018 22:05:06)
+[2018.08.17-20.05.06:341][248]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.17-20.05.06:348][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006769s)
+[2018.08.17-20.05.06:350][248]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-20.05.06:351][248]LogPlayLevel: PIE: World Init took: (0.002632s)
+[2018.08.17-20.05.06:352][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.010151s)
+[2018.08.17-20.05.06:456][248]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-20.05.06:525][248]LogInit: FAudioDevice initialized.
+[2018.08.17-20.05.06:580][248]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.17-20.05.06:586][248]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 0) at 2018.08.17-21.05.06
+[2018.08.17-20.05.06:588][248]LogWorld: Bringing up level for play took: 0.004319
+[2018.08.17-20.05.06:593][248]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level -0.319
+[2018.08.17-20.05.06:593][248]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.05.26:650][973]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.05.26:776][973]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.06.26:435][918]LogHttp: Warning: 000001999AD6A980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-20.06.26:435][918]LogHttp: Warning: 000001999AD6A980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-20.06.26:435][918]LogHttp: Warning: 000001999AD6A980: libcurl info message cache 1 (Closing connection 23)
+[2018.08.17-20.07.53:000][714]LogSavePackage: Save=117.83ms
+[2018.08.17-20.07.53:000][714]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Tutorial_Level_Auto1672BF8D1427013F060757385BAB47BD0.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Tutorial_Level_Auto1.umap'
+[2018.08.17-20.07.53:015][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Tutorial_Level_Auto1.umap
+[2018.08.17-20.07.53:027][714]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Tutorial_Level' took 0.555
+[2018.08.17-20.07.53:027][714]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.555
+[2018.08.17-20.07.53:044][714]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level] ([1] browsable assets)...
+[2018.08.17-20.07.53:044][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level]
+[2018.08.17-20.07.53:367][714]LogSavePackage: Save=83.02ms
+[2018.08.17-20.07.53:367][714]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Ninja_Bunnies_Tutorial_Level_Auto12FD95EA649C59A626D3D77A2D43A4A29.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level_Auto1.uasset'
+[2018.08.17-20.07.53:394][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level_Auto1.uasset
+[2018.08.17-20.07.53:394][714]LogFileHelpers: Auto-saving content packages took 0.362
+[2018.08.17-20.08.26:535][781]LogHttp: Warning: 000001999EB2D600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-20.08.26:535][781]LogHttp: Warning: 000001999EB2D600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-20.08.26:535][781]LogHttp: Warning: 000001999EB2D600: libcurl info message cache 1 (Closing connection 24)
+[2018.08.17-20.10.26:582][645]LogHttp: Warning: 000001999EB2D600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-20.10.26:582][645]LogHttp: Warning: 000001999EB2D600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-20.10.26:582][645]LogHttp: Warning: 000001999EB2D600: libcurl info message cache 1 (Closing connection 25)
+[2018.08.17-20.10.50:102][334]LogSavePackage: Save=109.24ms
+[2018.08.17-20.10.50:103][334]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Tutorial_LevelC79CD0184068516AFF7D4E8DF7EE5363.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap'
+[2018.08.17-20.10.50:133][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap
+[2018.08.17-20.10.50:247][334]LogFileHelpers: Saving map 'Tutorial_Level' took 1.330
+[2018.08.17-20.12.26:648][412]LogHttp: Warning: 000001999A2FF580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-20.12.26:648][412]LogHttp: Warning: 000001999A2FF580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-20.12.26:648][412]LogHttp: Warning: 000001999A2FF580: libcurl info message cache 1 (Closing connection 26)
+[2018.08.17-20.14.26:764][601]LogHttp: Warning: 00000199B761D480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-20.14.26:764][601]LogHttp: Warning: 00000199B761D480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-20.14.26:764][601]LogHttp: Warning: 00000199B761D480: libcurl info message cache 1 (Closing connection 27)
+[2018.08.17-20.16.26:801][861]LogHttp: Warning: 00000199BD97EC80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-20.16.26:801][861]LogHttp: Warning: 00000199BD97EC80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-20.16.26:801][861]LogHttp: Warning: 00000199BD97EC80: libcurl info message cache 1 (Closing connection 28)
+[2018.08.17-20.16.45:117][410]BlueprintLog: New page: Compile Tutorial_Level
+[2018.08.17-20.17.12:835][166]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.08.17-20.17.22:860][362]LogMetaData: Removing '/Game/2DSideScrollerBP/Maps/Level_1.Level_1_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.PackageMetaData'
+[2018.08.17-20.17.22:860][362]LogMetaData: Removing '/Game/2DSideScrollerBP/Maps/Level_1.SKEL_Level_1_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.PackageMetaData'
+[2018.08.17-20.17.24:785][362]LogSavePackage: Save=791.54ms
+[2018.08.17-20.17.24:785][362]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Level_1726A3FA34B90E38A1B6B08B8B9032549.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap'
+[2018.08.17-20.17.24:818][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap
+[2018.08.17-20.17.24:844][362]LogFileHelpers: Saving map 'Level_1' took 1.879
+[2018.08.17-20.17.35:887][195]BlueprintLog: New page: Compile Tutorial_Level
+[2018.08.17-20.17.56:316][708]LogSavePackage: Save=47.20ms
+[2018.08.17-20.17.56:316][708]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Tutorial_Level6F066C3B4A938385F9C942A7A675C072.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap'
+[2018.08.17-20.17.56:325][708]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap
+[2018.08.17-20.17.56:359][708]LogFileHelpers: Saving map 'Tutorial_Level' took 0.432
+[2018.08.17-20.18.03:064][327]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.17-20.18.03:087][327]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.18.03:087][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-20.18.03:087][327]PIE: New page: PIE session: Tutorial_Level (17 Aug 2018 22:18:03)
+[2018.08.17-20.18.03:088][327]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.17-20.18.03:091][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002900s)
+[2018.08.17-20.18.03:091][327]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-20.18.03:091][327]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2018.08.17-20.18.03:092][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.004152s)
+[2018.08.17-20.18.03:127][327]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-20.18.03:151][327]LogInit: FAudioDevice initialized.
+[2018.08.17-20.18.03:256][327]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.17-20.18.03:259][327]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 0) at 2018.08.17-21.18.03
+[2018.08.17-20.18.03:259][327]LogWorld: Bringing up level for play took: 0.001506
+[2018.08.17-20.18.03:261][327]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level 0.35
+[2018.08.17-20.18.03:261][327]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.18.07:811][853]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Level_1
+[2018.08.17-20.18.07:812][853]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Level_1
+[2018.08.17-20.18.07:835][853]Cmd: MEM
+[2018.08.17-20.18.07:859][853]LogMemory: Platform Memory Stats for Windows
+[2018.08.17-20.18.07:859][853]LogMemory: Process Physical Memory: 861.63 MB used, 1842.51 MB peak
+[2018.08.17-20.18.07:859][853]LogMemory: Process Virtual Memory: 2997.50 MB used, 3042.46 MB peak
+[2018.08.17-20.18.07:859][853]LogMemory: Physical Memory: 3706.77 MB used,  12589.51 MB free, 16296.27 MB total
+[2018.08.17-20.18.07:859][853]LogMemory: Virtual Memory: 8025.68 MB used,  12589.51 MB free, 134217728.00 MB total
+[2018.08.17-20.18.07:859][853]LogMemory: 
+[2018.08.17-20.18.07:859][853]Allocator Stats for TBB: (not implemented)
+[2018.08.17-20.18.07:863][853]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2018.08.17-20.18.07:869][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006688s)
+[2018.08.17-20.18.07:870][853]LogAIModule: Creating AISystem for world Level_1
+[2018.08.17-20.18.07:870][853]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.08.17-20.18.07:870][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.007777s)
+[2018.08.17-20.18.07:870][853]LogLoad: Game class is '2DSideScrollerMenuScreen_C'
+[2018.08.17-20.18.07:880][853]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2018.08.17-21.18.07
+[2018.08.17-20.18.08:678][853]LogWorld: Bringing up level for play took: 0.805313
+[2018.08.17-20.18.08:678][853]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.17-20.18.08:721][853]LogLoad: Took 0.909843 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1)
+[2018.08.17-20.18.17:666][877]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.18.17:721][877]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.18.21:296][225]LogSavePackage: Save=46.65ms
+[2018.08.17-20.18.21:296][225]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Tutorial_LevelCDEAFABA43CB01E8CEB6BCBFEF8AAB94.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap'
+[2018.08.17-20.18.21:305][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap
+[2018.08.17-20.18.24:147][486]LogSavePackage: Save=51.72ms
+[2018.08.17-20.18.24:147][486]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Tutorial_Level5CF6A333445EE2FDD51516A3F246457F.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap'
+[2018.08.17-20.18.24:151][486]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap
+[2018.08.17-20.18.29:465][717]LogSavePackage: Save=164.04ms
+[2018.08.17-20.18.29:465][717]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Level_1F2CF1AA84E5F33D3758975B69D00B98B.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap'
+[2018.08.17-20.18.29:474][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap
+[2018.08.17-20.18.29:488][717]LogFileHelpers: Saving map 'Level_1' took 0.565
+[2018.08.17-20.18.29:591][717]LogSavePackage: Save=24.83ms
+[2018.08.17-20.18.29:591][717]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Ninja_Bunnies_Tutorial_Level23FB849D4A2580194C369C81126D6BC5.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.uasset'
+[2018.08.17-20.18.29:602][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_Tutorial_Level.uasset
+[2018.08.17-20.18.29:608][717]LightingResults: New page: Lighting Build
+[2018.08.17-20.18.29:609][717]LoadErrors: New page: Loading map: Level_1.umap
+[2018.08.17-20.18.29:671][717]MapCheck: New page: Map Check
+[2018.08.17-20.18.29:671][717]LightingResults: New page: Lighting Build
+[2018.08.17-20.18.29:792][717]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.17-20.18.29:852][717]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.17-20.18.30:173][717]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 320.329ms to complete.
+[2018.08.17-20.18.30:174][717]LogFileHelpers: Loading map 'Level_1' took 0.567
+[2018.08.17-20.18.30:205][718]LogHttp: Warning: 000001999138A080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-20.18.30:205][718]LogHttp: Warning: 000001999138A080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-20.18.30:206][718]LogHttp: Warning: 000001999138A080: libcurl info message cache 1 (Closing connection 29)
+[2018.08.17-20.19.01:566][234]BlueprintLog: New page: Compile Level_1
+[2018.08.17-20.20.30:233][362]LogHttp: Warning: 000001999A2FF700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-20.20.30:234][362]LogHttp: Warning: 000001999A2FF700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-20.20.30:234][362]LogHttp: Warning: 000001999A2FF700: libcurl info message cache 1 (Closing connection 30)
+[2018.08.17-20.22.30:498][215]LogHttp: Warning: 00000199D0DC6080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-20.22.30:498][215]LogHttp: Warning: 00000199D0DC6080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-20.22.30:498][215]LogHttp: Warning: 00000199D0DC6080: libcurl info message cache 1 (Closing connection 31)
+[2018.08.17-20.23.04:754][210]BlueprintLog: New page: Compile Level_1
+[2018.08.17-20.23.04:873][210]LogBlueprint: Warning: [Compiler PersistentLevel.Level_1] 'Player Controller' does not inherit from 'Pawn' ( Cast To PlayerController  would always fail).
+[2018.08.17-20.23.04:962][210]LogBlueprint: Warning: [Compiler PersistentLevel.Level_1] [4610.99] Compile of PersistentLevel.Level_1 successful, but with 1 Warning(s) [in 208 ms] (/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1)
+[2018.08.17-20.23.09:128][334]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-20.23.12:888][334]LogBlueprint: Warning: [Compiler PersistentLevel.Level_1] 'Player Controller' does not inherit from 'Pawn' ( Cast To PlayerController  would always fail).
+[2018.08.17-20.23.12:893][334]LogBlueprint: Warning: [Compiler PersistentLevel.Level_1] [4618.92] Compile of PersistentLevel.Level_1 successful, but with 1 Warning(s) [in 18 ms] (/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1)
+[2018.08.17-20.23.13:440][334]LogSavePackage: Save=576.09ms
+[2018.08.17-20.23.13:441][334]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Level_12ED79489411AB3C9840E9BBC08DD55D0.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap'
+[2018.08.17-20.23.13:472][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap
+[2018.08.17-20.23.13:581][334]LogFileHelpers: Saving map 'Level_1' took 1.840
+[2018.08.17-20.23.13:584][334]LightingResults: New page: Lighting Build
+[2018.08.17-20.23.13:588][334]LoadErrors: New page: Loading map: Tutorial_Level.umap
+[2018.08.17-20.23.13:757][334]MapCheck: New page: Map Check
+[2018.08.17-20.23.13:757][334]LightingResults: New page: Lighting Build
+[2018.08.17-20.23.14:130][334]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.17-20.23.14:299][334]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.17-20.23.15:123][334]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 823.842ms to complete.
+[2018.08.17-20.23.15:125][334]LogFileHelpers: Loading map 'Tutorial_Level' took 1.544
+[2018.08.17-20.24.10:596][806]LogBlueprint: Warning: [Tutorial_Level] 'Level_1' variable not found. Base class was probably changed.
+[2018.08.17-20.24.30:613][417]LogHttp: Warning: 00000199D79D0B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-20.24.30:613][417]LogHttp: Warning: 00000199D79D0B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-20.24.30:613][417]LogHttp: Warning: 00000199D79D0B80: libcurl info message cache 1 (Closing connection 32)
+[2018.08.17-20.24.36:384][552]LogBlueprint: Warning: [Compiler PersistentLevel.Level_1] 'Player Controller' does not inherit from 'Pawn' ( Cast To PlayerController  would always fail).
+[2018.08.17-20.24.36:389][552]LogBlueprint: Warning: [Compiler PersistentLevel.Level_1] [4702.42] Compile of PersistentLevel.Level_1 successful, but with 1 Warning(s) [in 10 ms] (/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1)
+[2018.08.17-20.24.36:449][552]LogAIModule: Creating AISystem for world Level_1
+[2018.08.17-20.24.38:808][552]LogSavePackage: Save=465.07ms
+[2018.08.17-20.24.38:808][552]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/2DSideScrollerCharacterB3D519DD42FC0487031B45A0D7B28FEC.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.08.17-20.24.38:839][552]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2018.08.17-20.24.40:136][552]LogSavePackage: Save=144.82ms
+[2018.08.17-20.24.40:136][552]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Tutorial_LevelD26F92F3452085CE472E87AF434FC2CC.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap'
+[2018.08.17-20.24.40:170][552]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap
+[2018.08.17-20.24.40:274][552]LogFileHelpers: Saving map 'Tutorial_Level' took 1.434
+[2018.08.17-20.24.40:277][552]LightingResults: New page: Lighting Build
+[2018.08.17-20.24.40:279][552]LoadErrors: New page: Loading map: Level_1.umap
+[2018.08.17-20.24.40:428][552]MapCheck: New page: Map Check
+[2018.08.17-20.24.40:428][552]LightingResults: New page: Lighting Build
+[2018.08.17-20.24.40:964][552]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.17-20.24.41:134][552]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.17-20.24.41:925][552]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 791.522ms to complete.
+[2018.08.17-20.24.41:931][552]LogFileHelpers: Loading map 'Level_1' took 1.657
+[2018.08.17-20.24.50:676][762]LogBlueprint: Warning: [Level_1] 'Level_1' variable not found. Base class was probably changed.
+[2018.08.17-20.24.57:301][975]BlueprintLog: New page: Compile Level_1
+[2018.08.17-20.24.57:329][975]LogBlueprint: Warning: [Compiler PersistentLevel.Level_1] 'Player Controller' does not inherit from 'Pawn' ( Cast To PlayerController  would always fail).
+[2018.08.17-20.24.57:408][975]LogBlueprint: Warning: [Compiler PersistentLevel.Level_1] [4723.43] Compile of PersistentLevel.Level_1 successful, but with 1 Warning(s) [in 105 ms] (/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1)
+[2018.08.17-20.25.55:486][543]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.08.17-20.26.30:652][439]LogHttp: Warning: 00000199DDA89000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-20.26.30:652][439]LogHttp: Warning: 00000199DDA89000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-20.26.30:652][439]LogHttp: Warning: 00000199DDA89000: libcurl info message cache 1 (Closing connection 33)
+[2018.08.17-20.27.04:391][428]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-20.27.06:655][428]LogSavePackage: Save=186.82ms
+[2018.08.17-20.27.06:655][428]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Level_1C77A0E1C498A987989EF11B7C6D58AA6.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap'
+[2018.08.17-20.27.06:665][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap
+[2018.08.17-20.27.06:698][428]LogFileHelpers: Saving map 'Level_1' took 0.592
+[2018.08.17-20.27.06:699][428]LightingResults: New page: Lighting Build
+[2018.08.17-20.27.06:700][428]LoadErrors: New page: Loading map: Tutorial_Level.umap
+[2018.08.17-20.27.06:702][428]MapCheck: New page: Map Check
+[2018.08.17-20.27.06:702][428]LightingResults: New page: Lighting Build
+[2018.08.17-20.27.06:854][428]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.17-20.27.06:909][428]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.17-20.27.07:158][428]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 250.002ms to complete.
+[2018.08.17-20.27.07:159][428]LogFileHelpers: Loading map 'Tutorial_Level' took 0.462
+[2018.08.17-20.27.09:798][717]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.08.17-20.27.51:696][670]LogEditorTransaction: Undo Create Pin Link
+[2018.08.17-20.28.30:692][486]LogHttp: Warning: 000001999FB76F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.17-20.28.30:692][486]LogHttp: Warning: 000001999FB76F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.17-20.28.30:692][486]LogHttp: Warning: 000001999FB76F80: libcurl info message cache 1 (Closing connection 34)
+[2018.08.17-20.29.11:292][292]BlueprintLog: New page: Compile Tutorial_Level
+[2018.08.17-20.29.11:303][292]LogBlueprint: Error: [Compiler PersistentLevel.Tutorial_Level] This blueprint (self) is not a 2DSideScrollerCharacter_C, therefore ' Target ' must have a connection.
+[2018.08.17-20.29.11:303][292]LogBlueprint: Error: [Compiler PersistentLevel.Tutorial_Level] This blueprint (self) is not a 2DSideScrollerCharacter_C, therefore ' Target ' must have a connection.
+[2018.08.17-20.29.11:394][292]LogBlueprint: Error: [Compiler PersistentLevel.Tutorial_Level] Variable node  Set Tutorial_Level  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.08.17-20.29.11:394][292]LogBlueprint: Error: [Compiler PersistentLevel.Tutorial_Level] Variable node  Set Level_1  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.08.17-20.29.11:503][292]LogBlueprint: Warning: [Compiler PersistentLevel.Tutorial_Level] [4977.53] Compile of PersistentLevel.Tutorial_Level failed. 4 Fatal Issue(s) 0 Warning(s) [in 210 ms] (/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level)
+[2018.08.17-20.29.18:446][765]BlueprintLog: New page: Compile Tutorial_Level
+[2018.08.17-20.29.21:979][983]LogSavePackage: Save=59.82ms
+[2018.08.17-20.29.21:979][983]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Saved/Tutorial_LevelD632828840BEA16B46D26EB8DA80B55A.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap'
+[2018.08.17-20.29.21:990][983]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap
+[2018.08.17-20.29.22:025][983]LogFileHelpers: Saving map 'Tutorial_Level' took 0.471
+[2018.08.17-20.29.24:478][204]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.17-20.29.24:503][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.29.24:504][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.17-20.29.24:504][204]PIE: New page: PIE session: Tutorial_Level (17 Aug 2018 22:29:24)
+[2018.08.17-20.29.24:504][204]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.17-20.29.24:507][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002927s)
+[2018.08.17-20.29.24:508][204]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.17-20.29.24:508][204]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2018.08.17-20.29.24:508][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.004086s)
+[2018.08.17-20.29.24:543][204]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-20.29.24:566][204]LogInit: FAudioDevice initialized.
+[2018.08.17-20.29.24:599][204]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.17-20.29.24:601][204]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 0) at 2018.08.17-21.29.24
+[2018.08.17-20.29.24:601][204]LogWorld: Bringing up level for play took: 0.001527
+[2018.08.17-20.29.24:603][204]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level -0.307
+[2018.08.17-20.29.24:603][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.17-20.29.29:500][593]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Level_1
+[2018.08.17-20.29.29:526][593]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Level_1
+[2018.08.17-20.29.29:594][593]Cmd: MEM
+[2018.08.17-20.29.29:657][593]LogMemory: Platform Memory Stats for Windows
+[2018.08.17-20.29.29:657][593]LogMemory: Process Physical Memory: 1435.45 MB used, 1842.51 MB peak
+[2018.08.17-20.29.29:658][593]LogMemory: Process Virtual Memory: 3492.45 MB used, 3493.09 MB peak
+[2018.08.17-20.29.29:658][593]LogMemory: Physical Memory: 4248.87 MB used,  12047.41 MB free, 16296.27 MB total
+[2018.08.17-20.29.29:658][593]LogMemory: Virtual Memory: 8552.49 MB used,  12047.41 MB free, 134217728.00 MB total
+[2018.08.17-20.29.29:658][593]LogMemory: 
+[2018.08.17-20.29.29:658][593]Allocator Stats for TBB: (not implemented)
+[2018.08.17-20.29.32:502][593]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.650 s
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: === Handled ensure: ===
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: 
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: 
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: Stack: 
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FADB3E36
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FAB3C2D2
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FAB54746
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000F399D5D9
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000F396C90D
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000005AA0F67
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000005DAB666
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000005DC1766
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000005DC0CB2
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000F862E10B
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000F85E6AE8
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000F864D89D
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000F5F9BF80
+[2018.08.17-20.29.32:503][593]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000F682D646
+[2018.08.17-20.29.32:504][593]LogOutputDevice: Error: UE4Editor.exe!0x00000000A810534A
+[2018.08.17-20.29.32:504][593]LogOutputDevice: Error: UE4Editor.exe!0x00000000A8113970
+[2018.08.17-20.29.32:504][593]LogOutputDevice: Error: UE4Editor.exe!0x00000000A81139EA
+[2018.08.17-20.29.32:504][593]LogOutputDevice: Error: UE4Editor.exe!0x00000000A81202D9
+[2018.08.17-20.29.32:504][593]LogOutputDevice: Error: UE4Editor.exe!0x00000000A8121C47
+[2018.08.17-20.29.32:504][593]LogOutputDevice: Error: KERNEL32.DLL!0x000000003A513034
+[2018.08.17-20.29.32:504][593]LogOutputDevice: Error: ntdll.dll!0x000000003A6D1431
+[2018.08.17-20.29.32:504][593]LogOutputDevice: Error: 
+[2018.08.17-20.29.32:508][593]LogStats:                SubmitErrorReport -  0.000 s

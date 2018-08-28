@@ -3156,3 +3156,431 @@ Scale3D: 1.000000 1.000000 1.000000
 [2018.08.28-03.55.09:360][802]LogSavePackage: Save=3291.94ms
 [2018.08.28-03.55.09:360][802]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Level_16D577B964081D52C35DC0D81929FBD59.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap'
 [2018.08.28-03.55.09:372][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap
+[2018.08.28-03.58.03:446][710]LightingResults: New page: Lighting Build
+[2018.08.28-03.58.03:448][710]LoadErrors: New page: Loading map: Level_1.umap
+[2018.08.28-03.58.03:525][710]MapCheck: New page: Map Check
+[2018.08.28-03.58.03:526][710]LightingResults: New page: Lighting Build
+[2018.08.28-03.58.04:266][710]LogAIModule: Creating AISystem for world Level_1
+[2018.08.28-03.58.05:036][710]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.28-03.58.05:141][710]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.28-03.58.05:476][710]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 334.608ms to complete.
+[2018.08.28-03.58.05:479][710]LogFileHelpers: Loading map 'Level_1' took 2.034
+[2018.08.28-03.58.06:338][726]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.28-03.58.06:390][726]LightingResults: New page: Lighting Build
+[2018.08.28-03.58.06:391][726]LoadErrors: New page: Loading map: Tutorial_Level.umap
+[2018.08.28-03.58.06:432][726]MapCheck: New page: Map Check
+[2018.08.28-03.58.06:432][726]LightingResults: New page: Lighting Build
+[2018.08.28-03.58.06:631][726]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.08.28-03.58.06:701][726]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.28-03.58.07:042][726]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 340.915ms to complete.
+[2018.08.28-03.58.07:042][726]LogFileHelpers: Loading map 'Tutorial_Level' took 0.656
+[2018.08.28-04.00.19:928][790]BlueprintLog: New page: Compile Tutorial_Level
+[2018.08.28-04.08.07:038][658]LogSavePackage: Save=353.04ms
+[2018.08.28-04.08.07:038][658]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Tutorial_Level_Auto7127BE5FB49A8E391FD55F7B9530FF8EC.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Tutorial_Level_Auto7.umap'
+[2018.08.28-04.08.07:045][658]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Tutorial_Level_Auto7.umap
+[2018.08.28-04.08.07:052][658]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Tutorial_Level' took 0.604
+[2018.08.28-04.08.07:052][658]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.604
+[2018.08.28-04.11.03:854][415]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Ninja_Bunnies_Tutorial_Level)
+[2018.08.28-04.11.36:238][378]LogSlate: Took 0.061579 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.08.28-04.11.36:316][378]LogSlate: Took 0.074765 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2018.08.28-04.11.36:492][378]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Assets/NARUTO OST - Strong and Strike í ½í²ª(Trap Remix  Mashup).wav)
+[2018.08.28-04.11.36:727][378]LogAudioDerivedData: Display: Building compressed audio format OGG wave NARUTO_OST_-_Strong_and_Strike_í ½í²ª_Trap_Remix__Mashup_...
+[2018.08.28-04.11.41:372][378]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/2DSideScrollerBP/Audio/NARUTO_OST_-_Strong_and_Strike_í ½í²ª_Trap_Remix__Mashup_.NARUTO_OST_-_Strong_and_Strike_í ½í²ª_Trap_Remix__Mashup_.
+[2018.08.28-04.11.51:037][822]LogSavePackage: Save=10.93ms
+[2018.08.28-04.11.51:037][822]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/NARUTO_OST_-_Strong_and_Strike_í ½í²ª_Trap_Remix__Mashup__CueFA3B485540D76017B95528B85841CB82.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/NARUTO_OST_-_Strong_and_Strike_í ½í²ª_Trap_Remix__Mashup__Cue.uasset'
+[2018.08.28-04.11.51:049][822]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/NARUTO_OST_-_Strong_and_Strike_í ½í²ª_Trap_Remix__Mashup__Cue.uasset
+[2018.08.28-04.13.27:123][143]LogSavePackage: Save=8.23ms
+[2018.08.28-04.13.27:123][143]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/NARUTO_OST_-_Strong_and_Strike_í ½í²ª_Trap_Remix__Mashup__CueA68EF0344F9BF7F7A03DF3B99AAD0D44.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/NARUTO_OST_-_Strong_and_Strike_í ½í²ª_Trap_Remix__Mashup__Cue.uasset'
+[2018.08.28-04.13.27:135][143]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/NARUTO_OST_-_Strong_and_Strike_í ½í²ª_Trap_Remix__Mashup__Cue.uasset
+[2018.08.28-04.13.32:592][384]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-04.13.32:628][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.28-04.13.32:628][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-04.13.32:629][384]PIE: New page: PIE session: Tutorial_Level (28 Aug 2018 06:13:32)
+[2018.08.28-04.13.32:629][384]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level
+[2018.08.28-04.13.32:645][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015402s)
+[2018.08.28-04.13.32:646][384]LogAIModule: Creating AISystem for world Tutorial_Level
+[2018.08.28-04.13.32:647][384]LogPlayLevel: PIE: World Init took: (0.001890s)
+[2018.08.28-04.13.32:647][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level (0.017888s)
+[2018.08.28-04.13.32:700][384]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.28-04.13.32:724][384]LogInit: FAudioDevice initialized.
+[2018.08.28-04.13.32:766][384]LogLoad: Game class is '2DSideScrollerMenuScreen_C'
+[2018.08.28-04.13.32:776][384]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level.Tutorial_Level up for play (max tick rate 60) at 2018.08.28-05.13.32
+[2018.08.28-04.13.32:813][384]LogWorld: Bringing up level for play took: 0.044972
+[2018.08.28-04.13.32:853][384]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_Level 0.433
+[2018.08.28-04.13.32:854][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.28-04.14.07:083][436]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Level_1
+[2018.08.28-04.14.07:176][436]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Level_1
+[2018.08.28-04.14.07:220][436]Cmd: MEM
+[2018.08.28-04.14.07:259][436]LogMemory: Platform Memory Stats for Windows
+[2018.08.28-04.14.07:259][436]LogMemory: Process Physical Memory: 1538.72 MB used, 2921.86 MB peak
+[2018.08.28-04.14.07:259][436]LogMemory: Process Virtual Memory: 5005.93 MB used, 5228.01 MB peak
+[2018.08.28-04.14.07:259][436]LogMemory: Physical Memory: 10004.80 MB used,  6291.47 MB free, 16296.27 MB total
+[2018.08.28-04.14.07:259][436]LogMemory: Virtual Memory: 10261.71 MB used,  6291.47 MB free, 134217728.00 MB total
+[2018.08.28-04.14.07:259][436]LogMemory: 
+[2018.08.28-04.14.07:259][436]Allocator Stats for TBB: (not implemented)
+[2018.08.28-04.14.09:236][436]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.444 s
+[2018.08.28-04.14.09:236][436]LogOutputDevice: Error: === Handled ensure: ===
+[2018.08.28-04.14.09:236][436]LogOutputDevice: Error: 
+[2018.08.28-04.14.09:236][436]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.08.28-04.14.09:236][436]LogOutputDevice: Error: 
+[2018.08.28-04.14.09:236][436]LogOutputDevice: Error: Stack: 
+[2018.08.28-04.14.09:236][436]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000116D3E36
+[2018.08.28-04.14.09:236][436]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000001145C2D2
+[2018.08.28-04.14.09:236][436]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000011474746
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x000000000939D5D9
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x000000000936C90D
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000127C0F67
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000012ACB666
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000012AE1766
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000012AE0CB2
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000EF4E10B
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000EF06AE8
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000EF6D89D
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000028ABF80
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000000313D646
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor.exe!0x000000008DF3534A
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor.exe!0x000000008DF43970
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor.exe!0x000000008DF439EA
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor.exe!0x000000008DF502D9
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: UE4Editor.exe!0x000000008DF51C47
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: KERNEL32.DLL!0x0000000056FE3034
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: ntdll.dll!0x0000000057901431
+[2018.08.28-04.14.09:237][436]LogOutputDevice: Error: 
+[2018.08.28-04.14.09:248][436]LogStats:                SubmitErrorReport -  0.000 s
+[2018.08.28-04.14.15:981][436]LogStats:                    SendNewReport -  6.733 s
+[2018.08.28-04.14.15:981][436]LogStats:             FDebug::EnsureFailed -  8.280 s
+[2018.08.28-04.14.20:153][436]LogAIModule: Creating AISystem for world Level_1
+[2018.08.28-04.14.20:154][436]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.28-04.14.20:790][436]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.08.28-05.14.20
+[2018.08.28-04.14.20:895][436]LogWorld: Bringing up level for play took: 0.739531
+[2018.08.28-04.14.20:895][436]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.08.28-04.14.20:912][436]LogLoad: Took 13.735687 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Level_1)
+[2018.08.28-04.14.30:585][967]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.28-04.14.30:714][967]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Tutorial_Level.Tutorial_Level:PersistentLevel.Tutorial_Level'
+[2018.08.28-04.15.57:405][538]LogAIModule: Creating AISystem for world Level_1
+[2018.08.28-04.15.59:585][538]LogSavePackage: Save=135.79ms
+[2018.08.28-04.15.59:585][538]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/NARUTO_OST_-_Strong_and_Strike_í ½í²ª_Trap_Remix__Mashup_30F7A8F74B0EC02A75914A81797FEBF0.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/NARUTO_OST_-_Strong_and_Strike_í ½í²ª_Trap_Remix__Mashup_.uasset'
+[2018.08.28-04.15.59:598][538]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/NARUTO_OST_-_Strong_and_Strike_í ½í²ª_Trap_Remix__Mashup_.uasset
+[2018.08.28-04.16.00:541][538]LogSavePackage: Save=337.43ms
+[2018.08.28-04.16.00:541][538]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Tutorial_Level1C96F7DF4B50BA6A698405AF29649593.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap'
+[2018.08.28-04.16.00:554][538]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Tutorial_Level.umap
+[2018.08.28-04.16.00:598][538]LogFileHelpers: Saving map 'Tutorial_Level' took 1.000
+[2018.08.28-04.16.00:600][538]LightingResults: New page: Lighting Build
+[2018.08.28-04.16.00:601][538]LoadErrors: New page: Loading map: Level_1.umap
+[2018.08.28-04.16.00:693][538]MapCheck: New page: Map Check
+[2018.08.28-04.16.00:693][538]LightingResults: New page: Lighting Build
+[2018.08.28-04.16.01:613][538]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.28-04.16.01:709][538]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.28-04.16.02:065][538]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 355.962ms to complete.
+[2018.08.28-04.16.02:066][538]LogFileHelpers: Loading map 'Level_1' took 1.468
+[2018.08.28-04.16.14:510][732]LogSavePackage: Save=3423.94ms
+[2018.08.28-04.16.14:511][732]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Level_14AAC11214995E45869B9DC91640C964F.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap'
+[2018.08.28-04.16.14:525][732]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap
+[2018.08.28-04.19.26:868][432]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Assets/266566__gowlermusic__gong-hit.wav)
+[2018.08.28-04.19.26:898][432]LogAudioDerivedData: Display: Building compressed audio format OGG wave 266566__gowlermusic__gong-hit...
+[2018.08.28-04.19.27:176][432]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/2DSideScrollerBP/Audio/266566__gowlermusic__gong-hit.266566__gowlermusic__gong-hit.
+[2018.08.28-04.19.27:183][432]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Assets/341680__sharesynth__coin03.wav)
+[2018.08.28-04.19.27:197][432]LogAudioDerivedData: Display: Building compressed audio format OGG wave 341680__sharesynth__coin03...
+[2018.08.28-04.19.27:329][432]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/2DSideScrollerBP/Audio/341680__sharesynth__coin03.341680__sharesynth__coin03.
+[2018.08.28-04.19.27:335][432]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Assets/350900__cabled-mess__jump-c-07.wav)
+[2018.08.28-04.19.27:344][432]LogAudioDerivedData: Display: Building compressed audio format OGG wave 350900__cabled-mess__jump-c-07...
+[2018.08.28-04.19.27:354][432]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/2DSideScrollerBP/Audio/350900__cabled-mess__jump-c-07.350900__cabled-mess__jump-c-07.
+[2018.08.28-04.20.05:692][670]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.08.28-04.23.57:866][963]BlueprintLog: New page: Compile Collection
+[2018.08.28-04.26.24:765][995]LogSavePackage: Save=3472.55ms
+[2018.08.28-04.26.24:766][995]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Level_1_Auto8CCD59A9E4834F46706F6B4AD8385D23C.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Level_1_Auto8.umap'
+[2018.08.28-04.26.24:773][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Maps/Level_1_Auto8.umap
+[2018.08.28-04.26.24:778][995]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/Level_1' took 3.730
+[2018.08.28-04.26.24:779][995]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.730
+[2018.08.28-04.26.24:789][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2018.08.28-04.26.24:789][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2018.08.28-04.26.25:144][995]LogSavePackage: Save=156.28ms
+[2018.08.28-04.26.25:144][995]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/2DSideScrollerCharacter_Auto8FE1C370E4235C4BE95EBC6B77F056A98.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto8.uasset'
+[2018.08.28-04.26.25:150][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto8.uasset
+[2018.08.28-04.26.25:154][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Collection] ([1] browsable assets)...
+[2018.08.28-04.26.25:154][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Collection]
+[2018.08.28-04.26.25:375][995]LogSavePackage: Save=36.55ms
+[2018.08.28-04.26.25:375][995]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Collection_Auto8070E82F54B6949595216009506E3DAB0.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Collection_Auto8.uasset'
+[2018.08.28-04.26.25:382][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Collection_Auto8.uasset
+[2018.08.28-04.26.25:388][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Audio/266566__gowlermusic__gong-hit] ([1] browsable assets)...
+[2018.08.28-04.26.25:405][995]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/2DSideScrollerBP/Audio/266566__gowlermusic__gong-hit.266566__gowlermusic__gong-hit]
+[2018.08.28-04.26.25:405][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Audio/266566__gowlermusic__gong-hit]
+[2018.08.28-04.26.25:421][995]LogSavePackage: Save=10.72ms
+[2018.08.28-04.26.25:421][995]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/266566__gowlermusic__gong-hit_Auto8B434B7254634D6CA16F0909A030275A4.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Audio/266566__gowlermusic__gong-hit_Auto8.uasset'
+[2018.08.28-04.26.25:429][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Audio/266566__gowlermusic__gong-hit_Auto8.uasset
+[2018.08.28-04.26.25:433][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Audio/341680__sharesynth__coin03] ([1] browsable assets)...
+[2018.08.28-04.26.25:443][995]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/2DSideScrollerBP/Audio/341680__sharesynth__coin03.341680__sharesynth__coin03]
+[2018.08.28-04.26.25:443][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Audio/341680__sharesynth__coin03]
+[2018.08.28-04.26.25:456][995]LogSavePackage: Save=8.01ms
+[2018.08.28-04.26.25:456][995]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/341680__sharesynth__coin03_Auto8ABAFB59E4DA833B30F12688C9535630E.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Audio/341680__sharesynth__coin03_Auto8.uasset'
+[2018.08.28-04.26.25:461][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Audio/341680__sharesynth__coin03_Auto8.uasset
+[2018.08.28-04.26.25:466][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Audio/350900__cabled-mess__jump-c-07] ([1] browsable assets)...
+[2018.08.28-04.26.25:473][995]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/2DSideScrollerBP/Audio/350900__cabled-mess__jump-c-07.350900__cabled-mess__jump-c-07]
+[2018.08.28-04.26.25:473][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Audio/350900__cabled-mess__jump-c-07]
+[2018.08.28-04.26.25:488][995]LogSavePackage: Save=9.71ms
+[2018.08.28-04.26.25:488][995]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/350900__cabled-mess__jump-c-07_Auto8696BBAF54E47E50B82A0F3A9733D31C4.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Audio/350900__cabled-mess__jump-c-07_Auto8.uasset'
+[2018.08.28-04.26.25:494][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Autosaves/Game/2DSideScrollerBP/Audio/350900__cabled-mess__jump-c-07_Auto8.uasset
+[2018.08.28-04.26.25:494][995]LogFileHelpers: Auto-saving content packages took 0.709
+[2018.08.28-04.27.03:237][986]BlueprintLog: New page: Compile Level_1
+[2018.08.28-04.27.11:058][244]LogSavePackage: Save=37.36ms
+[2018.08.28-04.27.11:058][244]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Collection98F08A6A434990F16F383396D685080D.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Blueprints/Collection.uasset'
+[2018.08.28-04.27.11:069][244]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Blueprints/Collection.uasset
+[2018.08.28-04.27.12:745][294]LogSavePackage: Save=150.60ms
+[2018.08.28-04.27.12:746][294]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/2DSideScrollerCharacter1E798D69474F52BD46AE93BF57003EF8.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.08.28-04.27.12:760][294]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[2018.08.28-04.27.16:470][458]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-04.27.16:503][458]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2018.08.28-04.27.16:503][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-04.27.16:503][458]PIE: New page: PIE session: Level_1 (28 Aug 2018 06:27:16)
+[2018.08.28-04.27.16:504][458]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2018.08.28-04.27.16:667][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.162956s)
+[2018.08.28-04.27.16:668][458]LogAIModule: Creating AISystem for world Level_1
+[2018.08.28-04.27.16:668][458]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2018.08.28-04.27.16:669][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.164988s)
+[2018.08.28-04.27.16:716][458]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.28-04.27.16:741][458]LogInit: FAudioDevice initialized.
+[2018.08.28-04.27.16:787][458]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.28-04.27.17:012][458]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.08.28-05.27.17
+[2018.08.28-04.27.17:110][458]LogWorld: Bringing up level for play took: 0.322745
+[2018.08.28-04.27.17:116][458]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1 0.696
+[2018.08.28-04.27.17:117][458]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2018.08.28-04.28.57:480][  9]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2018.08.28-04.28.57:639][  9]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2018.08.28-04.29.13:493][533]LogPaper2D: Triangulation of poly failed.
+[2018.08.28-04.29.13:493][533]LogPaper2D: Triangulation of poly failed.
+[2018.08.28-04.29.13:493][533]LogPaper2D: Triangulation of poly failed.
+[2018.08.28-04.29.13:634][533]LogPaper2D: Triangulation of poly failed.
+[2018.08.28-04.29.13:634][533]LogPaper2D: Triangulation of poly failed.
+[2018.08.28-04.29.13:634][533]LogPaper2D: Triangulation of poly failed.
+[2018.08.28-04.29.13:735][533]LogPaper2D: Triangulation of poly failed.
+[2018.08.28-04.29.13:735][533]LogPaper2D: Triangulation of poly failed.
+[2018.08.28-04.29.13:735][533]LogPaper2D: Triangulation of poly failed.
+[2018.08.28-04.29.13:818][533]LogPaper2D: Triangulation of poly failed.
+[2018.08.28-04.29.13:818][533]LogPaper2D: Triangulation of poly failed.
+[2018.08.28-04.29.13:818][533]LogPaper2D: Triangulation of poly failed.
+[2018.08.28-04.29.18:289][640]LogSavePackage: Save=1045.13ms
+[2018.08.28-04.29.18:289][640]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Ninja_Bunnies_First_Level957A732E46F7EF40640DDE91748CCD5D.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_First_Level.uasset'
+[2018.08.28-04.29.18:303][640]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Sprites/tileset/Tileset_Map/Ninja_Bunnies_First_Level.uasset
+[2018.08.28-04.30.02:531][615]LogWindows: LaunchFileInExternalEditor C:/Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Assets/341680__sharesynth__coin03.wav 
+[2018.08.28-04.30.02:679][615]LogWindows: Launch application code for C:/Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Assets/341680__sharesynth__coin03.wav : 31
+[2018.08.28-04.30.17:427][320]LogSavePackage: Save=12.69ms
+[2018.08.28-04.30.17:427][320]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/341680__sharesynth__coin03B6E02DD94FE18C81BEC4FABD1F6EC927.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/341680__sharesynth__coin03.uasset'
+[2018.08.28-04.30.17:443][320]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/341680__sharesynth__coin03.uasset
+[2018.08.28-04.30.19:547][420]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-04.30.19:585][420]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2018.08.28-04.30.19:585][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-04.30.19:585][420]PIE: New page: PIE session: Level_1 (28 Aug 2018 06:30:19)
+[2018.08.28-04.30.19:586][420]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2018.08.28-04.30.19:723][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.137134s)
+[2018.08.28-04.30.19:724][420]LogAIModule: Creating AISystem for world Level_1
+[2018.08.28-04.30.19:724][420]LogPlayLevel: PIE: World Init took: (0.001549s)
+[2018.08.28-04.30.19:725][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.139847s)
+[2018.08.28-04.30.19:786][420]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.28-04.30.19:809][420]LogInit: FAudioDevice initialized.
+[2018.08.28-04.30.19:847][420]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.28-04.30.20:024][420]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.08.28-05.30.20
+[2018.08.28-04.30.20:116][420]LogWorld: Bringing up level for play took: 0.252943
+[2018.08.28-04.30.20:122][420]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1 -0.298
+[2018.08.28-04.30.20:123][420]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2018.08.28-04.30.31:390][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2018.08.28-04.30.31:536][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2018.08.28-04.30.38:950][363]LogSavePackage: Save=9.63ms
+[2018.08.28-04.30.38:950][363]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/341680__sharesynth__coin0311D941FC484E24971ED49D95480EE4D4.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/341680__sharesynth__coin03.uasset'
+[2018.08.28-04.30.38:961][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/341680__sharesynth__coin03.uasset
+[2018.08.28-04.30.42:758][522]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-04.30.42:796][522]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2018.08.28-04.30.42:796][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-04.30.42:796][522]PIE: New page: PIE session: Level_1 (28 Aug 2018 06:30:42)
+[2018.08.28-04.30.42:796][522]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1
+[2018.08.28-04.30.42:918][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121628s)
+[2018.08.28-04.30.42:919][522]LogAIModule: Creating AISystem for world Level_1
+[2018.08.28-04.30.42:919][522]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2018.08.28-04.30.42:920][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_1.Level_1 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 (0.123378s)
+[2018.08.28-04.30.42:968][522]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.28-04.30.42:991][522]LogInit: FAudioDevice initialized.
+[2018.08.28-04.30.43:032][522]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.28-04.30.43:185][522]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2018.08.28-05.30.43
+[2018.08.28-04.30.43:277][522]LogWorld: Bringing up level for play took: 0.243577
+[2018.08.28-04.30.43:282][522]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_1 0.861
+[2018.08.28-04.30.43:282][522]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2018.08.28-04.31.05:363][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2018.08.28-04.31.05:499][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_1.Level_1_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2018.08.28-04.31.09:819][978]LogEditorViewport: Clicking on Actor (LMB): Platform_Small_C (Platform)
+[2018.08.28-04.31.19:396][428]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bird_Enemy_Four_LS)
+[2018.08.28-04.31.20:055][464]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Ninja_Bunnies_Tutorial_Level2)
+[2018.08.28-04.31.26:545][823]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Platform_One_Small)
+[2018.08.28-04.31.40:701][372]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Platform_Two_Small)
+[2018.08.28-04.32.03:956][210]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bird_Enemy_one_LS)
+[2018.08.28-04.32.06:387][348]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bird_Enemy_two_LS)
+[2018.08.28-04.32.07:991][437]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bird_Enemy_three_LS)
+[2018.08.28-04.32.10:168][562]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Platform_One_Small)
+[2018.08.28-04.32.11:696][647]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Platform_Two_Small)
+[2018.08.28-04.32.12:861][710]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Platform_Three_Small)
+[2018.08.28-04.32.14:086][778]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Platform_Four_Small)
+[2018.08.28-04.32.14:649][806]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Platform_Four_Small)
+[2018.08.28-04.33.19:435][664]LogSavePackage: Save=16.69ms
+[2018.08.28-04.33.19:436][664]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Platform_Four_Small6C6AAA314938C976112CD1BBF00F523A.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Blueprints/Level_Sequencers_Level_1/Platform_Four_Small.uasset'
+[2018.08.28-04.33.19:448][664]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Blueprints/Level_Sequencers_Level_1/Platform_Four_Small.uasset
+[2018.08.28-04.33.30:350][ 58]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Platform_Three_Large)
+[2018.08.28-04.33.31:617][128]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Platform_Five_LS)
+[2018.08.28-04.33.38:082][462]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Ninja_Bunnies_Tutorial_Level2)
+[2018.08.28-04.33.38:836][489]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Platform_One_Small)
+[2018.08.28-04.33.39:504][525]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Platform_One_Small)
+[2018.08.28-04.33.39:563][527]LogEditorViewport: Clicking on Component (LMB): SceneComponent (SceneComp)
+[2018.08.28-04.33.41:743][654]LogEditorViewport: Clicking on Component (LMB): SceneComponent (SceneComp)
+[2018.08.28-04.33.43:258][742]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Ninja_Bunnies_Tutorial_Level2)
+[2018.08.28-04.33.43:714][752]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Platform_One_Small)
+[2018.08.28-04.34.11:916][587]LogSavePackage: Save=3353.25ms
+[2018.08.28-04.34.11:916][587]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Level_14B13270B4CC22305800CFCA2D1C83E00.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap'
+[2018.08.28-04.34.11:929][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap
+[2018.08.28-04.34.22:554][919]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Bird_Enemy_Seven_LS)
+[2018.08.28-04.34.26:606][152]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Platform_One_Large)
+[2018.08.28-04.34.32:463][458]LogEditorViewport: Clicking on Actor (LMB): LevelSequenceActor (Platform_Four_Large)
+[2018.08.28-04.36.18:553][966]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.18:553][966]LogEditorTransaction: Undo Select Actors/Components
+[2018.08.28-04.36.19:145][976]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.19:145][976]LogEditorTransaction: Undo Move Keys
+[2018.08.28-04.36.19:609][984]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.19:609][984]LogEditorTransaction: Undo Move Keys
+[2018.08.28-04.36.20:062][993]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.20:062][993]LogEditorTransaction: Undo Select Actors/Components
+[2018.08.28-04.36.20:650][  4]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.20:650][  4]LogEditorTransaction: Undo Select Actors/Components
+[2018.08.28-04.36.22:335][ 38]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.22:336][ 38]LogEditorTransaction: Undo Select None
+[2018.08.28-04.36.26:382][120]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.26:383][120]LogEditorTransaction: Undo Move Keys
+[2018.08.28-04.36.26:905][129]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.26:905][129]LogEditorTransaction: Undo Move Keys
+[2018.08.28-04.36.27:335][139]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.27:335][139]LogEditorTransaction: Undo Move Keys
+[2018.08.28-04.36.27:779][148]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.27:779][148]LogEditorTransaction: Undo Select Actors/Components
+[2018.08.28-04.36.28:318][159]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.28:318][159]LogEditorTransaction: Undo Select Actors/Components
+[2018.08.28-04.36.29:518][184]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.29:518][184]LogEditorTransaction: Undo Select None
+[2018.08.28-04.36.30:197][198]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.30:197][198]LogEditorTransaction: Undo Set Playback Range
+[2018.08.28-04.36.30:694][208]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.30:694][208]LogEditorTransaction: Undo Set Playback Range
+[2018.08.28-04.36.31:231][219]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.31:231][219]LogEditorTransaction: Undo Set Playback Range
+[2018.08.28-04.36.31:701][228]Cmd: TRANSACTION UNDO
+[2018.08.28-04.36.31:701][228]LogEditorTransaction: Undo Set Playback Range
+[2018.08.28-04.38.08:892][869]LogSavePackage: Save=3547.10ms
+[2018.08.28-04.38.08:892][869]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Level_10F5A0BF245B465DC999EBD8BC7D173DD.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap'
+[2018.08.28-04.38.08:905][869]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_1.umap
+[2018.08.28-04.39.22:451][254]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Assets/397435__foolboymedia__crowd-cheer-ii.wav)
+[2018.08.28-04.39.22:581][254]LogAudioDerivedData: Display: Building compressed audio format OGG wave 397435__foolboymedia__crowd-cheer-ii...
+[2018.08.28-04.39.23:204][254]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/2DSideScrollerBP/Audio/397435__foolboymedia__crowd-cheer-ii.397435__foolboymedia__crowd-cheer-ii.
+[2018.08.28-04.39.29:648][573]LogAIModule: Creating AISystem for world Level_2
+[2018.08.28-04.39.31:732][573]LogSavePackage: Save=11.91ms
+[2018.08.28-04.39.31:732][573]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/266566__gowlermusic__gong-hit7DB7FC864DC0533352C9CE86148AF5A4.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/266566__gowlermusic__gong-hit.uasset'
+[2018.08.28-04.39.31:743][573]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/266566__gowlermusic__gong-hit.uasset
+[2018.08.28-04.39.31:769][573]LogSavePackage: Save=9.07ms
+[2018.08.28-04.39.31:769][573]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/350900__cabled-mess__jump-c-074D050A97427439F1AEFB0EBCD5139245.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/350900__cabled-mess__jump-c-07.uasset'
+[2018.08.28-04.39.31:781][573]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/350900__cabled-mess__jump-c-07.uasset
+[2018.08.28-04.39.31:820][573]LogSavePackage: Save=12.24ms
+[2018.08.28-04.39.31:820][573]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/397435__foolboymedia__crowd-cheer-ii0494DB504CE3264E301E50A6767EE579.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/397435__foolboymedia__crowd-cheer-ii.uasset'
+[2018.08.28-04.39.31:833][573]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/397435__foolboymedia__crowd-cheer-ii.uasset
+[2018.08.28-04.39.32:026][573]LogSavePackage: Save=8.88ms
+[2018.08.28-04.39.32:026][573]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Platform_Four_Large131C90E34E505977DD941FB063245735.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Blueprints/Level_Sequencers_Level_1/Platform_Four_Large.uasset'
+[2018.08.28-04.39.32:038][573]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Blueprints/Level_Sequencers_Level_1/Platform_Four_Large.uasset
+[2018.08.28-04.39.32:040][573]LightingResults: New page: Lighting Build
+[2018.08.28-04.39.32:041][573]LoadErrors: New page: Loading map: Level_2.umap
+[2018.08.28-04.39.32:154][573]MapCheck: New page: Map Check
+[2018.08.28-04.39.32:154][573]LightingResults: New page: Lighting Build
+[2018.08.28-04.39.32:386][573]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.28-04.39.32:465][573]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.28-04.39.32:839][573]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 373.592ms to complete.
+[2018.08.28-04.39.32:840][573]LogFileHelpers: Loading map 'Level_2' took 0.802
+[2018.08.28-04.39.52:576][665]LogSavePackage: Save=65.93ms
+[2018.08.28-04.39.52:576][665]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/Level_2B2F083984B538AB16BF509BC7264C2C8.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_2.umap'
+[2018.08.28-04.39.52:581][665]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Maps/Level_2.umap
+[2018.08.28-04.39.56:074][855]LogSavePackage: Save=10.56ms
+[2018.08.28-04.39.56:074][855]LogSavePackage: Moving '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Saved/397435__foolboymedia__crowd-cheer-ii_Cue4ECB752F491507E74FE49DB2C131555D.tmp' to '../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/397435__foolboymedia__crowd-cheer-ii_Cue.uasset'
+[2018.08.28-04.39.56:086][855]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Quwaine/Documents/GitHub/level-6-l6-group-9/Quwaine Dantes Resubmission/Prototypes/New Idea/Ninja_Bunnies/Content/2DSideScrollerBP/Audio/397435__foolboymedia__crowd-cheer-ii_Cue.uasset
+[2018.08.28-04.40.03:923][314]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-04.40.03:961][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.40.03:961][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-04.40.03:961][314]PIE: New page: PIE session: Level_2 (28 Aug 2018 06:40:03)
+[2018.08.28-04.40.03:961][314]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2
+[2018.08.28-04.40.03:965][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003943s)
+[2018.08.28-04.40.03:966][314]LogAIModule: Creating AISystem for world Level_2
+[2018.08.28-04.40.03:966][314]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2018.08.28-04.40.03:967][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_2.Level_2 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2.Level_2 (0.005169s)
+[2018.08.28-04.40.04:009][314]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.28-04.40.04:034][314]LogInit: FAudioDevice initialized.
+[2018.08.28-04.40.04:073][314]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.28-04.40.04:075][314]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2018.08.28-05.40.04
+[2018.08.28-04.40.04:083][314]LogWorld: Bringing up level for play took: 0.009492
+[2018.08.28-04.40.04:086][314]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2 -0.334
+[2018.08.28-04.40.04:086][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.40.12:285][805]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.40.12:348][805]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.40.14:061][903]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-04.40.14:098][903]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.40.14:098][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-04.40.14:099][903]PIE: New page: PIE session: Level_2 (28 Aug 2018 06:40:14)
+[2018.08.28-04.40.14:099][903]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2
+[2018.08.28-04.40.14:103][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004133s)
+[2018.08.28-04.40.14:104][903]LogAIModule: Creating AISystem for world Level_2
+[2018.08.28-04.40.14:104][903]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2018.08.28-04.40.14:104][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_2.Level_2 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2.Level_2 (0.005434s)
+[2018.08.28-04.40.14:149][903]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.28-04.40.14:171][903]LogInit: FAudioDevice initialized.
+[2018.08.28-04.40.14:212][903]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.28-04.40.14:219][903]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2018.08.28-05.40.14
+[2018.08.28-04.40.14:223][903]LogWorld: Bringing up level for play took: 0.009998
+[2018.08.28-04.40.14:225][903]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2 -0.195
+[2018.08.28-04.40.14:226][903]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.40.21:524][340]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.40.21:588][340]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.40.26:185][609]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (397435__foolboymedia__crowd-cheer-ii_Cue)
+[2018.08.28-04.40.27:494][684]Cmd: DELETE
+[2018.08.28-04.40.27:494][684]Cmd: ACTOR DELETE
+[2018.08.28-04.40.27:495][684]LogEditorActor: Deleted Actor: AmbientSound
+[2018.08.28-04.40.27:528][684]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.08.28-04.41.04:777][745]LogEditorTransaction: Undo Move Node
+[2018.08.28-04.41.05:350][768]LogEditorTransaction: Undo Move Node
+[2018.08.28-04.41.27:999][835]BlueprintLog: New page: Compile Level_2
+[2018.08.28-04.41.29:580][910]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-04.41.29:615][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.41.29:615][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-04.41.29:615][910]PIE: New page: PIE session: Level_2 (28 Aug 2018 06:41:29)
+[2018.08.28-04.41.29:616][910]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2
+[2018.08.28-04.41.29:620][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004135s)
+[2018.08.28-04.41.29:620][910]LogAIModule: Creating AISystem for world Level_2
+[2018.08.28-04.41.29:621][910]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2018.08.28-04.41.29:621][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_2.Level_2 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2.Level_2 (0.005687s)
+[2018.08.28-04.41.29:663][910]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.28-04.41.29:686][910]LogInit: FAudioDevice initialized.
+[2018.08.28-04.41.29:731][910]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.28-04.41.29:737][910]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2018.08.28-05.41.29
+[2018.08.28-04.41.29:742][910]LogWorld: Bringing up level for play took: 0.010265
+[2018.08.28-04.41.29:745][910]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2 -0.676
+[2018.08.28-04.41.29:746][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.41.31:056][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.41.31:132][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.41.31:173][982]LogActorComponent: ReregisterComponent: (/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.397435__foolboymedia__crowd-cheer-ii_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2018.08.28-04.41.46:675][738]BlueprintLog: New page: Compile Level_2
+[2018.08.28-04.41.48:580][835]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-04.41.48:614][835]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.41.48:615][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-04.41.48:615][835]PIE: New page: PIE session: Level_2 (28 Aug 2018 06:41:48)
+[2018.08.28-04.41.48:615][835]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2
+[2018.08.28-04.41.48:620][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004418s)
+[2018.08.28-04.41.48:620][835]LogAIModule: Creating AISystem for world Level_2
+[2018.08.28-04.41.48:621][835]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2018.08.28-04.41.48:621][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Level_2.Level_2 to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2.Level_2 (0.005943s)
+[2018.08.28-04.41.48:665][835]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.28-04.41.48:688][835]LogInit: FAudioDevice initialized.
+[2018.08.28-04.41.48:736][835]LogLoad: Game class is '2DSideScroller_C'
+[2018.08.28-04.41.48:744][835]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2018.08.28-05.41.48
+[2018.08.28-04.41.48:748][835]LogWorld: Bringing up level for play took: 0.010430
+[2018.08.28-04.41.48:750][835]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Level_2 0.33
+[2018.08.28-04.41.48:751][835]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.42.01:599][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.42.01:668][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Level_2.Level_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.Level_2'
+[2018.08.28-04.42.01:706][536]LogActorComponent: ReregisterComponent: (/Game/2DSideScrollerBP/Maps/Level_2.Level_2:PersistentLevel.397435__foolboymedia__crowd-cheer-ii_Cue_2.AudioComponent0) Not currently registered. Aborting.
